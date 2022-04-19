@@ -1,0 +1,4494 @@
+,level,position,salaries
+0,Middle,Back-end Developer,15.000
+1,Junior,Front-end Developer,8.000
+2,Middle,Back-end Developer,15.000
+3,Junior,Full Stack Developer,10.000
+4,Junior,Back-end Developer,5.000
+5,Middle,Mobile Application Developer,12.000
+6,Junior,Back-end Developer,8.000
+8,Middle,Full Stack Developer,7.000
+9,Senior,Back-end Developer,15.000
+10,Senior,Mobile Application Developer,24.000
+11,Junior,Full Stack Developer,5.000
+12,Senior,Front-end Developer,21.000
+14,Senior,Full Stack Developer,21.000
+15,Junior,Back-end Developer,16.000
+17,Middle,Back-end Developer,11.000
+18,Senior,Embedded Software Developer,25.000
+19,Junior,Back-end Developer,6.000
+20,Senior,Back-end Developer,22.000
+23,Middle,Front-end Developer,10.000
+24,Senior,Team / Tech Lead,20.000
+25,Middle,Full Stack Developer,11.000
+26,Senior,Full Stack Developer,21.000
+27,Middle,Back-end Developer,16.000
+28,Middle,Back-end Developer,17.000
+30,Junior,Full Stack Developer,11.000
+32,Senior,Team / Tech Lead,25.000
+33,Senior,Team / Tech Lead,18.000
+34,Junior,Full Stack Developer,8.000
+35,Middle,Back-end Developer,25.000
+36,Middle,Back-end Developer,21.000
+37,Senior,Back-end Developer,20.000
+38,Middle,Full Stack Developer,10.000
+39,Junior,Front-end Developer,7.000
+40,Middle,Back-end Developer,15.000
+41,Senior,Team / Tech Lead,13.000
+42,Senior,Front-end Developer,12.000
+43,Junior,Front-end Developer,6.000
+44,Junior,Back-end Developer,8.000
+45,Senior,Back-end Developer,22.000
+46,Senior,Back-end Developer,27.000
+48,Junior,Full Stack Developer,6.000
+49,Middle,Embedded Software Developer,13.000
+50,Senior,Game Developer,30.000
+51,Junior,Back-end Developer,10.000
+52,Junior,Back-end Developer,6.000
+53,Junior,Mobile Application Developer,13.000
+54,Junior,Front-end Developer,5.000
+55,Junior,Embedded Software Developer,13.000
+56,Middle,Full Stack Developer,11.000
+57,Middle,Data Scientist,18.000
+58,Junior,Game Developer,9.000
+59,Middle,Mobile Application Developer,12.000
+60,Senior,Full Stack Developer,6.000
+61,Middle,Front-end Developer,15.000
+62,Junior,Back-end Developer,9.000
+64,Senior,Back-end Developer,14.000
+65,Middle,Back-end Developer,26.000
+66,Senior,Back-end Developer,19.000
+67,Senior,Mobile Application Developer,25.000
+68,Middle,Back-end Developer,12.000
+70,Middle,Team / Tech Lead,22.000
+71,Middle,Full Stack Developer,9.000
+72,Senior,Full Stack Developer,30.000
+74,Senior,Front-end Developer,20.000
+76,Senior,Back-end Developer,25.000
+78,Senior,Team / Tech Lead,20.000
+79,Senior,Back-end Developer,18.000
+80,Middle,Back-end Developer,17.000
+81,Junior,Game Developer,5.000
+82,Senior,Software Architect,23.000
+83,Middle,Back-end Developer,17.000
+85,Junior,Back-end Developer,9.000
+86,Middle,RPA Developer,16.000
+87,Senior,Back-end Developer,19.000
+88,Middle,Back-end Developer,9.000
+89,Middle,Full Stack Developer,16.000
+90,Junior,Mobile Application Developer,11.000
+92,Middle,Back-end Developer,16.000
+93,Junior,Full Stack Developer,5.000
+94,Junior,Back-end Developer,6.000
+95,Junior,Computer Vision Engineer,5.000
+96,Middle,Full Stack Developer,20.000
+97,Junior,Front-end Developer,15.000
+98,Middle,Back-end Developer,19.000
+99,Middle,Front-end Developer,28.000
+101,Senior,Back-end Developer,22.000
+102,Middle,Mobile Application Developer,10.000
+103,Senior,Back-end Developer,20.000
+104,Senior,Back-end Developer,26.000
+106,Middle,Full Stack Developer,15.000
+107,Senior,Full Stack Developer,17.000
+108,Senior,Back-end Developer,27.000
+109,Junior,Mobile Application Developer,8.000
+110,Senior,Back-end Developer,16.000
+111,Junior,QA / Test Automation Developer,6.000
+112,Senior,Back-end Developer,15.000
+113,Junior,Back-end Developer,12.000
+114,Middle,Front-end Developer,12.000
+115,Senior,Full Stack Developer,26.000
+116,Middle,Full Stack Developer,16.000
+117,Junior,Full Stack Developer,5.000
+118,Middle,Game Developer,25.000
+119,Senior,Full Stack Developer,6.000
+120,Middle,Back-end Developer,14.000
+121,Senior,Full Stack Developer,10.000
+122,Senior,Back-end Developer,15.000
+123,Junior,Full Stack Developer,7.000
+124,Senior,Full Stack Developer,19.000
+125,Middle,Full Stack Developer,11.000
+126,Middle,Back-end Developer,27.000
+127,Senior,Full Stack Developer,14.000
+128,Middle,Full Stack Developer,13.000
+129,Middle,Full Stack Developer,17.000
+130,Middle,Full Stack Developer,21.000
+131,Senior,Software Development Manager,39.000
+132,Middle,Back-end Developer,15.000
+133,Junior,Mobile Application Developer,9.000
+134,Senior,Back-end Developer,18.000
+135,Middle,Front-end Developer,20.000
+136,Middle,Back-end Developer,9.000
+137,Middle,Front-end Developer,12.000
+138,Middle,QA / Test Automation Developer,16.000
+139,Senior,Team / Tech Lead,29.000
+140,Middle,Mobile Application Developer,15.000
+141,Middle,Back-end Developer,25.000
+142,Middle,Front-end Developer,20.000
+143,Middle,Mobile Application Developer,15.000
+144,Junior,Front-end Developer,7.000
+145,Senior,Back-end Developer,24.000
+146,Middle,Front-end Developer,20.000
+147,Junior,QA / Test Automation Developer,10.000
+148,Middle,DevOps Engineer,17.000
+150,Middle,Front-end Developer,17.000
+151,Junior,Front-end Developer,18.000
+153,Middle,Full Stack Developer,13.000
+154,Senior,Team / Tech Lead,15.000
+155,Senior,Mobile Application Developer,30.000
+156,Senior,Team / Tech Lead,16.000
+157,Junior,Mobile Application Developer,8.000
+159,Junior,Back-end Developer,9.000
+160,Middle,Full Stack Developer,10.000
+161,Senior,Back-end Developer,10.000
+162,Middle,Data Analyst,40.000
+163,Senior,Full Stack Developer,23.000
+165,Middle,Full Stack Developer,10.000
+166,Middle,Front-end Developer,9.000
+167,Junior,Back-end Developer,17.000
+168,Senior,Data Engineer,18.000
+169,Junior,Front-end Developer,5.000
+170,Senior,Front-end Developer,30.000
+172,Junior,Back-end Developer,5.000
+173,Senior,Team / Tech Lead,37.000
+174,Junior,Front-end Developer,19.000
+175,Middle,Mobile Application Developer,16.000
+177,Junior,Mobile Application Developer,7.000
+179,Junior,Back-end Developer,5.000
+180,Junior,QA / Test Automation Developer,7.000
+182,Senior,Front-end Developer,12.000
+183,Senior,Full Stack Developer,7.000
+184,Senior,CTO,25.000
+185,Senior,Software Architect,15.000
+186,Senior,Mobile Application Developer,35.000
+187,Senior,Mobile Application Developer,19.000
+188,Senior,Mobile Application Developer,23.000
+189,Middle,Full Stack Developer,20.000
+190,Middle,Mobile Application Developer,22.000
+191,Junior,Full Stack Developer,10.000
+192,Senior,Back-end Developer,17.000
+193,Middle,Back-end Developer,10.000
+194,Senior,Full Stack Developer,14.000
+195,Middle,Full Stack Developer,13.000
+197,Junior,Front-end Developer,6.000
+199,Senior,Embedded Software Developer,15.000
+200,Middle,Full Stack Developer,16.000
+201,Senior,Front-end Developer,27.000
+202,Senior,Team / Tech Lead,14.000
+203,Senior,Team / Tech Lead,32.000
+205,Junior,Front-end Developer,8.000
+206,Senior,Mobile Application Developer,50.000
+207,Senior,DevOps Engineer,10.000
+208,Middle,Back-end Developer,15.000
+209,Junior,Mobile Application Developer,10.000
+210,Senior,Software Architect,20.000
+211,Junior,Back-end Developer,5.000
+212,Senior,Mobile Application Developer,27.000
+213,Senior,Mobile Application Developer,21.000
+214,Senior,Front-end Developer,8.000
+215,Senior,Full Stack Developer,20.000
+216,Senior,Full Stack Developer,50.000
+217,Junior,Back-end Developer,11.000
+218,Junior,Back-end Developer,7.000
+219,Middle,Back-end Developer,17.000
+220,Middle,Machine Learning,9.000
+221,Junior,Full Stack Developer,9.000
+222,Middle,Back-end Developer,13.000
+223,Middle,Full Stack Developer,13.000
+224,Senior,Front-end Developer,16.000
+225,Middle,Full Stack Developer,9.000
+226,Senior,Full Stack Developer,13.000
+227,Middle,Full Stack Developer,17.000
+228,Middle,Full Stack Developer,15.000
+229,Middle,DevOps Engineer,18.000
+230,Middle,Front-end Developer,7.000
+231,Middle,Full Stack Developer,15.000
+232,Junior,Front-end Developer,8.000
+233,Junior,Back-end Developer,8.000
+234,Senior,Back-end Developer,16.000
+236,Middle,Full Stack Developer,9.000
+237,Junior,Mobile Application Developer,5.000
+239,Middle,Mobile Application Developer,15.000
+240,Junior,Mobile Application Developer,7.000
+241,Junior,Mobile Application Developer,8.000
+242,Middle,QA / Test Automation Developer,20.000
+243,Senior,Front-end Developer,9.000
+244,Senior,Data Analyst,13.000
+245,Senior,Back-end Developer,16.000
+246,Senior,Team / Tech Lead,50.000
+247,Senior,Full Stack Developer,17.000
+248,Middle,Mobile Application Developer,13.000
+249,Middle,Front-end Developer,18.000
+250,Middle,Full Stack Developer,17.000
+251,Junior,Front-end Developer,9.000
+252,Senior,QA / Test Automation Developer,19.000
+253,Junior,Back-end Developer,5.000
+254,Junior,Machine Learning,7.000
+255,Junior,Full Stack Developer,6.000
+256,Junior,Back-end Developer,5.000
+257,Junior,Mobile Application Developer,5.000
+258,Middle,Full Stack Developer,13.000
+259,Middle,Full Stack Developer,10.000
+260,Junior,Back-end Developer,7.000
+262,Middle,Back-end Developer,19.000
+264,Junior,Front-end Developer,8.000
+265,Senior,Full Stack Developer,25.000
+266,Senior,Team / Tech Lead,21.000
+267,Senior,Back-end Developer,22.000
+268,Senior,CTO,21.000
+269,Junior,Mobile Application Developer,9.000
+270,Middle,Front-end Developer,8.000
+271,Junior,Back-end Developer,9.000
+272,Junior,Back-end Developer,7.000
+273,Senior,Full Stack Developer,25.000
+274,Middle,Back-end Developer,14.000
+275,Junior,Full Stack Developer,9.000
+276,Junior,Full Stack Developer,7.000
+277,Senior,Full Stack Developer,5.000
+279,Junior,Back-end Developer,8.000
+280,Senior,Mobile Application Developer,33.000
+281,Senior,Front-end Developer,18.000
+282,Middle,Back-end Developer,8.000
+284,Middle,Full Stack Developer,23.000
+285,Senior,Game Developer,10.000
+286,Senior,Back-end Developer,9.000
+287,Middle,Mobile Application Developer,15.000
+288,Middle,Mobile Application Developer,15.000
+290,Senior,Full Stack Developer,20.000
+291,Junior,Back-end Developer,8.000
+292,Middle,Data Scientist,15.000
+293,Senior,Full Stack Developer,27.000
+294,Junior,Mobile Application Developer,5.000
+295,Senior,Software Architect,35.000
+296,Junior,DevOps Engineer,7.000
+297,Senior,Full Stack Developer,15.000
+298,Middle,QA / Test Automation Developer,20.000
+299,Senior,Front-end Developer,20.000
+300,Middle,Mobile Application Developer,13.000
+301,Junior,Game Developer,6.000
+304,Junior,Back-end Developer,8.000
+305,Senior,Back-end Developer,22.000
+306,Senior,Front-end Developer,50.000
+307,Junior,QA / Test Automation Developer,6.000
+308,Middle,Full Stack Developer,22.000
+309,Junior,Front-end Developer,16.000
+310,Junior,Team / Tech Lead,7.000
+312,Middle,Machine Learning,10.000
+314,Middle,Full Stack Developer,15.000
+315,Middle,Machine Learning,25.000
+317,Senior,Full Stack Developer,29.000
+319,Senior,Mobile Application Developer,20.000
+320,Senior,Back-end Developer,22.000
+321,Middle,Game Developer,8.000
+322,Senior,Full Stack Developer,19.000
+323,Junior,Mobile Application Developer,11.000
+324,Middle,Front-end Developer,40.000
+325,Junior,Back-end Developer,9.000
+326,Middle,Full Stack Developer,8.000
+327,Senior,Team / Tech Lead,14.000
+328,Junior,QA / Test Automation Developer,12.000
+329,Senior,Full Stack Developer,12.000
+330,Senior,Mobile Application Developer,30.000
+331,Middle,Database Administrator,10.000
+332,Junior,Full Stack Developer,50.000
+334,Senior,Back-end Developer,11.000
+335,Senior,Mobile Application Developer,18.000
+336,Senior,Database Administrator,29.000
+337,Senior,Full Stack Developer,8.000
+338,Middle,Front-end Developer,10.000
+339,Senior,Back-end Developer,32.000
+340,Junior,Computer Vision Engineer,8.000
+341,Senior,Team / Tech Lead,23.000
+343,Senior,Game Developer,35.000
+344,Middle,Back-end Developer,14.000
+347,Middle,Game Developer,10.000
+348,Junior,Front-end Developer,5.000
+349,Senior,Software Architect,30.000
+351,Junior,Back-end Developer,19.000
+352,Junior,Front-end Developer,9.000
+353,Senior,Back-end Developer,35.000
+354,Senior,Full Stack Developer,28.000
+355,Junior,Game Developer,9.000
+356,Middle,Back-end Developer,15.000
+357,Senior,Front-end Developer,15.000
+358,Junior,Front-end Developer,9.000
+359,Middle,QA / Test Automation Developer,9.000
+360,Senior,Back-end Developer,22.000
+361,Middle,Full Stack Developer,10.000
+362,Middle,Back-end Developer,10.000
+363,Junior,DevOps Engineer,10.000
+364,Senior,Full Stack Developer,20.000
+365,Senior,Team / Tech Lead,25.000
+366,Senior,Mobile Application Developer,17.000
+367,Senior,Team / Tech Lead,21.000
+369,Junior,Mobile Application Developer,10.000
+370,Senior,Back-end Developer,25.000
+371,Junior,Back-end Developer,6.000
+372,Senior,Software Development Manager,40.000
+373,Senior,Software Development Manager,50.000
+374,Senior,Team / Tech Lead,20.000
+375,Senior,Team / Tech Lead,23.000
+377,Junior,Front-end Developer,8.000
+378,Senior,Team / Tech Lead,29.000
+379,Junior,Back-end Developer,8.000
+380,Middle,Full Stack Developer,16.000
+381,Senior,Mobile Application Developer,26.000
+382,Senior,Full Stack Developer,15.000
+383,Junior,Full Stack Developer,11.000
+384,Middle,Back-end Developer,17.000
+385,Senior,Full Stack Developer,11.000
+386,Middle,Full Stack Developer,9.000
+387,Junior,Back-end Developer,6.000
+388,Senior,Back-end Developer,14.000
+389,Junior,Full Stack Developer,7.000
+390,Junior,Embedded Software Developer,11.000
+391,Middle,Front-end Developer,16.000
+394,Middle,QA / Test Automation Developer,10.000
+395,Senior,Back-end Developer,20.000
+397,Senior,Back-end Developer,22.000
+398,Senior,Software Architect,30.000
+399,Middle,Back-end Developer,11.000
+400,Middle,Back-end Developer,29.000
+401,Junior,Back-end Developer,25.000
+403,Junior,Mobile Application Developer,5.000
+404,Senior,Team / Tech Lead,22.000
+405,Middle,Back-end Developer,21.000
+406,Junior,IT Specialist,8.000
+408,Senior,Back-end Developer,19.000
+409,Middle,Back-end Developer,9.000
+410,Middle,Back-end Developer,14.000
+411,Senior,Full Stack Developer,20.000
+413,Junior,Mobile Application Developer,5.000
+414,Junior,Back-end Developer,11.000
+415,Middle,Full Stack Developer,7.000
+416,Senior,Back-end Developer,23.000
+417,Senior,Team / Tech Lead,24.000
+418,Senior,Project & Product Manager / PO,24.000
+419,Senior,Full Stack Developer,24.000
+420,Middle,Back-end Developer,11.000
+421,Middle,Back-end Developer,19.000
+422,Senior,Full Stack Developer,19.000
+423,Senior,Mobile Application Developer,20.000
+424,Senior,Mobile Application Developer,24.000
+425,Senior,Team / Tech Lead,25.000
+426,Junior,QA / Test Automation Developer,17.000
+427,Junior,Back-end Developer,10.000
+428,Senior,Database Administrator,16.000
+429,Senior,Back-end Developer,31.000
+430,Middle,Full Stack Developer,11.000
+431,Senior,Full Stack Developer,22.000
+432,Senior,Mobile Application Developer,19.000
+433,Junior,Computer Vision Engineer,9.000
+434,Junior,Front-end Developer,5.000
+435,Middle,Back-end Developer,20.000
+436,Senior,Full Stack Developer,20.000
+437,Senior,Full Stack Developer,30.000
+438,Junior,Front-end Developer,13.000
+439,Senior,Mobile Application Developer,15.000
+440,Senior,Team / Tech Lead,17.000
+441,Senior,Back-end Developer,15.000
+443,Middle,Full Stack Developer,9.000
+444,Middle,Front-end Developer,13.000
+445,Senior,Software Architect,27.000
+446,Middle,Full Stack Developer,25.000
+447,Senior,Full Stack Developer,30.000
+448,Middle,Team / Tech Lead,13.000
+449,Middle,Software Architect,20.000
+450,Middle,Back-end Developer,17.000
+451,Senior,Full Stack Developer,18.000
+452,Senior,QA / Test Automation Developer,21.000
+453,Senior,Team / Tech Lead,35.000
+454,Middle,Full Stack Developer,14.000
+455,Senior,Full Stack Developer,31.000
+456,Middle,Full Stack Developer,9.000
+457,Middle,Full Stack Developer,20.000
+458,Middle,IT Specialist,5.000
+459,Junior,Full Stack Developer,8.000
+461,Junior,DevOps Engineer,14.000
+462,Middle,Embedded Software Developer,16.000
+463,Senior,Team / Tech Lead,42.000
+464,Senior,Back-end Developer,16.000
+465,Middle,Full Stack Developer,15.000
+466,Junior,Back-end Developer,8.000
+467,Junior,Mobile Application Developer,13.000
+468,Senior,Project & Product Manager / PO,25.000
+469,Middle,Full Stack Developer,15.000
+470,Senior,Front-end Developer,10.000
+471,Senior,Software Architect,28.000
+472,Junior,Back-end Developer,5.000
+473,Senior,Software Development Manager,25.000
+474,Senior,Back-end Developer,17.000
+475,Senior,Back-end Developer,18.000
+476,Senior,Team / Tech Lead,20.000
+477,Senior,Team / Tech Lead,34.000
+478,Junior,Back-end Developer,8.000
+479,Junior,Team / Tech Lead,7.000
+480,Senior,Full Stack Developer,15.000
+481,Senior,Software Development Manager,40.000
+482,Junior,Software Development Manager,12.000
+483,Middle,Front-end Developer,15.000
+484,Senior,Full Stack Developer,20.000
+485,Senior,Team / Tech Lead,33.000
+486,Middle,Back-end Developer,12.000
+487,Senior,Team / Tech Lead,25.000
+488,Middle,Back-end Developer,8.000
+489,Middle,Front-end Developer,15.000
+490,Senior,Full Stack Developer,20.000
+491,Senior,Full Stack Developer,22.000
+492,Senior,Back-end Developer,16.000
+493,Middle,Front-end Developer,11.000
+494,Senior,Software Architect,35.000
+495,Senior,Consultant,13.000
+496,Middle,Front-end Developer,33.000
+497,Senior,CTO,15.000
+498,Senior,Front-end Developer,15.000
+499,Middle,Back-end Developer,20.000
+500,Middle,Back-end Developer,14.000
+501,Middle,Back-end Developer,14.000
+502,Middle,Front-end Developer,15.000
+503,Senior,Mobile Application Developer,22.000
+504,Junior,Front-end Developer,6.000
+505,Senior,Team / Tech Lead,19.000
+506,Senior,Team / Tech Lead,32.000
+507,Junior,Full Stack Developer,7.000
+508,Junior,Front-end Developer,18.000
+509,Senior,Back-end Developer,12.000
+510,Middle,Back-end Developer,14.000
+511,Middle,Mobile Application Developer,12.000
+512,Middle,Full Stack Developer,15.000
+513,Senior,Back-end Developer,30.000
+514,Senior,R&D Engineer,9.000
+515,Senior,Back-end Developer,20.000
+516,Middle,Full Stack Developer,14.000
+517,Senior,Full Stack Developer,15.000
+518,Senior,Team / Tech Lead,24.000
+519,Senior,Back-end Developer,23.000
+520,Senior,Software Architect,23.000
+522,Senior,Team / Tech Lead,25.000
+523,Senior,Back-end Developer,34.000
+524,Junior,Full Stack Developer,10.000
+525,Middle,Full Stack Developer,14.000
+526,Senior,Team / Tech Lead,17.000
+527,Middle,Back-end Developer,6.000
+528,Senior,Team / Tech Lead,18.000
+529,Senior,Back-end Developer,28.000
+530,Senior,Team / Tech Lead,29.000
+531,Middle,Front-end Developer,5.000
+532,Middle,Team / Tech Lead,10.000
+533,Middle,Back-end Developer,12.000
+534,Middle,Full Stack Developer,7.000
+535,Middle,Full Stack Developer,19.000
+536,Senior,QA / Test Automation Developer,12.000
+537,Middle,Full Stack Developer,14.000
+538,Senior,Team / Tech Lead,29.000
+539,Junior,Data Analyst,7.000
+540,Senior,Front-end Developer,20.000
+541,Junior,Back-end Developer,8.000
+542,Senior,Full Stack Developer,19.000
+543,Senior,Full Stack Developer,23.000
+544,Senior,Back-end Developer,18.000
+545,Middle,Back-end Developer,23.000
+546,Senior,Mobile Application Developer,27.000
+547,Middle,Mobile Application Developer,8.000
+548,Senior,Team / Tech Lead,30.000
+549,Senior,Back-end Developer,18.000
+550,Senior,Embedded Software Developer,19.000
+552,Senior,Front-end Developer,28.000
+553,Senior,Software Development Manager,49.000
+554,Senior,Back-end Developer,20.000
+555,Senior,Back-end Developer,13.000
+556,Senior,Full Stack Developer,22.000
+557,Senior,Back-end Developer,18.000
+558,Junior,Full Stack Developer,6.000
+559,Junior,DevOps Engineer,11.000
+560,Middle,Full Stack Developer,10.000
+561,Middle,Back-end Developer,23.000
+562,Middle,Front-end Developer,15.000
+563,Senior,Full Stack Developer,23.000
+564,Middle,Full Stack Developer,17.000
+565,Senior,Software Development Manager,34.000
+566,Junior,Full Stack Developer,5.000
+567,Senior,Team / Tech Lead,47.000
+568,Middle,Full Stack Developer,18.000
+569,Junior,Front-end Developer,9.000
+570,Senior,Full Stack Developer,30.000
+573,Middle,Mobile Application Developer,15.000
+574,Senior,Full Stack Developer,14.000
+575,Senior,Full Stack Developer,13.000
+576,Junior,Front-end Developer,8.000
+577,Middle,Front-end Developer,15.000
+578,Senior,Software Architect,26.000
+579,Middle,Back-end Developer,12.000
+580,Junior,DevOps Engineer,6.000
+581,Senior,Full Stack Developer,16.000
+582,Junior,Game Developer,50.000
+583,Senior,Software Architect,28.000
+584,Middle,Full Stack Developer,10.000
+585,Middle,Back-end Developer,27.000
+586,Junior,Full Stack Developer,19.000
+587,Middle,Full Stack Developer,6.000
+588,Middle,Full Stack Developer,6.000
+589,Junior,Back-end Developer,6.000
+591,Senior,Software Development Manager,50.000
+592,Senior,Back-end Developer,12.000
+593,Middle,Mobile Application Developer,13.000
+594,Senior,Back-end Developer,18.000
+595,Middle,Back-end Developer,14.000
+596,Senior,Full Stack Developer,25.000
+597,Middle,Full Stack Developer,16.000
+598,Senior,Back-end Developer,15.000
+599,Junior,Full Stack Developer,8.000
+600,Junior,Mobile Application Developer,10.000
+601,Junior,Front-end Developer,10.000
+602,Middle,Mobile Application Developer,6.000
+603,Middle,Back-end Developer,13.000
+604,Senior,Front-end Developer,27.000
+605,Junior,Data Scientist,8.000
+606,Junior,Full Stack Developer,12.000
+607,Middle,Machine Learning,12.000
+608,Senior,Mobile Application Developer,31.000
+609,Middle,Back-end Developer,11.000
+610,Senior,Back-end Developer,14.000
+611,Middle,Mobile Application Developer,15.000
+612,Junior,Back-end Developer,10.000
+613,Middle,Front-end Developer,15.000
+614,Junior,Back-end Developer,6.000
+615,Senior,Software Development Manager,35.000
+616,Senior,Back-end Developer,19.000
+617,Junior,DevOps Engineer,10.000
+618,Senior,Full Stack Developer,31.000
+619,Middle,Back-end Developer,9.000
+620,Senior,Back-end Developer,36.000
+621,Senior,Full Stack Developer,25.000
+622,Senior,Back-end Developer,16.000
+625,Senior,Full Stack Developer,26.000
+626,Senior,Team / Tech Lead,29.000
+627,Middle,Embedded Software Developer,15.000
+629,Middle,Front-end Developer,10.000
+630,Middle,Full Stack Developer,29.000
+631,Junior,Back-end Developer,7.000
+632,Middle,Mobile Application Developer,12.000
+633,Senior,Full Stack Developer,17.000
+634,Senior,Back-end Developer,35.000
+635,Senior,Software Development Manager,50.000
+636,Middle,Full Stack Developer,14.000
+637,Junior,Back-end Developer,17.000
+638,Junior,Mobile Application Developer,5.000
+639,Senior,Back-end Developer,20.000
+640,Middle,Back-end Developer,14.000
+641,Senior,Software Development Manager,30.000
+642,Senior,Full Stack Developer,15.000
+643,Middle,CTO,24.000
+644,Senior,Full Stack Developer,24.000
+645,Junior,Front-end Developer,15.000
+646,Senior,CTO,37.000
+647,Middle,Front-end Developer,6.000
+648,Middle,Full Stack Developer,12.000
+649,Senior,Back-end Developer,18.000
+650,Senior,Full Stack Developer,24.000
+651,Junior,QA / Test Automation Developer,14.000
+652,Junior,QA / Test Automation Developer,5.000
+653,Junior,Full Stack Developer,9.000
+654,Senior,Team / Tech Lead,22.000
+655,Senior,Back-end Developer,18.000
+656,Senior,Mobile Application Developer,33.000
+657,Middle,Front-end Developer,10.000
+658,Junior,Full Stack Developer,8.000
+659,Senior,Mobile Application Developer,33.000
+660,Junior,Back-end Developer,5.000
+661,Senior,Software Development Manager,27.000
+662,Senior,Team / Tech Lead,25.000
+663,Middle,Front-end Developer,16.000
+664,Middle,Front-end Developer,11.000
+665,Senior,Mobile Application Developer,24.000
+666,Junior,Back-end Developer,8.000
+667,Senior,Full Stack Developer,21.000
+668,Middle,Full Stack Developer,13.000
+669,Senior,Software Development Manager,30.000
+670,Middle,Front-end Developer,12.000
+671,Junior,Back-end Developer,9.000
+672,Senior,Back-end Developer,20.000
+673,Middle,Game Developer,12.000
+674,Middle,Full Stack Developer,20.000
+676,Senior,Back-end Developer,21.000
+677,Junior,Back-end Developer,8.000
+678,Senior,Full Stack Developer,22.000
+679,Junior,Full Stack Developer,6.000
+680,Middle,Back-end Developer,12.000
+681,Middle,Team / Tech Lead,13.000
+682,Senior,Full Stack Developer,17.000
+683,Senior,Back-end Developer,18.000
+684,Junior,Full Stack Developer,9.000
+685,Senior,Front-end Developer,35.000
+686,Senior,Back-end Developer,25.000
+687,Junior,Data Engineer,6.000
+688,Junior,Full Stack Developer,6.000
+689,Senior,Full Stack Developer,32.000
+690,Senior,Full Stack Developer,22.000
+691,Senior,Software Development Manager,22.000
+692,Senior,Software Architect,22.000
+693,Middle,Back-end Developer,11.000
+694,Senior,Software Development Manager,20.000
+695,Junior,Back-end Developer,9.000
+696,Junior,Full Stack Developer,7.000
+697,Senior,Software Architect,26.000
+698,Senior,Full Stack Developer,27.000
+700,Junior,Mobile Application Developer,5.000
+701,Middle,Full Stack Developer,7.000
+702,Senior,Full Stack Developer,14.000
+703,Junior,Full Stack Developer,7.000
+704,Junior,Full Stack Developer,6.000
+705,Senior,Software Development Manager,33.000
+706,Senior,Embedded Software Developer,21.000
+708,Middle,Full Stack Developer,23.000
+709,Middle,Full Stack Developer,12.000
+710,Senior,Full Stack Developer,10.000
+711,Senior,Team / Tech Lead,25.000
+714,Senior,DevOps Engineer,35.000
+715,Middle,Back-end Developer,27.000
+716,Senior,Full Stack Developer,16.000
+717,Middle,Mobile Application Developer,8.000
+718,Senior,Mobile Application Developer,20.000
+719,Junior,Full Stack Developer,11.000
+720,Junior,Front-end Developer,10.000
+721,Middle,Full Stack Developer,7.000
+722,Middle,Mobile Application Developer,13.000
+723,Senior,Mobile Application Developer,28.000
+725,Middle,Back-end Developer,8.000
+726,Middle,Back-end Developer,14.000
+727,Middle,Embedded Software Developer,19.000
+728,Junior,Mobile Application Developer,5.000
+729,Senior,Back-end Developer,18.000
+730,Senior,Back-end Developer,21.000
+733,Junior,Back-end Developer,8.000
+735,Senior,Back-end Developer,18.000
+736,Junior,Full Stack Developer,7.000
+737,Senior,Software Development Manager,50.000
+739,Junior,Front-end Developer,6.000
+740,Middle,Back-end Developer,12.000
+741,Middle,Full Stack Developer,11.000
+743,Senior,Full Stack Developer,11.000
+744,Senior,Full Stack Developer,27.000
+746,Senior,Full Stack Developer,20.000
+747,Middle,Mobile Application Developer,19.000
+748,Senior,Front-end Developer,23.000
+749,Junior,Back-end Developer,6.000
+750,Senior,Back-end Developer,19.000
+751,Middle,Full Stack Developer,35.000
+752,Senior,Front-end Developer,26.000
+753,Junior,Game Developer,11.000
+754,Junior,Front-end Developer,8.000
+756,Middle,Front-end Developer,7.000
+758,Middle,Back-end Developer,10.000
+759,Senior,Back-end Developer,12.000
+760,Junior,Full Stack Developer,6.000
+762,Junior,Front-end Developer,12.000
+763,Senior,Full Stack Developer,18.000
+764,Middle,Back-end Developer,22.000
+765,Middle,Full Stack Developer,5.000
+766,Middle,Full Stack Developer,17.000
+767,Senior,Full Stack Developer,8.000
+768,Senior,Back-end Developer,23.000
+769,Senior,Support Engineer,15.000
+770,Junior,Full Stack Developer,5.000
+771,Middle,Back-end Developer,15.000
+772,Junior,Mobile Application Developer,10.000
+773,Senior,Full Stack Developer,20.000
+774,Senior,Software Architect,43.000
+775,Senior,Full Stack Developer,13.000
+776,Senior,Team / Tech Lead,24.000
+777,Junior,Full Stack Developer,7.000
+778,Junior,Back-end Developer,12.000
+780,Senior,Full Stack Developer,17.000
+781,Senior,Full Stack Developer,25.000
+782,Junior,Back-end Developer,10.000
+783,Junior,Back-end Developer,15.000
+784,Junior,Full Stack Developer,7.000
+785,Middle,QA / Test Automation Developer,15.000
+786,Middle,Back-end Developer,10.000
+787,Junior,Full Stack Developer,9.000
+788,Junior,Back-end Developer,8.000
+789,Senior,Team / Tech Lead,18.000
+790,Middle,Full Stack Developer,14.000
+791,Senior,Software Architect,25.000
+792,Middle,Front-end Developer,15.000
+793,Junior,Front-end Developer,8.000
+794,Senior,Back-end Developer,23.000
+795,Junior,Mobile Application Developer,11.000
+796,Middle,Data Analyst,9.000
+797,Junior,Front-end Developer,11.000
+798,Middle,Full Stack Developer,11.000
+799,Senior,Full Stack Developer,17.000
+800,Senior,Full Stack Developer,10.000
+801,Senior,Full Stack Developer,15.000
+802,Junior,Front-end Developer,6.000
+803,Junior,Full Stack Developer,15.000
+804,Junior,Front-end Developer,6.000
+805,Middle,Mobile Application Developer,18.000
+806,Middle,Back-end Developer,8.000
+807,Junior,Full Stack Developer,8.000
+808,Middle,Back-end Developer,13.000
+809,Middle,Full Stack Developer,12.000
+810,Senior,Full Stack Developer,50.000
+811,Junior,Back-end Developer,13.000
+812,Middle,Full Stack Developer,16.000
+814,Junior,Mobile Application Developer,14.000
+815,Senior,Full Stack Developer,18.000
+816,Senior,Back-end Developer,22.000
+817,Junior,Front-end Developer,13.000
+818,Senior,Back-end Developer,20.000
+819,Middle,Back-end Developer,7.000
+820,Senior,Mobile Application Developer,20.000
+821,Senior,Full Stack Developer,17.000
+822,Senior,Full Stack Developer,19.000
+823,Junior,Full Stack Developer,7.000
+824,Junior,Full Stack Developer,6.000
+825,Senior,DevOps Engineer,22.000
+827,Junior,Full Stack Developer,11.000
+828,Middle,Full Stack Developer,14.000
+829,Senior,Mobile Application Developer,21.000
+830,Senior,Back-end Developer,18.000
+831,Middle,Mobile Application Developer,12.000
+832,Senior,Team / Tech Lead,28.000
+833,Middle,Full Stack Developer,12.000
+834,Middle,Back-end Developer,25.000
+835,Senior,Business Analyst,25.000
+836,Senior,Team / Tech Lead,25.000
+839,Middle,Front-end Developer,11.000
+840,Senior,Full Stack Developer,12.000
+841,Senior,Full Stack Developer,16.000
+842,Senior,Full Stack Developer,18.000
+843,Middle,Back-end Developer,23.000
+845,Junior,Full Stack Developer,7.000
+846,Senior,Back-end Developer,20.000
+847,Middle,Full Stack Developer,7.000
+848,Middle,Mobile Application Developer,15.000
+849,Senior,Front-end Developer,13.000
+850,Middle,Full Stack Developer,22.000
+851,Senior,Full Stack Developer,23.000
+852,Middle,Back-end Developer,9.000
+853,Middle,Front-end Developer,16.000
+854,Junior,Full Stack Developer,10.000
+855,Senior,Team / Tech Lead,30.000
+856,Senior,Team / Tech Lead,30.000
+857,Junior,DevOps Engineer,9.000
+858,Senior,Software Architect,32.000
+860,Senior,Team / Tech Lead,27.000
+861,Middle,Full Stack Developer,5.000
+862,Senior,Full Stack Developer,17.000
+863,Junior,QA / Test Automation Developer,16.000
+864,Middle,DevOps Engineer,14.000
+865,Junior,QA / Test Automation Developer,13.000
+866,Senior,Software Architect,18.000
+867,Senior,Full Stack Developer,15.000
+868,Junior,Back-end Developer,8.000
+869,Senior,Full Stack Developer,23.000
+871,Senior,Full Stack Developer,22.000
+874,Senior,Full Stack Developer,19.000
+875,Middle,Back-end Developer,10.000
+876,Middle,Back-end Developer,10.000
+878,Senior,Full Stack Developer,9.000
+879,Middle,Front-end Developer,18.000
+880,Junior,Full Stack Developer,6.000
+881,Junior,Front-end Developer,6.000
+882,Senior,Full Stack Developer,32.000
+883,Senior,Mobile Application Developer,26.000
+884,Senior,Full Stack Developer,20.000
+886,Senior,Team / Tech Lead,15.000
+887,Junior,Back-end Developer,5.000
+888,Junior,Back-end Developer,11.000
+889,Junior,Front-end Developer,12.000
+890,Senior,Embedded Software Developer,18.000
+891,Junior,Data Scientist,9.000
+892,Senior,Full Stack Developer,32.000
+893,Junior,Full Stack Developer,7.000
+895,Middle,Full Stack Developer,16.000
+896,Senior,Full Stack Developer,16.000
+897,Junior,Mobile Application Developer,7.000
+898,Middle,Back-end Developer,13.000
+899,Senior,Back-end Developer,29.000
+900,Senior,Software Development Manager,18.000
+901,Junior,Back-end Developer,20.000
+902,Middle,Support Engineer,6.000
+903,Senior,Full Stack Developer,15.000
+904,Middle,Back-end Developer,17.000
+905,Junior,Full Stack Developer,18.000
+906,Senior,Full Stack Developer,24.000
+907,Senior,Back-end Developer,21.000
+908,Junior,Seo Specialist,5.000
+909,Junior,Full Stack Developer,15.000
+911,Senior,Team / Tech Lead,25.000
+912,Middle,Full Stack Developer,12.000
+913,Senior,Team / Tech Lead,25.000
+914,Senior,Full Stack Developer,17.000
+915,Senior,Back-end Developer,23.000
+916,Middle,Full Stack Developer,16.000
+917,Senior,Full Stack Developer,10.000
+919,Middle,Back-end Developer,25.000
+920,Senior,Back-end Developer,20.000
+921,Junior,Front-end Developer,9.000
+922,Senior,Back-end Developer,22.000
+923,Junior,Full Stack Developer,6.000
+924,Senior,DevOps Engineer,14.000
+928,Senior,Team / Tech Lead,33.000
+929,Junior,Full Stack Developer,9.000
+930,Middle,Mobile Application Developer,23.000
+931,Senior,Full Stack Developer,27.000
+932,Junior,SAP/ABAP/ERP Developer,5.000
+933,Junior,Mobile Application Developer,10.000
+934,Senior,Team / Tech Lead,14.000
+935,Senior,Full Stack Developer,19.000
+936,Middle,Mobile Application Developer,8.000
+938,Senior,Full Stack Developer,12.000
+939,Senior,Software Architect,22.000
+940,Junior,Mobile Application Developer,7.000
+941,Middle,Mobile Application Developer,12.000
+942,Junior,Back-end Developer,5.000
+943,Junior,Game Developer,15.000
+944,Senior,Software Architect,32.000
+946,Senior,Full Stack Developer,13.000
+947,Senior,Full Stack Developer,21.000
+948,Junior,Embedded Software Developer,15.000
+949,Junior,Back-end Developer,6.000
+950,Senior,Software Development Manager,18.000
+951,Middle,Mobile Application Developer,16.000
+952,Middle,Front-end Developer,13.000
+953,Senior,Mobile Application Developer,21.000
+954,Middle,Back-end Developer,8.000
+955,Senior,Full Stack Developer,15.000
+956,Senior,CTO,20.000
+959,Middle,Front-end Developer,10.000
+960,Middle,Full Stack Developer,7.000
+961,Junior,Back-end Developer,7.000
+962,Senior,Full Stack Developer,9.000
+963,Junior,SysAdmin,8.000
+964,Middle,Back-end Developer,10.000
+965,Junior,Full Stack Developer,5.000
+966,Junior,Mobile Application Developer,5.000
+967,Middle,Software Architect,25.000
+968,Senior,Front-end Developer,18.000
+969,Junior,Front-end Developer,7.000
+970,Senior,Team / Tech Lead,25.000
+971,Middle,Front-end Developer,10.000
+972,Junior,Full Stack Developer,9.000
+973,Junior,Data Analyst,10.000
+975,Senior,Back-end Developer,24.000
+976,Junior,Mobile Application Developer,12.000
+978,Middle,Mobile Application Developer,14.000
+979,Senior,Back-end Developer,15.000
+980,Middle,Full Stack Developer,18.000
+981,Middle,Back-end Developer,10.000
+982,Junior,Full Stack Developer,10.000
+983,Senior,Team / Tech Lead,22.000
+984,Middle,QA / Test Automation Developer,19.000
+985,Junior,Back-end Developer,10.000
+986,Junior,Mobile Application Developer,9.000
+987,Middle,Back-end Developer,11.000
+988,Senior,Full Stack Developer,15.000
+989,Senior,Software Development Manager,15.000
+990,Senior,Team / Tech Lead,27.000
+991,Senior,Software Development Manager,19.000
+992,Middle,Full Stack Developer,19.000
+993,Junior,Back-end Developer,18.000
+994,Middle,Back-end Developer,6.000
+995,Junior,Back-end Developer,9.000
+996,Senior,Back-end Developer,29.000
+997,Senior,Full Stack Developer,10.000
+998,Senior,Full Stack Developer,20.000
+999,Junior,Full Stack Developer,10.000
+1000,Senior,Full Stack Developer,17.000
+1001,Middle,Full Stack Developer,10.000
+1002,Junior,Back-end Developer,5.000
+1003,Senior,Full Stack Developer,44.000
+1004,Senior,Full Stack Developer,19.000
+1005,Senior,Game Developer,20.000
+1006,Senior,Back-end Developer,39.000
+1007,Senior,Team / Tech Lead,20.000
+1008,Senior,Full Stack Developer,20.000
+1009,Senior,Full Stack Developer,16.000
+1010,Senior,Full Stack Developer,18.000
+1012,Middle,Mobile Application Developer,12.000
+1013,Senior,Full Stack Developer,19.000
+1014,Junior,Full Stack Developer,9.000
+1015,Junior,Full Stack Developer,10.000
+1016,Middle,Full Stack Developer,14.000
+1017,Middle,Back-end Developer,15.000
+1018,Middle,Front-end Developer,9.000
+1019,Middle,Back-end Developer,8.000
+1020,Middle,Full Stack Developer,14.000
+1021,Senior,Support Engineer,20.000
+1022,Middle,DevOps Engineer,20.000
+1023,Senior,Full Stack Developer,15.000
+1024,Junior,Mobile Application Developer,5.000
+1025,Senior,Mobile Application Developer,24.000
+1026,Senior,Full Stack Developer,26.000
+1027,Senior,Back-end Developer,20.000
+1028,Senior,Back-end Developer,17.000
+1029,Middle,Back-end Developer,12.000
+1030,Middle,Full Stack Developer,14.000
+1031,Senior,Full Stack Developer,24.000
+1032,Middle,DevOps Engineer,11.000
+1033,Senior,Mobile Application Developer,19.000
+1034,Junior,Mobile Application Developer,8.000
+1035,Junior,Full Stack Developer,8.000
+1036,Junior,Back-end Developer,9.000
+1038,Senior,Full Stack Developer,21.000
+1039,Junior,Front-end Developer,5.000
+1040,Middle,Back-end Developer,14.000
+1041,Senior,Mobile Application Developer,19.000
+1042,Middle,Game Developer,11.000
+1043,Middle,DevOps Engineer,28.000
+1044,Senior,Full Stack Developer,18.000
+1045,Senior,Front-end Developer,21.000
+1046,Senior,Embedded Software Developer,11.000
+1047,Senior,Full Stack Developer,13.000
+1048,Middle,Full Stack Developer,15.000
+1049,Junior,Software Architect,11.000
+1050,Junior,SAP/ABAP/ERP Developer,11.000
+1051,Middle,Full Stack Developer,12.000
+1053,Junior,Full Stack Developer,8.000
+1054,Junior,Back-end Developer,6.000
+1055,Senior,Software Development Manager,40.000
+1056,Middle,Full Stack Developer,7.000
+1057,Middle,Full Stack Developer,14.000
+1058,Junior,Mobile Application Developer,50.000
+1059,Middle,Full Stack Developer,18.000
+1061,Senior,Full Stack Developer,20.000
+1062,Senior,Front-end Developer,16.000
+1063,Middle,SysAdmin,6.000
+1064,Senior,Team / Tech Lead,23.000
+1065,Middle,Back-end Developer,16.000
+1066,Senior,Team / Tech Lead,50.000
+1067,Senior,CTO,45.000
+1069,Junior,Back-end Developer,7.000
+1070,Senior,Team / Tech Lead,20.000
+1071,Middle,Back-end Developer,15.000
+1072,Middle,Back-end Developer,14.000
+1073,Middle,Back-end Developer,18.000
+1074,Senior,Back-end Developer,16.000
+1075,Junior,Full Stack Developer,11.000
+1076,Middle,DevOps Engineer,16.000
+1077,Middle,Embedded Software Developer,14.000
+1078,Middle,Back-end Developer,13.000
+1079,Middle,Full Stack Developer,12.000
+1080,Senior,Front-end Developer,20.000
+1081,Middle,Mobile Application Developer,8.000
+1082,Middle,Game Developer,14.000
+1083,Middle,Embedded Software Developer,12.000
+1084,Middle,Front-end Developer,13.000
+1085,Senior,Back-end Developer,19.000
+1086,Senior,Team / Tech Lead,11.000
+1087,Senior,Software Development Manager,43.000
+1088,Senior,Full Stack Developer,30.000
+1089,Middle,Full Stack Developer,24.000
+1090,Junior,Full Stack Developer,12.000
+1091,Senior,Team / Tech Lead,27.000
+1092,Senior,Back-end Developer,21.000
+1093,Senior,Full Stack Developer,15.000
+1094,Middle,Full Stack Developer,7.000
+1095,Middle,Front-end Developer,9.000
+1096,Senior,Front-end Developer,13.000
+1097,Senior,Mobile Application Developer,20.000
+1098,Senior,Full Stack Developer,26.000
+1099,Senior,Back-end Developer,20.000
+1100,Senior,Back-end Developer,15.000
+1101,Senior,Software Architect,27.000
+1102,Middle,Front-end Developer,5.000
+1103,Middle,Full Stack Developer,10.000
+1104,Middle,QA / Test Automation Developer,16.000
+1105,Senior,Full Stack Developer,28.000
+1106,Senior,Back-end Developer,23.000
+1107,Middle,Full Stack Developer,5.000
+1108,Senior,Full Stack Developer,15.000
+1109,Senior,Front-end Developer,18.000
+1110,Senior,Back-end Developer,21.000
+1111,Senior,Full Stack Developer,9.000
+1112,Junior,Back-end Developer,10.000
+1113,Senior,Software Development Manager,23.000
+1114,Middle,Full Stack Developer,7.000
+1116,Junior,Back-end Developer,9.000
+1117,Senior,Back-end Developer,17.000
+1118,Junior,Back-end Developer,21.000
+1119,Middle,Full Stack Developer,14.000
+1120,Senior,Software Development Manager,27.000
+1121,Senior,Team / Tech Lead,20.000
+1122,Junior,Front-end Developer,9.000
+1123,Junior,Mobile Application Developer,9.000
+1124,Middle,Mobile Application Developer,15.000
+1126,Middle,Front-end Developer,8.000
+1127,Junior,Back-end Developer,39.000
+1128,Senior,Front-end Developer,23.000
+1129,Junior,Mobile Application Developer,12.000
+1130,Middle,Back-end Developer,18.000
+1131,Senior,Team / Tech Lead,26.000
+1132,Junior,Full Stack Developer,6.000
+1133,Middle,Full Stack Developer,12.000
+1134,Middle,Full Stack Developer,15.000
+1135,Junior,Front-end Developer,5.000
+1136,Junior,Back-end Developer,8.000
+1137,Senior,Team / Tech Lead,32.000
+1139,Junior,Front-end Developer,8.000
+1140,Senior,Mobile Application Developer,10.000
+1141,Junior,Front-end Developer,6.000
+1142,Middle,Embedded Software Developer,8.000
+1143,Senior,Front-end Developer,21.000
+1144,Junior,Full Stack Developer,10.000
+1145,Senior,Full Stack Developer,15.000
+1149,Senior,CTO,25.000
+1151,Senior,Back-end Developer,22.000
+1152,Senior,Full Stack Developer,12.000
+1153,Senior,Back-end Developer,29.000
+1154,Middle,Full Stack Developer,7.000
+1155,Senior,Back-end Developer,25.000
+1156,Middle,Mobile Application Developer,20.000
+1157,Senior,Software Development Manager,34.000
+1158,Middle,Back-end Developer,11.000
+1159,Senior,Front-end Developer,18.000
+1160,Junior,Full Stack Developer,15.000
+1162,Senior,Back-end Developer,28.000
+1163,Senior,Full Stack Developer,12.000
+1164,Junior,Mobile Application Developer,5.000
+1165,Junior,Back-end Developer,6.000
+1166,Junior,Back-end Developer,5.000
+1167,Junior,Embedded Software Developer,12.000
+1168,Middle,Front-end Developer,8.000
+1169,Senior,Team / Tech Lead,20.000
+1170,Senior,Mobile Application Developer,22.000
+1171,Senior,Team / Tech Lead,40.000
+1172,Junior,Mobile Application Developer,5.000
+1173,Middle,Embedded Software Developer,16.000
+1174,Middle,Full Stack Developer,5.000
+1175,Senior,Back-end Developer,27.000
+1176,Junior,Back-end Developer,7.000
+1177,Middle,Business Analyst,7.000
+1179,Junior,Software Architect,6.000
+1180,Middle,Back-end Developer,12.000
+1181,Senior,Back-end Developer,20.000
+1182,Junior,Mobile Application Developer,7.000
+1183,Middle,Back-end Developer,18.000
+1184,Junior,Back-end Developer,21.000
+1185,Junior,Back-end Developer,5.000
+1186,Senior,Full Stack Developer,12.000
+1187,Senior,Back-end Developer,28.000
+1188,Middle,Back-end Developer,13.000
+1189,Senior,Full Stack Developer,16.000
+1190,Middle,Back-end Developer,8.000
+1191,Senior,Back-end Developer,20.000
+1192,Middle,Back-end Developer,28.000
+1193,Senior,CTO,35.000
+1195,Junior,Back-end Developer,7.000
+1196,Junior,Full Stack Developer,12.000
+1198,Senior,Mobile Application Developer,29.000
+1199,Junior,Full Stack Developer,5.000
+1200,Junior,Full Stack Developer,11.000
+1202,Senior,Full Stack Developer,26.000
+1203,Junior,Embedded Software Developer,6.000
+1204,Junior,Front-end Developer,5.000
+1205,Middle,Mobile Application Developer,19.000
+1206,Senior,Full Stack Developer,24.000
+1207,Junior,Full Stack Developer,10.000
+1209,Middle,Full Stack Developer,10.000
+1210,Senior,Full Stack Developer,22.000
+1211,Junior,Full Stack Developer,8.000
+1213,Senior,Full Stack Developer,18.000
+1214,Senior,Team / Tech Lead,36.000
+1215,Middle,Back-end Developer,7.000
+1216,Senior,Full Stack Developer,11.000
+1217,Junior,Mobile Application Developer,13.000
+1219,Middle,Back-end Developer,12.000
+1220,Middle,Full Stack Developer,10.000
+1221,Middle,Full Stack Developer,10.000
+1222,Senior,Full Stack Developer,24.000
+1223,Junior,Full Stack Developer,9.000
+1224,Middle,Full Stack Developer,8.000
+1225,Junior,Back-end Developer,8.000
+1226,Middle,Full Stack Developer,7.000
+1228,Senior,Full Stack Developer,24.000
+1229,Junior,Full Stack Developer,5.000
+1230,Senior,Software Development Manager,35.000
+1231,Senior,Front-end Developer,8.000
+1232,Middle,Front-end Developer,18.000
+1233,Junior,Embedded Software Developer,10.000
+1235,Senior,Full Stack Developer,19.000
+1236,Middle,Full Stack Developer,12.000
+1237,Senior,Full Stack Developer,23.000
+1238,Junior,Full Stack Developer,12.000
+1239,Senior,Team / Tech Lead,21.000
+1240,Middle,SAP/ABAP/ERP Developer,10.000
+1241,Middle,Mobile Application Developer,7.000
+1242,Junior,Back-end Developer,14.000
+1243,Senior,Front-end Developer,16.000
+1244,Senior,Team / Tech Lead,30.000
+1246,Middle,Software Architect,9.000
+1247,Senior,Software Development Manager,20.000
+1248,Middle,Back-end Developer,16.000
+1250,Junior,Full Stack Developer,11.000
+1251,Senior,Front-end Developer,14.000
+1252,Middle,Full Stack Developer,16.000
+1253,Middle,Front-end Developer,8.000
+1254,Middle,Back-end Developer,8.000
+1255,Middle,Back-end Developer,10.000
+1256,Senior,Mobile Application Developer,17.000
+1257,Junior,Back-end Developer,9.000
+1258,Middle,Full Stack Developer,16.000
+1259,Senior,Front-end Developer,18.000
+1260,Junior,Back-end Developer,7.000
+1261,Junior,Back-end Developer,8.000
+1263,Junior,Front-end Developer,8.000
+1264,Senior,RPA Developer,12.000
+1265,Senior,Software Architect,11.000
+1266,Middle,Back-end Developer,17.000
+1267,Junior,Back-end Developer,9.000
+1268,Middle,Full Stack Developer,8.000
+1269,Junior,Game Developer,8.000
+1270,Middle,Back-end Developer,21.000
+1271,Junior,Back-end Developer,11.000
+1272,Junior,Back-end Developer,9.000
+1273,Junior,Full Stack Developer,7.000
+1276,Middle,Front-end Developer,27.000
+1277,Middle,Mobile Application Developer,12.000
+1278,Junior,Back-end Developer,12.000
+1279,Senior,Mobile Application Developer,25.000
+1280,Junior,Machine Learning,5.000
+1282,Senior,Back-end Developer,15.000
+1283,Junior,Game Developer,30.000
+1284,Middle,Back-end Developer,23.000
+1285,Senior,Front-end Developer,23.000
+1286,Senior,Front-end Developer,5.000
+1288,Senior,Mobile Application Developer,18.000
+1289,Middle,Full Stack Developer,15.000
+1290,Middle,Mobile Application Developer,16.000
+1291,Junior,Full Stack Developer,8.000
+1292,Senior,Software Development Manager,23.000
+1293,Senior,DevOps Engineer,33.000
+1294,Middle,Back-end Developer,10.000
+1295,Senior,Full Stack Developer,13.000
+1296,Junior,Mobile Application Developer,12.000
+1297,Middle,Front-end Developer,9.000
+1298,Middle,Back-end Developer,10.000
+1299,Senior,QA / Test Automation Developer,9.000
+1300,Senior,DevOps Engineer,17.000
+1301,Middle,Full Stack Developer,6.000
+1302,Senior,Full Stack Developer,22.000
+1303,Junior,Front-end Developer,7.000
+1304,Junior,Full Stack Developer,9.000
+1305,Senior,Full Stack Developer,15.000
+1306,Senior,Back-end Developer,12.000
+1307,Middle,Back-end Developer,10.000
+1308,Middle,Full Stack Developer,9.000
+1311,Senior,Full Stack Developer,24.000
+1312,Senior,Front-end Developer,13.000
+1313,Junior,Embedded Software Developer,5.000
+1314,Senior,Team / Tech Lead,26.000
+1316,Senior,Back-end Developer,32.000
+1317,Senior,Back-end Developer,25.000
+1318,Senior,Full Stack Developer,12.000
+1319,Senior,Software Architect,29.000
+1320,Junior,DevOps Engineer,17.000
+1321,Junior,Full Stack Developer,7.000
+1322,Middle,Front-end Developer,19.000
+1323,Senior,Back-end Developer,32.000
+1324,Senior,Full Stack Developer,37.000
+1325,Senior,Software Architect,30.000
+1326,Senior,Back-end Developer,34.000
+1327,Junior,Full Stack Developer,8.000
+1328,Middle,Full Stack Developer,14.000
+1329,Middle,Back-end Developer,8.000
+1330,Junior,Game Developer,10.000
+1331,Junior,Back-end Developer,11.000
+1332,Senior,Team / Tech Lead,50.000
+1333,Middle,Back-end Developer,22.000
+1334,Senior,Back-end Developer,5.000
+1335,Senior,Back-end Developer,38.000
+1336,Middle,Back-end Developer,12.000
+1337,Senior,Back-end Developer,32.000
+1338,Junior,QA / Test Automation Developer,6.000
+1339,Junior,Back-end Developer,10.000
+1340,Junior,DevOps Engineer,16.000
+1341,Junior,Front-end Developer,8.000
+1342,Senior,Front-end Developer,12.000
+1343,Junior,Full Stack Developer,10.000
+1344,Middle,Full Stack Developer,7.000
+1345,Junior,DevOps Engineer,11.000
+1346,Middle,Full Stack Developer,21.000
+1347,Middle,Back-end Developer,9.000
+1348,Junior,Machine Learning,6.000
+1349,Junior,Back-end Developer,8.000
+1352,Middle,Project & Product Manager / PO,18.000
+1353,Middle,R&D Engineer,10.000
+1354,Junior,Full Stack Developer,6.000
+1355,Junior,Data Scientist,13.000
+1356,Middle,Front-end Developer,10.000
+1357,Middle,Back-end Developer,14.000
+1358,Senior,Back-end Developer,17.000
+1360,Junior,Game Developer,6.000
+1361,Senior,Full Stack Developer,17.000
+1362,Junior,Front-end Developer,15.000
+1365,Junior,Front-end Developer,5.000
+1366,Middle,Mobile Application Developer,19.000
+1367,Senior,Game Developer,50.000
+1368,Senior,Back-end Developer,34.000
+1369,Middle,Full Stack Developer,15.000
+1370,Middle,Front-end Developer,10.000
+1371,Junior,Full Stack Developer,12.000
+1372,Junior,Full Stack Developer,12.000
+1373,Senior,Front-end Developer,17.000
+1374,Senior,Project & Product Manager / PO,50.000
+1375,Middle,Back-end Developer,15.000
+1376,Junior,Front-end Developer,6.000
+1377,Junior,Front-end Developer,8.000
+1378,Junior,Full Stack Developer,9.000
+1379,Senior,Team / Tech Lead,35.000
+1380,Middle,Full Stack Developer,12.000
+1381,Junior,DevOps Engineer,11.000
+1382,Middle,Full Stack Developer,12.000
+1383,Junior,Mobile Application Developer,8.000
+1384,Senior,Back-end Developer,20.000
+1387,Senior,Full Stack Developer,18.000
+1388,Middle,Back-end Developer,13.000
+1389,Junior,Data Scientist,8.000
+1390,Senior,Back-end Developer,20.000
+1391,Middle,Back-end Developer,8.000
+1392,Senior,Full Stack Developer,13.000
+1393,Middle,Back-end Developer,5.000
+1394,Junior,QA / Test Automation Developer,5.000
+1395,Middle,Back-end Developer,25.000
+1396,Middle,Full Stack Developer,21.000
+1398,Senior,Full Stack Developer,18.000
+1399,Senior,CTO,40.000
+1400,Middle,Full Stack Developer,22.000
+1401,Middle,Full Stack Developer,8.000
+1402,Middle,Full Stack Developer,11.000
+1403,Middle,Full Stack Developer,11.000
+1404,Middle,Full Stack Developer,22.000
+1405,Senior,Team / Tech Lead,20.000
+1406,Senior,Full Stack Developer,21.000
+1407,Senior,Full Stack Developer,20.000
+1408,Junior,Mobile Application Developer,11.000
+1409,Senior,Team / Tech Lead,40.000
+1410,Middle,Full Stack Developer,25.000
+1411,Senior,Team / Tech Lead,36.000
+1412,Middle,Full Stack Developer,8.000
+1413,Senior,Team / Tech Lead,43.000
+1415,Junior,Front-end Developer,7.000
+1416,Senior,Software Architect,15.000
+1417,Middle,Full Stack Developer,15.000
+1418,Senior,CTO,35.000
+1420,Senior,Full Stack Developer,16.000
+1421,Junior,Full Stack Developer,6.000
+1422,Senior,Back-end Developer,17.000
+1423,Middle,Full Stack Developer,8.000
+1424,Senior,Project & Product Manager / PO,27.000
+1425,Middle,Mobile Application Developer,19.000
+1426,Junior,Mobile Application Developer,8.000
+1427,Senior,Full Stack Developer,17.000
+1428,Middle,Full Stack Developer,14.000
+1429,Junior,Full Stack Developer,5.000
+1431,Senior,Full Stack Developer,17.000
+1432,Junior,Full Stack Developer,5.000
+1433,Senior,Software Architect,15.000
+1434,Middle,Game Developer,5.000
+1435,Junior,Full Stack Developer,15.000
+1436,Senior,Software Architect,14.000
+1437,Senior,Front-end Developer,5.000
+1439,Senior,Full Stack Developer,6.000
+1440,Junior,Back-end Developer,14.000
+1441,Middle,Full Stack Developer,5.000
+1442,Middle,Back-end Developer,17.000
+1443,Junior,Back-end Developer,20.000
+1445,Senior,Back-end Developer,9.000
+1446,Senior,Front-end Developer,33.000
+1447,Senior,Team / Tech Lead,28.000
+1448,Senior,Full Stack Developer,15.000
+1449,Senior,Full Stack Developer,23.000
+1450,Middle,Data Analyst,15.000
+1451,Junior,Mobile Application Developer,6.000
+1452,Senior,Front-end Developer,20.000
+1453,Senior,Full Stack Developer,15.000
+1454,Junior,Mobile Application Developer,7.000
+1455,Middle,Full Stack Developer,11.000
+1456,Senior,Software Architect,25.000
+1457,Junior,Full Stack Developer,7.000
+1458,Junior,Mobile Application Developer,11.000
+1459,Senior,Full Stack Developer,26.000
+1460,Middle,Full Stack Developer,22.000
+1462,Senior,Back-end Developer,20.000
+1463,Senior,Back-end Developer,19.000
+1464,Junior,Back-end Developer,7.000
+1465,Middle,Full Stack Developer,14.000
+1466,Senior,Full Stack Developer,14.000
+1467,Middle,Back-end Developer,14.000
+1468,Junior,Full Stack Developer,12.000
+1469,Middle,Front-end Developer,10.000
+1471,Middle,Front-end Developer,12.000
+1472,Senior,Team / Tech Lead,20.000
+1473,Junior,Business Analyst,8.000
+1474,Senior,Team / Tech Lead,29.000
+1475,Middle,Back-end Developer,14.000
+1476,Senior,Back-end Developer,38.000
+1477,Senior,Full Stack Developer,22.000
+1478,Senior,Team / Tech Lead,9.000
+1479,Junior,Full Stack Developer,8.000
+1480,Junior,Back-end Developer,5.000
+1481,Senior,Back-end Developer,24.000
+1482,Junior,Data Analyst,5.000
+1483,Junior,Full Stack Developer,5.000
+1484,Senior,Team / Tech Lead,20.000
+1485,Junior,Front-end Developer,8.000
+1486,Junior,Front-end Developer,5.000
+1487,Senior,Team / Tech Lead,42.000
+1488,Middle,Front-end Developer,46.000
+1489,Middle,Front-end Developer,20.000
+1490,Middle,Back-end Developer,17.000
+1492,Junior,Data Scientist,9.000
+1493,Middle,DevOps Engineer,7.000
+1494,Senior,Security,19.000
+1495,Senior,Full Stack Developer,25.000
+1496,Junior,SAP/ABAP/ERP Developer,5.000
+1498,Junior,Full Stack Developer,5.000
+1499,Senior,Software Architect,32.000
+1501,Senior,CTO,35.000
+1502,Senior,Software Architect,25.000
+1503,Junior,Back-end Developer,19.000
+1504,Middle,Full Stack Developer,12.000
+1505,Senior,Software Architect,26.000
+1506,Junior,Data Scientist,9.000
+1507,Middle,Back-end Developer,9.000
+1508,Middle,Full Stack Developer,14.000
+1510,Middle,Front-end Developer,15.000
+1511,Junior,Data Scientist,9.000
+1512,Senior,Back-end Developer,22.000
+1513,Senior,Full Stack Developer,17.000
+1514,Senior,Full Stack Developer,14.000
+1515,Senior,Software Architect,25.000
+1516,Senior,Back-end Developer,20.000
+1517,Middle,Full Stack Developer,15.000
+1519,Senior,Front-end Developer,8.000
+1520,Middle,Back-end Developer,15.000
+1521,Senior,Full Stack Developer,15.000
+1522,Junior,Full Stack Developer,5.000
+1523,Junior,Full Stack Developer,9.000
+1524,Senior,Back-end Developer,25.000
+1525,Senior,Software Development Manager,28.000
+1526,Middle,Back-end Developer,10.000
+1527,Senior,Software Architect,29.000
+1528,Middle,Mobile Application Developer,15.000
+1529,Middle,Back-end Developer,9.000
+1530,Junior,Data Scientist,10.000
+1531,Middle,QA / Test Automation Developer,13.000
+1532,Middle,Front-end Developer,15.000
+1533,Senior,Full Stack Developer,22.000
+1534,Senior,Back-end Developer,21.000
+1536,Middle,Full Stack Developer,9.000
+1537,Junior,Mobile Application Developer,6.000
+1539,Senior,Back-end Developer,16.000
+1540,Middle,Back-end Developer,11.000
+1542,Senior,Team / Tech Lead,30.000
+1544,Junior,Full Stack Developer,8.000
+1545,Junior,Full Stack Developer,5.000
+1546,Middle,Mobile Application Developer,21.000
+1547,Junior,Front-end Developer,9.000
+1548,Junior,Full Stack Developer,11.000
+1549,Middle,Back-end Developer,12.000
+1550,Middle,Back-end Developer,16.000
+1551,Middle,RPA Developer,15.000
+1552,Junior,Mobile Application Developer,7.000
+1553,Middle,Full Stack Developer,13.000
+1554,Middle,Back-end Developer,19.000
+1555,Senior,Full Stack Developer,17.000
+1556,Senior,Full Stack Developer,10.000
+1557,Junior,Full Stack Developer,6.000
+1558,Junior,Front-end Developer,8.000
+1559,Senior,Full Stack Developer,9.000
+1560,Junior,Mobile Application Developer,8.000
+1561,Senior,CTO,41.000
+1562,Junior,Full Stack Developer,10.000
+1563,Senior,DevOps Engineer,25.000
+1564,Middle,Full Stack Developer,12.000
+1566,Middle,Full Stack Developer,12.000
+1567,Junior,Back-end Developer,6.000
+1568,Senior,Team / Tech Lead,10.000
+1569,Middle,Back-end Developer,23.000
+1570,Junior,Back-end Developer,11.000
+1572,Junior,Full Stack Developer,8.000
+1573,Senior,Team / Tech Lead,16.000
+1574,Junior,RPA Developer,8.000
+1575,Junior,Front-end Developer,5.000
+1577,Senior,Full Stack Developer,20.000
+1578,Senior,Game Developer,15.000
+1579,Junior,Back-end Developer,9.000
+1580,Junior,Back-end Developer,5.000
+1581,Junior,Embedded Software Developer,15.000
+1582,Senior,Embedded Software Developer,20.000
+1583,Middle,Full Stack Developer,5.000
+1584,Senior,Full Stack Developer,31.000
+1585,Senior,Full Stack Developer,27.000
+1586,Middle,Back-end Developer,17.000
+1587,Middle,Full Stack Developer,9.000
+1588,Senior,Full Stack Developer,12.000
+1589,Senior,Front-end Developer,6.000
+1590,Senior,Team / Tech Lead,23.000
+1591,Senior,Team / Tech Lead,24.000
+1592,Middle,Back-end Developer,18.000
+1593,Middle,Team / Tech Lead,18.000
+1594,Senior,Full Stack Developer,19.000
+1595,Middle,Mobile Application Developer,20.000
+1596,Junior,QA / Test Automation Developer,12.000
+1598,Junior,Back-end Developer,15.000
+1599,Junior,Full Stack Developer,10.000
+1600,Junior,Full Stack Developer,7.000
+1601,Junior,Mobile Application Developer,5.000
+1602,Middle,Front-end Developer,9.000
+1603,Senior,Back-end Developer,11.000
+1604,Senior,Full Stack Developer,15.000
+1605,Junior,Full Stack Developer,6.000
+1606,Senior,Full Stack Developer,23.000
+1607,Middle,Front-end Developer,16.000
+1608,Senior,Full Stack Developer,15.000
+1609,Middle,Full Stack Developer,17.000
+1610,Middle,Full Stack Developer,12.000
+1611,Junior,Embedded Software Developer,5.000
+1612,Senior,Full Stack Developer,25.000
+1613,Middle,Back-end Developer,13.000
+1614,Junior,Front-end Developer,5.000
+1615,Junior,Back-end Developer,13.000
+1616,Junior,Data Analyst,8.000
+1618,Middle,QA / Test Automation Developer,7.000
+1620,Senior,Team / Tech Lead,35.000
+1621,Junior,Back-end Developer,5.000
+1622,Middle,Full Stack Developer,8.000
+1623,Middle,Mobile Application Developer,12.000
+1624,Senior,Full Stack Developer,19.000
+1625,Senior,Full Stack Developer,7.000
+1626,Senior,Team / Tech Lead,29.000
+1627,Middle,Back-end Developer,22.000
+1628,Senior,Mobile Application Developer,16.000
+1629,Senior,Back-end Developer,23.000
+1630,Middle,Back-end Developer,28.000
+1631,Junior,Full Stack Developer,8.000
+1632,Junior,Embedded Software Developer,10.000
+1633,Middle,Back-end Developer,50.000
+1634,Middle,Back-end Developer,16.000
+1635,Senior,Seo Specialist,12.000
+1636,Senior,Full Stack Developer,19.000
+1638,Senior,Full Stack Developer,25.000
+1639,Junior,Full Stack Developer,11.000
+1640,Junior,Mobile Application Developer,7.000
+1641,Senior,CTO,30.000
+1642,Middle,Back-end Developer,22.000
+1643,Junior,Front-end Developer,5.000
+1644,Junior,Full Stack Developer,8.000
+1645,Middle,Front-end Developer,12.000
+1646,Middle,Full Stack Developer,10.000
+1647,Senior,Full Stack Developer,25.000
+1648,Junior,Mobile Application Developer,12.000
+1649,Senior,Software Architect,15.000
+1650,Junior,Back-end Developer,18.000
+1651,Senior,Full Stack Developer,23.000
+1652,Senior,Database Administrator,18.000
+1653,Middle,Machine Learning,14.000
+1654,Junior,Full Stack Developer,9.000
+1655,Junior,Back-end Developer,5.000
+1656,Senior,Back-end Developer,19.000
+1657,Junior,Game Developer,13.000
+1658,Junior,RPA Developer,6.000
+1659,Junior,Back-end Developer,17.000
+1660,Middle,Full Stack Developer,10.000
+1661,Junior,Front-end Developer,5.000
+1662,Junior,QA / Test Automation Developer,8.000
+1663,Middle,Full Stack Developer,5.000
+1664,Junior,Front-end Developer,7.000
+1666,Senior,CTO,40.000
+1668,Senior,Team / Tech Lead,18.000
+1669,Senior,Back-end Developer,24.000
+1671,Junior,Back-end Developer,5.000
+1672,Middle,Front-end Developer,19.000
+1674,Middle,Back-end Developer,13.000
+1675,Senior,Back-end Developer,35.000
+1676,Senior,Software Architect,26.000
+1677,Junior,Mobile Application Developer,6.000
+1678,Junior,Back-end Developer,5.000
+1679,Middle,Back-end Developer,14.000
+1681,Senior,Mobile Application Developer,20.000
+1682,Senior,Full Stack Developer,13.000
+1683,Junior,Back-end Developer,10.000
+1684,Middle,Mobile Application Developer,10.000
+1685,Senior,Data Scientist,22.000
+1686,Middle,QA / Test Automation Developer,21.000
+1687,Junior,Full Stack Developer,5.000
+1688,Senior,Front-end Developer,21.000
+1689,Senior,Back-end Developer,16.000
+1690,Middle,Mobile Application Developer,17.000
+1691,Senior,CTO,45.000
+1692,Middle,Full Stack Developer,17.000
+1693,Junior,Back-end Developer,5.000
+1694,Middle,Full Stack Developer,9.000
+1695,Middle,Full Stack Developer,23.000
+1696,Junior,Front-end Developer,7.000
+1697,Middle,Full Stack Developer,13.000
+1698,Senior,Security,20.000
+1699,Junior,Full Stack Developer,8.000
+1700,Middle,Back-end Developer,16.000
+1701,Junior,Front-end Developer,5.000
+1702,Senior,Full Stack Developer,22.000
+1703,Middle,Mobile Application Developer,14.000
+1704,Middle,Front-end Developer,10.000
+1705,Junior,Mobile Application Developer,5.000
+1706,Senior,Team / Tech Lead,30.000
+1707,Middle,Full Stack Developer,13.000
+1708,Senior,Front-end Developer,23.000
+1709,Senior,Back-end Developer,23.000
+1710,Middle,Mobile Application Developer,19.000
+1711,Senior,Full Stack Developer,20.000
+1712,Senior,Back-end Developer,19.000
+1713,Senior,Full Stack Developer,25.000
+1714,Junior,DevOps Engineer,7.000
+1715,Middle,Back-end Developer,8.000
+1716,Middle,Full Stack Developer,20.000
+1717,Senior,Full Stack Developer,12.000
+1718,Senior,Back-end Developer,16.000
+1720,Senior,Full Stack Developer,20.000
+1721,Junior,Front-end Developer,7.000
+1722,Junior,Front-end Developer,5.000
+1724,Senior,Back-end Developer,21.000
+1725,Junior,Data Scientist,8.000
+1726,Junior,Mobile Application Developer,6.000
+1727,Middle,Back-end Developer,11.000
+1729,Junior,Back-end Developer,8.000
+1730,Senior,Full Stack Developer,15.000
+1731,Junior,Back-end Developer,9.000
+1733,Junior,Full Stack Developer,7.000
+1734,Middle,Embedded Software Developer,7.000
+1735,Senior,Full Stack Developer,12.000
+1737,Senior,Back-end Developer,22.000
+1738,Middle,Back-end Developer,13.000
+1739,Senior,Full Stack Developer,17.000
+1740,Junior,Full Stack Developer,14.000
+1741,Junior,Full Stack Developer,7.000
+1742,Senior,Software Development Manager,18.000
+1743,Middle,Full Stack Developer,12.000
+1744,Junior,DevOps Engineer,11.000
+1745,Middle,Full Stack Developer,13.000
+1746,Junior,Back-end Developer,10.000
+1747,Junior,Embedded Software Developer,6.000
+1748,Junior,DevOps Engineer,14.000
+1749,Middle,Full Stack Developer,12.000
+1750,Junior,Full Stack Developer,5.000
+1751,Junior,Embedded Software Developer,15.000
+1752,Senior,Team / Tech Lead,32.000
+1754,Junior,Full Stack Developer,5.000
+1755,Senior,Embedded Software Developer,11.000
+1756,Junior,Front-end Developer,5.000
+1757,Junior,Back-end Developer,5.000
+1758,Middle,Full Stack Developer,5.000
+1759,Junior,Full Stack Developer,5.000
+1760,Middle,Embedded Software Developer,12.000
+1762,Middle,Mobile Application Developer,10.000
+1763,Junior,Back-end Developer,6.000
+1764,Senior,Mobile Application Developer,16.000
+1765,Middle,Back-end Developer,8.000
+1766,Middle,Game Developer,10.000
+1767,Junior,Mobile Application Developer,10.000
+1768,Junior,Front-end Developer,6.000
+1769,Middle,Back-end Developer,20.000
+1770,Junior,Mobile Application Developer,15.000
+1771,Senior,Back-end Developer,22.000
+1772,Senior,Back-end Developer,20.000
+1773,Senior,Front-end Developer,19.000
+1774,Middle,Back-end Developer,14.000
+1776,Middle,Full Stack Developer,15.000
+1777,Middle,Back-end Developer,15.000
+1778,Middle,QA / Test Automation Developer,8.000
+1781,Middle,Full Stack Developer,5.000
+1782,Junior,Back-end Developer,9.000
+1783,Senior,DevOps Engineer,24.000
+1785,Senior,Full Stack Developer,17.000
+1786,Middle,Full Stack Developer,10.000
+1787,Junior,Full Stack Developer,11.000
+1788,Senior,Full Stack Developer,16.000
+1789,Senior,Back-end Developer,24.000
+1790,Junior,Front-end Developer,8.000
+1791,Junior,Back-end Developer,16.000
+1792,Senior,Front-end Developer,21.000
+1793,Junior,Back-end Developer,5.000
+1794,Middle,Full Stack Developer,17.000
+1795,Junior,Back-end Developer,8.000
+1796,Middle,Mobile Application Developer,14.000
+1797,Junior,DevOps Engineer,5.000
+1799,Senior,Full Stack Developer,11.000
+1800,Middle,Embedded Software Developer,13.000
+1801,Senior,Full Stack Developer,30.000
+1802,Middle,DevOps Engineer,10.000
+1803,Middle,Front-end Developer,8.000
+1804,Middle,Full Stack Developer,12.000
+1805,Senior,Software Development Manager,29.000
+1806,Middle,Full Stack Developer,9.000
+1807,Senior,Software Development Manager,28.000
+1809,Middle,Back-end Developer,15.000
+1811,Middle,Full Stack Developer,14.000
+1813,Senior,Back-end Developer,17.000
+1814,Senior,Software Development Manager,40.000
+1815,Senior,Front-end Developer,25.000
+1816,Junior,Full Stack Developer,14.000
+1817,Senior,Team / Tech Lead,30.000
+1818,Middle,Full Stack Developer,13.000
+1820,Senior,Software Development Manager,30.000
+1821,Middle,Back-end Developer,12.000
+1822,Senior,Front-end Developer,25.000
+1823,Junior,Front-end Developer,6.000
+1824,Junior,Front-end Developer,7.000
+1825,Senior,Front-end Developer,27.000
+1826,Junior,Embedded Software Developer,10.000
+1827,Junior,Back-end Developer,6.000
+1828,Junior,Full Stack Developer,8.000
+1829,Middle,Data Scientist,7.000
+1830,Senior,Software Development Manager,20.000
+1831,Middle,Full Stack Developer,15.000
+1833,Senior,Embedded Software Developer,38.000
+1834,Junior,Full Stack Developer,6.000
+1835,Senior,Full Stack Developer,17.000
+1836,Junior,Back-end Developer,5.000
+1840,Senior,Team / Tech Lead,39.000
+1841,Junior,Full Stack Developer,10.000
+1842,Senior,Back-end Developer,23.000
+1843,Senior,DevOps Engineer,24.000
+1844,Junior,Front-end Developer,5.000
+1845,Senior,Embedded Software Developer,23.000
+1846,Junior,Front-end Developer,7.000
+1847,Middle,Full Stack Developer,14.000
+1848,Junior,Full Stack Developer,15.000
+1849,Senior,Full Stack Developer,24.000
+1850,Junior,Front-end Developer,5.000
+1851,Junior,Front-end Developer,5.000
+1852,Junior,QA / Test Automation Developer,11.000
+1853,Junior,Back-end Developer,5.000
+1854,Middle,Full Stack Developer,10.000
+1855,Middle,Full Stack Developer,15.000
+1856,Senior,Mobile Application Developer,23.000
+1857,Senior,Embedded Software Developer,11.000
+1859,Senior,Data Scientist,26.000
+1860,Middle,Front-end Developer,18.000
+1861,Junior,Mobile Application Developer,8.000
+1862,Senior,Software Development Manager,30.000
+1863,Middle,Front-end Developer,9.000
+1864,Junior,Full Stack Developer,10.000
+1866,Senior,Full Stack Developer,17.000
+1867,Middle,Full Stack Developer,15.000
+1868,Senior,Software Development Manager,37.000
+1870,Junior,DevOps Engineer,5.000
+1871,Middle,Back-end Developer,7.000
+1874,Senior,Full Stack Developer,18.000
+1875,Junior,QA / Test Automation Developer,5.000
+1876,Middle,Back-end Developer,10.000
+1877,Junior,Mobile Application Developer,5.000
+1878,Junior,Mobile Application Developer,6.000
+1879,Senior,Software Architect,34.000
+1880,Senior,Team / Tech Lead,20.000
+1881,Senior,Full Stack Developer,17.000
+1882,Senior,Full Stack Developer,30.000
+1884,Middle,Front-end Developer,6.000
+1885,Middle,Mobile Application Developer,8.000
+1886,Senior,Software Development Manager,50.000
+1887,Junior,Back-end Developer,13.000
+1888,Senior,Team / Tech Lead,12.000
+1889,Senior,Software Development Manager,31.000
+1890,Senior,Back-end Developer,15.000
+1891,Middle,Back-end Developer,19.000
+1892,Senior,Software Development Manager,45.000
+1893,Middle,Full Stack Developer,19.000
+1894,Senior,SysAdmin,24.000
+1895,Middle,Front-end Developer,12.000
+1896,Junior,Front-end Developer,10.000
+1897,Junior,Full Stack Developer,8.000
+1898,Senior,Mobile Application Developer,27.000
+1899,Middle,Full Stack Developer,12.000
+1900,Junior,Front-end Developer,7.000
+1901,Junior,Full Stack Developer,12.000
+1903,Senior,Full Stack Developer,30.000
+1904,Middle,Data Scientist,15.000
+1905,Middle,Back-end Developer,13.000
+1906,Middle,SAP/ABAP/ERP Developer,10.000
+1907,Senior,Back-end Developer,14.000
+1908,Senior,Project & Product Manager / PO,32.000
+1909,Senior,Full Stack Developer,18.000
+1910,Junior,Team / Tech Lead,9.000
+1911,Middle,Full Stack Developer,18.000
+1912,Junior,Back-end Developer,9.000
+1913,Senior,Back-end Developer,12.000
+1914,Senior,Team / Tech Lead,11.000
+1915,Senior,Full Stack Developer,13.000
+1916,Junior,Full Stack Developer,6.000
+1917,Middle,Full Stack Developer,13.000
+1918,Senior,Back-end Developer,14.000
+1919,Senior,Full Stack Developer,19.000
+1920,Junior,Data Engineer,15.000
+1921,Junior,Software Architect,6.000
+1922,Middle,Back-end Developer,32.000
+1923,Senior,Full Stack Developer,23.000
+1924,Middle,Full Stack Developer,8.000
+1925,Senior,Software Architect,34.000
+1926,Junior,Front-end Developer,9.000
+1927,Senior,Back-end Developer,29.000
+1929,Senior,Full Stack Developer,22.000
+1930,Middle,Full Stack Developer,12.000
+1931,Senior,Back-end Developer,22.000
+1932,Middle,Embedded Software Developer,15.000
+1933,Senior,Software Development Manager,34.000
+1934,Senior,Team / Tech Lead,16.000
+1935,Junior,Mobile Application Developer,5.000
+1936,Middle,QA / Test Automation Developer,15.000
+1937,Senior,Back-end Developer,21.000
+1938,Middle,Data Scientist,15.000
+1939,Senior,Mobile Application Developer,37.000
+1940,Senior,Team / Tech Lead,23.000
+1941,Junior,Data Scientist,8.000
+1942,Senior,Data Scientist,14.000
+1943,Junior,Full Stack Developer,7.000
+1944,Middle,Embedded Software Developer,9.000
+1945,Senior,Software Development Manager,11.000
+1946,Senior,Software Development Manager,35.000
+1947,Middle,Mobile Application Developer,13.000
+1948,Senior,Full Stack Developer,30.000
+1949,Senior,Team / Tech Lead,27.000
+1950,Senior,Data Scientist,12.000
+1951,Middle,Back-end Developer,14.000
+1952,Junior,Front-end Developer,7.000
+1954,Junior,Full Stack Developer,9.000
+1955,Junior,Front-end Developer,9.000
+1956,Middle,Back-end Developer,10.000
+1957,Senior,Software Development Manager,22.000
+1958,Senior,Full Stack Developer,36.000
+1959,Middle,Back-end Developer,17.000
+1960,Senior,Full Stack Developer,19.000
+1961,Senior,Front-end Developer,20.000
+1962,Middle,Back-end Developer,18.000
+1963,Junior,Back-end Developer,6.000
+1964,Junior,Front-end Developer,11.000
+1965,Junior,Back-end Developer,14.000
+1967,Middle,Data Scientist,12.000
+1968,Senior,DevOps Engineer,18.000
+1969,Junior,Full Stack Developer,9.000
+1970,Middle,DevOps Engineer,32.000
+1971,Middle,Mobile Application Developer,10.000
+1972,Senior,Full Stack Developer,24.000
+1973,Middle,Back-end Developer,15.000
+1974,Middle,Back-end Developer,13.000
+1975,Middle,Full Stack Developer,15.000
+1976,Senior,Team / Tech Lead,22.000
+1977,Senior,Mobile Application Developer,45.000
+1978,Senior,Back-end Developer,22.000
+1979,Junior,Full Stack Developer,12.000
+1980,Junior,Full Stack Developer,11.000
+1982,Senior,Full Stack Developer,35.000
+1983,Junior,Back-end Developer,9.000
+1984,Middle,Mobile Application Developer,13.000
+1985,Junior,DevOps Engineer,6.000
+1986,Junior,QA / Test Automation Developer,5.000
+1987,Middle,Back-end Developer,29.000
+1988,Junior,Front-end Developer,15.000
+1989,Middle,Full Stack Developer,10.000
+1990,Middle,Mobile Application Developer,6.000
+1991,Junior,Full Stack Developer,9.000
+1992,Middle,Data Scientist,18.000
+1993,Middle,Back-end Developer,9.000
+1994,Senior,Data Scientist,36.000
+1995,Junior,Support Engineer,11.000
+1996,Junior,Front-end Developer,5.000
+1999,Senior,Full Stack Developer,17.000
+2001,Senior,Front-end Developer,25.000
+2002,Senior,Back-end Developer,19.000
+2003,Junior,Full Stack Developer,5.000
+2004,Junior,Back-end Developer,9.000
+2005,Middle,Back-end Developer,19.000
+2006,Senior,Front-end Developer,50.000
+2007,Senior,Full Stack Developer,14.000
+2008,Senior,Full Stack Developer,13.000
+2010,Middle,Back-end Developer,10.000
+2011,Senior,Full Stack Developer,50.000
+2012,Middle,Machine Learning,12.000
+2013,Middle,Mobile Application Developer,17.000
+2014,Middle,Full Stack Developer,13.000
+2015,Middle,Back-end Developer,6.000
+2019,Senior,CTO,50.000
+2020,Junior,Back-end Developer,6.000
+2021,Middle,Full Stack Developer,13.000
+2022,Middle,Team / Tech Lead,14.000
+2023,Middle,Full Stack Developer,10.000
+2024,Middle,Mobile Application Developer,15.000
+2025,Junior,Front-end Developer,6.000
+2026,Middle,Full Stack Developer,8.000
+2027,Senior,Team / Tech Lead,15.000
+2028,Senior,Software Architect,38.000
+2029,Middle,Back-end Developer,12.000
+2030,Junior,Front-end Developer,5.000
+2031,Senior,Software Development Manager,25.000
+2032,Middle,Full Stack Developer,16.000
+2033,Middle,Full Stack Developer,24.000
+2034,Middle,QA / Test Automation Developer,17.000
+2035,Junior,Full Stack Developer,5.000
+2036,Junior,Back-end Developer,9.000
+2037,Junior,Full Stack Developer,15.000
+2038,Middle,Back-end Developer,7.000
+2039,Middle,Full Stack Developer,12.000
+2040,Junior,Full Stack Developer,12.000
+2041,Middle,Back-end Developer,16.000
+2042,Senior,Mobile Application Developer,28.000
+2043,Junior,Back-end Developer,11.000
+2044,Junior,Data Scientist,12.000
+2045,Middle,Back-end Developer,13.000
+2046,Middle,Full Stack Developer,11.000
+2047,Middle,Software Architect,11.000
+2049,Middle,Full Stack Developer,13.000
+2050,Junior,Embedded Software Developer,9.000
+2051,Middle,Front-end Developer,16.000
+2052,Middle,Front-end Developer,12.000
+2053,Senior,Software Architect,44.000
+2054,Junior,QA / Test Automation Developer,5.000
+2055,Senior,Project & Product Manager / PO,17.000
+2056,Senior,Team / Tech Lead,23.000
+2057,Junior,Full Stack Developer,15.000
+2058,Senior,Front-end Developer,33.000
+2059,Middle,Front-end Developer,26.000
+2060,Middle,Back-end Developer,10.000
+2061,Senior,Back-end Developer,28.000
+2062,Senior,Full Stack Developer,11.000
+2063,Middle,Full Stack Developer,15.000
+2064,Senior,Front-end Developer,15.000
+2065,Senior,Software Development Manager,50.000
+2066,Senior,Team / Tech Lead,18.000
+2068,Junior,Front-end Developer,14.000
+2069,Senior,Software Development Manager,32.000
+2070,Junior,Front-end Developer,6.000
+2071,Middle,Back-end Developer,11.000
+2072,Junior,Front-end Developer,7.000
+2073,Senior,Team / Tech Lead,39.000
+2075,Middle,Database Administrator,14.000
+2076,Senior,Front-end Developer,20.000
+2077,Junior,Back-end Developer,7.000
+2078,Middle,SAP/ABAP/ERP Developer,11.000
+2079,Senior,Back-end Developer,18.000
+2081,Junior,DevOps Engineer,13.000
+2082,Middle,Back-end Developer,18.000
+2083,Middle,Full Stack Developer,6.000
+2084,Senior,Front-end Developer,19.000
+2085,Middle,Full Stack Developer,13.000
+2086,Senior,Embedded Software Developer,26.000
+2087,Senior,Software Architect,30.000
+2088,Junior,Mobile Application Developer,11.000
+2089,Senior,Full Stack Developer,20.000
+2090,Middle,Full Stack Developer,9.000
+2092,Middle,Full Stack Developer,10.000
+2093,Middle,Full Stack Developer,29.000
+2094,Middle,Back-end Developer,11.000
+2095,Middle,Full Stack Developer,8.000
+2096,Senior,Front-end Developer,16.000
+2097,Junior,Back-end Developer,14.000
+2098,Junior,Full Stack Developer,5.000
+2099,Junior,Front-end Developer,6.000
+2100,Senior,Full Stack Developer,17.000
+2101,Junior,QA / Test Automation Developer,5.000
+2102,Senior,Data Engineer,24.000
+2103,Junior,Full Stack Developer,6.000
+2104,Middle,Full Stack Developer,26.000
+2105,Junior,Mobile Application Developer,5.000
+2106,Middle,Game Developer,13.000
+2107,Middle,Back-end Developer,24.000
+2108,Middle,Project & Product Manager / PO,6.000
+2109,Junior,Front-end Developer,10.000
+2110,Middle,Full Stack Developer,17.000
+2111,Middle,Full Stack Developer,10.000
+2112,Junior,Back-end Developer,6.000
+2113,Junior,Machine Learning,10.000
+2114,Junior,DevOps Engineer,5.000
+2115,Junior,DevOps Engineer,5.000
+2116,Middle,Back-end Developer,14.000
+2117,Senior,Full Stack Developer,25.000
+2118,Junior,Back-end Developer,9.000
+2119,Middle,Full Stack Developer,7.000
+2120,Senior,Team / Tech Lead,19.000
+2121,Senior,Team / Tech Lead,50.000
+2122,Middle,Full Stack Developer,20.000
+2123,Middle,Back-end Developer,6.000
+2124,Middle,Back-end Developer,14.000
+2125,Senior,Mobile Application Developer,15.000
+2126,Junior,Embedded Software Developer,6.000
+2127,Middle,Full Stack Developer,5.000
+2128,Middle,DevOps Engineer,12.000
+2129,Senior,Team / Tech Lead,45.000
+2130,Junior,Back-end Developer,5.000
+2131,Senior,Front-end Developer,34.000
+2132,Junior,Game Developer,7.000
+2133,Middle,Full Stack Developer,5.000
+2135,Senior,Team / Tech Lead,26.000
+2136,Senior,Full Stack Developer,13.000
+2137,Middle,Mobile Application Developer,7.000
+2138,Junior,Embedded Software Developer,5.000
+2139,Junior,Mobile Application Developer,10.000
+2140,Middle,Software Development Manager,25.000
+2141,Senior,Team / Tech Lead,25.000
+2142,Middle,Embedded Software Developer,13.000
+2143,Senior,Front-end Developer,19.000
+2144,Senior,QA / Test Automation Developer,14.000
+2145,Middle,Full Stack Developer,10.000
+2146,Junior,Back-end Developer,6.000
+2147,Junior,Full Stack Developer,9.000
+2148,Junior,Full Stack Developer,11.000
+2149,Junior,Software Development Manager,6.000
+2150,Senior,Software Development Manager,21.000
+2151,Middle,Front-end Developer,10.000
+2152,Senior,Full Stack Developer,21.000
+2153,Senior,Full Stack Developer,18.000
+2154,Middle,Full Stack Developer,12.000
+2155,Senior,Full Stack Developer,18.000
+2157,Senior,Software Development Manager,21.000
+2158,Middle,Front-end Developer,16.000
+2159,Junior,Front-end Developer,8.000
+2160,Senior,Data Scientist,19.000
+2162,Middle,Back-end Developer,12.000
+2163,Middle,Back-end Developer,19.000
+2164,Senior,Back-end Developer,25.000
+2166,Senior,Back-end Developer,25.000
+2167,Senior,Back-end Developer,21.000
+2168,Middle,Business Analyst,12.000
+2169,Junior,Mobile Application Developer,10.000
+2170,Middle,Back-end Developer,14.000
+2171,Middle,DevOps Engineer,20.000
+2172,Senior,Back-end Developer,18.000
+2173,Senior,Software Architect,34.000
+2174,Junior,Back-end Developer,5.000
+2175,Junior,Mobile Application Developer,6.000
+2176,Junior,Full Stack Developer,11.000
+2177,Senior,Back-end Developer,17.000
+2178,Senior,Full Stack Developer,12.000
+2179,Junior,Full Stack Developer,6.000
+2180,Junior,Full Stack Developer,7.000
+2181,Senior,Game Developer,50.000
+2182,Senior,Team / Tech Lead,37.000
+2183,Senior,Software Development Manager,5.000
+2184,Senior,DevOps Engineer,23.000
+2185,Senior,Team / Tech Lead,19.000
+2186,Middle,Full Stack Developer,7.000
+2187,Senior,Software Development Manager,36.000
+2188,Senior,Software Development Manager,26.000
+2189,Middle,Back-end Developer,6.000
+2190,Middle,Back-end Developer,7.000
+2191,Middle,Back-end Developer,13.000
+2192,Senior,Data Scientist,17.000
+2193,Middle,Mobile Application Developer,15.000
+2194,Middle,Full Stack Developer,12.000
+2195,Junior,Back-end Developer,6.000
+2196,Senior,Front-end Developer,25.000
+2198,Senior,Team / Tech Lead,50.000
+2200,Senior,Team / Tech Lead,35.000
+2201,Middle,Back-end Developer,9.000
+2202,Senior,Full Stack Developer,29.000
+2203,Senior,Back-end Developer,28.000
+2204,Senior,Team / Tech Lead,40.000
+2205,Junior,Full Stack Developer,7.000
+2206,Middle,Mobile Application Developer,23.000
+2207,Junior,Back-end Developer,6.000
+2208,Senior,Full Stack Developer,11.000
+2209,Junior,Back-end Developer,17.000
+2210,Senior,Back-end Developer,15.000
+2212,Senior,Software Architect,8.000
+2213,Junior,Mobile Application Developer,5.000
+2214,Junior,Back-end Developer,9.000
+2215,Middle,Full Stack Developer,11.000
+2216,Senior,Software Development Manager,40.000
+2217,Senior,Full Stack Developer,27.000
+2219,Senior,Back-end Developer,20.000
+2220,Middle,Game Developer,19.000
+2221,Junior,IT Specialist,10.000
+2224,Junior,Game Developer,8.000
+2225,Middle,Full Stack Developer,15.000
+2226,Middle,Back-end Developer,25.000
+2227,Senior,Full Stack Developer,25.000
+2228,Middle,Embedded Software Developer,7.000
+2229,Middle,Game Developer,11.000
+2230,Senior,Software Development Manager,30.000
+2231,Senior,Full Stack Developer,21.000
+2232,Middle,Game Developer,13.000
+2234,Junior,Back-end Developer,10.000
+2235,Junior,Embedded Software Developer,8.000
+2236,Middle,Back-end Developer,5.000
+2237,Junior,Mobile Application Developer,13.000
+2238,Junior,Mobile Application Developer,11.000
+2239,Middle,Game Developer,18.000
+2240,Senior,Team / Tech Lead,50.000
+2241,Junior,Back-end Developer,15.000
+2242,Senior,Back-end Developer,22.000
+2243,Senior,Team / Tech Lead,22.000
+2245,Junior,Mobile Application Developer,12.000
+2246,Senior,Back-end Developer,19.000
+2247,Senior,Team / Tech Lead,30.000
+2248,Middle,Full Stack Developer,17.000
+2249,Middle,QA / Test Automation Developer,7.000
+2250,Senior,Back-end Developer,15.000
+2251,Middle,Embedded Software Developer,11.000
+2252,Junior,Back-end Developer,8.000
+2253,Senior,Software Development Manager,28.000
+2254,Senior,Full Stack Developer,12.000
+2255,Junior,Mobile Application Developer,10.000
+2256,Middle,Front-end Developer,16.000
+2258,Senior,CTO,50.000
+2259,Senior,Software Development Manager,12.000
+2260,Senior,Team / Tech Lead,20.000
+2261,Middle,Full Stack Developer,12.000
+2262,Middle,Front-end Developer,9.000
+2263,Middle,Full Stack Developer,12.000
+2264,Senior,Back-end Developer,39.000
+2265,Senior,Mobile Application Developer,9.000
+2266,Middle,Back-end Developer,10.000
+2267,Junior,Back-end Developer,9.000
+2268,Senior,Team / Tech Lead,19.000
+2269,Senior,Full Stack Developer,16.000
+2270,Junior,QA / Test Automation Developer,8.000
+2271,Junior,Front-end Developer,5.000
+2272,Middle,Front-end Developer,14.000
+2273,Middle,Data Scientist,23.000
+2274,Middle,Game Developer,7.000
+2275,Middle,QA / Test Automation Developer,21.000
+2276,Junior,Full Stack Developer,11.000
+2277,Junior,Back-end Developer,5.000
+2278,Senior,Team / Tech Lead,40.000
+2279,Senior,Full Stack Developer,6.000
+2280,Senior,Mobile Application Developer,23.000
+2281,Senior,Mobile Application Developer,12.000
+2282,Senior,Team / Tech Lead,29.000
+2283,Middle,Front-end Developer,12.000
+2284,Middle,Full Stack Developer,18.000
+2285,Senior,Full Stack Developer,19.000
+2287,Middle,Back-end Developer,10.000
+2288,Middle,Back-end Developer,20.000
+2289,Senior,Back-end Developer,20.000
+2290,Middle,QA / Test Automation Developer,10.000
+2291,Senior,CTO,20.000
+2292,Senior,Full Stack Developer,30.000
+2293,Senior,Software Development Manager,35.000
+2295,Senior,Team / Tech Lead,25.000
+2297,Senior,Software Development Manager,17.000
+2298,Junior,QA / Test Automation Developer,5.000
+2299,Middle,Full Stack Developer,14.000
+2300,Senior,CTO,39.000
+2301,Junior,Mobile Application Developer,7.000
+2302,Senior,DevOps Engineer,20.000
+2303,Junior,Front-end Developer,7.000
+2304,Middle,Back-end Developer,7.000
+2305,Junior,Game Developer,6.000
+2306,Senior,Full Stack Developer,28.000
+2307,Junior,Front-end Developer,5.000
+2308,Junior,QA / Test Automation Developer,6.000
+2309,Middle,Back-end Developer,12.000
+2310,Junior,Full Stack Developer,10.000
+2312,Junior,Data Engineer,12.000
+2314,Junior,Full Stack Developer,11.000
+2315,Senior,DevOps Engineer,17.000
+2316,Senior,Game Developer,47.000
+2317,Middle,Full Stack Developer,5.000
+2318,Middle,Full Stack Developer,7.000
+2319,Middle,Data Scientist,5.000
+2320,Junior,Back-end Developer,6.000
+2321,Senior,Software Development Manager,33.000
+2323,Senior,Full Stack Developer,16.000
+2324,Junior,Data Analyst,12.000
+2325,Middle,Front-end Developer,17.000
+2326,Junior,Full Stack Developer,6.000
+2328,Junior,Data Scientist,5.000
+2329,Senior,Back-end Developer,19.000
+2330,Senior,Data Scientist,30.000
+2331,Middle,Back-end Developer,27.000
+2332,Senior,Software Development Manager,29.000
+2333,Middle,Full Stack Developer,13.000
+2334,Junior,Back-end Developer,6.000
+2335,Middle,Back-end Developer,17.000
+2336,Middle,Full Stack Developer,22.000
+2337,Junior,Front-end Developer,14.000
+2338,Senior,Full Stack Developer,7.000
+2339,Middle,Full Stack Developer,20.000
+2340,Junior,Back-end Developer,11.000
+2341,Senior,Back-end Developer,18.000
+2343,Senior,CTO,16.000
+2344,Middle,Full Stack Developer,15.000
+2345,Senior,Back-end Developer,28.000
+2346,Junior,Data Scientist,10.000
+2347,Middle,Front-end Developer,10.000
+2348,Junior,Front-end Developer,9.000
+2349,Middle,Full Stack Developer,19.000
+2350,Senior,Back-end Developer,6.000
+2351,Junior,Front-end Developer,8.000
+2352,Senior,Full Stack Developer,25.000
+2353,Junior,Full Stack Developer,5.000
+2354,Junior,Back-end Developer,7.000
+2355,Senior,Team / Tech Lead,30.000
+2356,Junior,Mobile Application Developer,43.000
+2359,Senior,Back-end Developer,14.000
+2362,Senior,Back-end Developer,12.000
+2363,Middle,Front-end Developer,21.000
+2364,Senior,Game Developer,36.000
+2365,Senior,Full Stack Developer,24.000
+2366,Middle,Back-end Developer,22.000
+2368,Middle,Full Stack Developer,14.000
+2369,Middle,Full Stack Developer,10.000
+2370,Junior,Front-end Developer,5.000
+2371,Middle,Back-end Developer,13.000
+2372,Senior,Full Stack Developer,20.000
+2373,Senior,Embedded Software Developer,22.000
+2375,Senior,CTO,45.000
+2377,Senior,Software Architect,19.000
+2378,Senior,Software Architect,50.000
+2379,Senior,Mobile Application Developer,29.000
+2380,Middle,Back-end Developer,22.000
+2381,Senior,CTO,19.000
+2382,Junior,Mobile Application Developer,12.000
+2383,Senior,Full Stack Developer,26.000
+2384,Senior,Mobile Application Developer,25.000
+2385,Junior,Embedded Software Developer,7.000
+2386,Senior,Team / Tech Lead,20.000
+2387,Junior,Full Stack Developer,8.000
+2388,Junior,Full Stack Developer,7.000
+2389,Junior,Mobile Application Developer,5.000
+2390,Junior,Support Engineer,12.000
+2391,Senior,Software Architect,41.000
+2392,Junior,Full Stack Developer,8.000
+2393,Middle,Front-end Developer,7.000
+2394,Junior,Back-end Developer,5.000
+2395,Middle,Embedded Software Developer,15.000
+2396,Middle,Game Developer,26.000
+2397,Senior,Game Developer,10.000
+2398,Junior,Back-end Developer,5.000
+2399,Senior,Full Stack Developer,10.000
+2400,Middle,Full Stack Developer,10.000
+2401,Junior,Back-end Developer,9.000
+2402,Senior,Software Architect,50.000
+2403,Middle,Back-end Developer,17.000
+2404,Middle,Back-end Developer,19.000
+2405,Middle,Full Stack Developer,14.000
+2406,Junior,Back-end Developer,7.000
+2407,Senior,Full Stack Developer,21.000
+2408,Middle,Team / Tech Lead,18.000
+2409,Junior,Back-end Developer,14.000
+2410,Middle,Back-end Developer,11.000
+2411,Senior,Embedded Software Developer,19.000
+2413,Middle,Back-end Developer,6.000
+2414,Middle,Front-end Developer,19.000
+2415,Middle,Front-end Developer,9.000
+2416,Middle,Mobile Application Developer,9.000
+2417,Middle,Full Stack Developer,12.000
+2418,Senior,Full Stack Developer,12.000
+2419,Junior,Embedded Software Developer,5.000
+2420,Junior,Full Stack Developer,5.000
+2421,Junior,Full Stack Developer,10.000
+2422,Senior,Back-end Developer,20.000
+2423,Senior,Software Architect,40.000
+2424,Junior,Full Stack Developer,5.000
+2426,Junior,Mobile Application Developer,14.000
+2427,Senior,Full Stack Developer,25.000
+2428,Middle,Back-end Developer,20.000
+2429,Middle,Full Stack Developer,9.000
+2430,Senior,Back-end Developer,17.000
+2431,Junior,Mobile Application Developer,5.000
+2433,Junior,Back-end Developer,5.000
+2434,Senior,Full Stack Developer,17.000
+2435,Senior,Back-end Developer,23.000
+2436,Middle,Mobile Application Developer,12.000
+2437,Junior,QA / Test Automation Developer,5.000
+2438,Senior,Mobile Application Developer,21.000
+2441,Junior,Back-end Developer,7.000
+2442,Junior,Back-end Developer,5.000
+2443,Senior,Full Stack Developer,15.000
+2444,Middle,Full Stack Developer,11.000
+2445,Junior,Back-end Developer,9.000
+2446,Middle,Mobile Application Developer,20.000
+2447,Senior,Front-end Developer,21.000
+2448,Junior,Game Developer,6.000
+2449,Junior,Front-end Developer,15.000
+2450,Junior,Machine Learning,8.000
+2451,Junior,Front-end Developer,6.000
+2452,Junior,Full Stack Developer,5.000
+2453,Middle,QA / Test Automation Developer,19.000
+2454,Senior,Full Stack Developer,10.000
+2455,Middle,Back-end Developer,16.000
+2456,Senior,Data Scientist,20.000
+2457,Junior,Back-end Developer,7.000
+2458,Middle,Back-end Developer,15.000
+2459,Junior,Full Stack Developer,8.000
+2461,Senior,Full Stack Developer,9.000
+2462,Senior,Team / Tech Lead,17.000
+2463,Junior,Embedded Software Developer,8.000
+2464,Middle,Back-end Developer,14.000
+2465,Middle,Back-end Developer,11.000
+2466,Senior,Mobile Application Developer,23.000
+2467,Middle,Back-end Developer,10.000
+2468,Senior,Full Stack Developer,9.000
+2469,Middle,Mobile Application Developer,13.000
+2470,Senior,Full Stack Developer,33.000
+2471,Senior,Embedded Software Developer,24.000
+2472,Middle,Mobile Application Developer,18.000
+2473,Middle,Front-end Developer,9.000
+2474,Junior,Back-end Developer,9.000
+2475,Senior,Full Stack Developer,20.000
+2476,Middle,Front-end Developer,10.000
+2477,Junior,Front-end Developer,10.000
+2478,Junior,Data Scientist,7.000
+2479,Junior,Back-end Developer,6.000
+2480,Senior,Back-end Developer,16.000
+2481,Junior,Front-end Developer,8.000
+2482,Middle,Full Stack Developer,8.000
+2483,Senior,Team / Tech Lead,33.000
+2484,Senior,Team / Tech Lead,36.000
+2485,Middle,Front-end Developer,8.000
+2486,Middle,Mobile Application Developer,12.000
+2487,Senior,Software Development Manager,20.000
+2488,Senior,Software Development Manager,15.000
+2490,Senior,Team / Tech Lead,17.000
+2492,Middle,Back-end Developer,20.000
+2493,Senior,Front-end Developer,16.000
+2494,Junior,Mobile Application Developer,10.000
+2495,Junior,Back-end Developer,6.000
+2496,Middle,Back-end Developer,15.000
+2497,Senior,CTO,50.000
+2498,Junior,Back-end Developer,10.000
+2499,Senior,Full Stack Developer,22.000
+2500,Junior,Mobile Application Developer,10.000
+2501,Middle,Back-end Developer,20.000
+2502,Middle,Full Stack Developer,13.000
+2503,Middle,Full Stack Developer,7.000
+2504,Senior,Front-end Developer,15.000
+2505,Middle,Full Stack Developer,13.000
+2506,Senior,Software Architect,32.000
+2507,Middle,Front-end Developer,13.000
+2508,Middle,Full Stack Developer,19.000
+2510,Middle,Back-end Developer,10.000
+2511,Middle,Front-end Developer,18.000
+2512,Junior,QA / Test Automation Developer,5.000
+2514,Senior,Front-end Developer,35.000
+2515,Junior,Full Stack Developer,7.000
+2516,Junior,Front-end Developer,9.000
+2517,Senior,Back-end Developer,27.000
+2519,Middle,Data Scientist,25.000
+2520,Senior,Back-end Developer,20.000
+2521,Senior,Mobile Application Developer,25.000
+2522,Senior,Full Stack Developer,21.000
+2523,Middle,Mobile Application Developer,16.000
+2524,Senior,Back-end Developer,25.000
+2526,Senior,Full Stack Developer,14.000
+2527,Junior,Mobile Application Developer,9.000
+2528,Junior,Data Scientist,8.000
+2529,Middle,Full Stack Developer,7.000
+2531,Middle,Full Stack Developer,15.000
+2532,Senior,Full Stack Developer,14.000
+2533,Senior,Software Architect,20.000
+2534,Middle,Game Developer,9.000
+2535,Senior,Team / Tech Lead,19.000
+2536,Middle,Front-end Developer,7.000
+2537,Senior,Front-end Developer,5.000
+2538,Junior,Data Analyst,8.000
+2539,Junior,Support Engineer,5.000
+2540,Middle,Full Stack Developer,7.000
+2541,Senior,Back-end Developer,19.000
+2542,Senior,Software Development Manager,22.000
+2543,Senior,Data Analyst,25.000
+2544,Middle,QA / Test Automation Developer,14.000
+2545,Middle,Front-end Developer,7.000
+2546,Senior,Game Developer,10.000
+2547,Senior,Back-end Developer,18.000
+2548,Middle,Front-end Developer,14.000
+2550,Middle,Full Stack Developer,18.000
+2551,Senior,Team / Tech Lead,22.000
+2552,Middle,Full Stack Developer,12.000
+2554,Senior,Full Stack Developer,6.000
+2555,Junior,Front-end Developer,9.000
+2556,Junior,Mobile Application Developer,10.000
+2558,Senior,Software Architect,20.000
+2559,Junior,Data Scientist,6.000
+2560,Senior,Software Development Manager,21.000
+2561,Middle,Full Stack Developer,5.000
+2562,Junior,Full Stack Developer,5.000
+2563,Middle,Front-end Developer,8.000
+2564,Junior,Mobile Application Developer,9.000
+2565,Middle,Business Analyst,21.000
+2566,Middle,Back-end Developer,10.000
+2567,Junior,Mobile Application Developer,9.000
+2568,Senior,Mobile Application Developer,26.000
+2570,Middle,Full Stack Developer,15.000
+2571,Junior,Back-end Developer,5.000
+2572,Middle,Full Stack Developer,7.000
+2573,Middle,Back-end Developer,16.000
+2574,Senior,Full Stack Developer,13.000
+2576,Senior,Software Development Manager,50.000
+2577,Middle,Back-end Developer,12.000
+2578,Senior,Team / Tech Lead,31.000
+2579,Senior,Full Stack Developer,21.000
+2580,Senior,CTO,40.000
+2581,Junior,Full Stack Developer,6.000
+2582,Middle,Full Stack Developer,8.000
+2583,Junior,QA / Test Automation Developer,7.000
+2584,Junior,Front-end Developer,6.000
+2585,Senior,Back-end Developer,20.000
+2586,Senior,Mobile Application Developer,29.000
+2587,Senior,Full Stack Developer,24.000
+2588,Junior,DevOps Engineer,11.000
+2589,Senior,Back-end Developer,18.000
+2590,Junior,Mobile Application Developer,12.000
+2591,Senior,Mobile Application Developer,29.000
+2592,Middle,Data Scientist,16.000
+2593,Senior,Full Stack Developer,5.000
+2594,Junior,Back-end Developer,8.000
+2595,Middle,Data Scientist,15.000
+2597,Middle,Full Stack Developer,15.000
+2598,Junior,Full Stack Developer,7.000
+2599,Senior,Back-end Developer,21.000
+2600,Senior,CTO,50.000
+2602,Senior,Full Stack Developer,10.000
+2603,Senior,Full Stack Developer,11.000
+2604,Senior,Team / Tech Lead,31.000
+2605,Senior,Team / Tech Lead,25.000
+2606,Senior,Full Stack Developer,16.000
+2607,Middle,Software Development Manager,25.000
+2608,Middle,Back-end Developer,12.000
+2609,Senior,Full Stack Developer,25.000
+2610,Senior,Mobile Application Developer,14.000
+2611,Senior,Full Stack Developer,19.000
+2612,Senior,Embedded Software Developer,15.000
+2613,Senior,Full Stack Developer,17.000
+2614,Senior,Full Stack Developer,23.000
+2615,Junior,Back-end Developer,7.000
+2616,Senior,Full Stack Developer,16.000
+2618,Senior,Team / Tech Lead,37.000
+2619,Middle,Back-end Developer,11.000
+2620,Middle,Back-end Developer,10.000
+2621,Middle,Full Stack Developer,20.000
+2622,Senior,Full Stack Developer,14.000
+2624,Senior,Full Stack Developer,29.000
+2625,Senior,Full Stack Developer,14.000
+2626,Middle,Mobile Application Developer,5.000
+2627,Senior,Full Stack Developer,16.000
+2628,Middle,Embedded Software Developer,12.000
+2629,Senior,Team / Tech Lead,25.000
+2630,Senior,Back-end Developer,24.000
+2631,Senior,Back-end Developer,28.000
+2632,Senior,Full Stack Developer,21.000
+2633,Junior,Full Stack Developer,8.000
+2634,Middle,Back-end Developer,10.000
+2635,Middle,Full Stack Developer,12.000
+2636,Middle,Full Stack Developer,17.000
+2637,Junior,Game Developer,6.000
+2638,Middle,Back-end Developer,10.000
+2639,Senior,Team / Tech Lead,27.000
+2640,Middle,Back-end Developer,15.000
+2641,Senior,Back-end Developer,17.000
+2642,Senior,Software Architect,20.000
+2643,Senior,Team / Tech Lead,14.000
+2644,Junior,Software Architect,8.000
+2645,Senior,Full Stack Developer,15.000
+2646,Senior,Back-end Developer,18.000
+2648,Middle,Back-end Developer,10.000
+2649,Junior,QA / Test Automation Developer,7.000
+2651,Middle,Full Stack Developer,23.000
+2652,Junior,Front-end Developer,6.000
+2653,Middle,Back-end Developer,10.000
+2654,Senior,Front-end Developer,15.000
+2655,Senior,Software Development Manager,45.000
+2656,Senior,Back-end Developer,17.000
+2657,Middle,Front-end Developer,6.000
+2658,Senior,Full Stack Developer,17.000
+2659,Senior,Back-end Developer,35.000
+2660,Senior,Full Stack Developer,18.000
+2662,Middle,Front-end Developer,16.000
+2663,Middle,Back-end Developer,12.000
+2664,Senior,Back-end Developer,21.000
+2666,Senior,Back-end Developer,21.000
+2667,Middle,Back-end Developer,8.000
+2669,Senior,Back-end Developer,20.000
+2670,Middle,Front-end Developer,29.000
+2671,Senior,Back-end Developer,20.000
+2672,Middle,Back-end Developer,9.000
+2673,Senior,Back-end Developer,14.000
+2674,Junior,Back-end Developer,9.000
+2675,Senior,Full Stack Developer,14.000
+2676,Senior,Full Stack Developer,17.000
+2677,Middle,Full Stack Developer,8.000
+2678,Senior,Software Architect,30.000
+2679,Junior,Mobile Application Developer,5.000
+2680,Senior,Team / Tech Lead,30.000
+2681,Senior,Full Stack Developer,19.000
+2682,Middle,Software Development Manager,13.000
+2683,Junior,IT Specialist,5.000
+2684,Senior,Back-end Developer,29.000
+2685,Senior,Back-end Developer,17.000
+2686,Senior,Full Stack Developer,11.000
+2688,Junior,Full Stack Developer,7.000
+2689,Senior,Back-end Developer,12.000
+2690,Middle,Back-end Developer,9.000
+2691,Middle,Full Stack Developer,22.000
+2692,Junior,Full Stack Developer,6.000
+2693,Middle,Full Stack Developer,8.000
+2694,Senior,Full Stack Developer,17.000
+2695,Junior,Back-end Developer,5.000
+2696,Middle,Back-end Developer,12.000
+2697,Middle,Back-end Developer,12.000
+2698,Middle,Full Stack Developer,23.000
+2699,Senior,Team / Tech Lead,11.000
+2700,Middle,Back-end Developer,10.000
+2701,Senior,Full Stack Developer,12.000
+2702,Senior,Full Stack Developer,19.000
+2703,Senior,Back-end Developer,36.000
+2704,Junior,RPA Developer,6.000
+2705,Senior,Software Architect,16.000
+2706,Middle,QA / Test Automation Developer,13.000
+2707,Junior,Back-end Developer,5.000
+2708,Middle,Blockchain Developer,15.000
+2709,Senior,Back-end Developer,33.000
+2710,Senior,Full Stack Developer,20.000
+2711,Middle,Full Stack Developer,19.000
+2712,Senior,Software Development Manager,33.000
+2714,Senior,Back-end Developer,17.000
+2715,Senior,Full Stack Developer,21.000
+2716,Junior,Back-end Developer,11.000
+2717,Senior,Back-end Developer,21.000
+2718,Middle,Full Stack Developer,13.000
+2719,Senior,Back-end Developer,19.000
+2720,Junior,Front-end Developer,5.000
+2721,Senior,Software Development Manager,17.000
+2722,Junior,Full Stack Developer,7.000
+2723,Junior,Back-end Developer,8.000
+2724,Senior,Full Stack Developer,14.000
+2725,Senior,Back-end Developer,34.000
+2726,Senior,Full Stack Developer,17.000
+2727,Junior,Front-end Developer,5.000
+2728,Junior,Full Stack Developer,7.000
+2729,Senior,Back-end Developer,17.000
+2730,Senior,Software Architect,25.000
+2731,Senior,Full Stack Developer,10.000
+2732,Senior,Software Architect,27.000
+2733,Senior,Full Stack Developer,15.000
+2735,Middle,Back-end Developer,14.000
+2736,Senior,Back-end Developer,13.000
+2737,Middle,Full Stack Developer,11.000
+2738,Middle,Embedded Software Developer,17.000
+2739,Senior,Back-end Developer,23.000
+2740,Senior,Back-end Developer,40.000
+2741,Senior,Back-end Developer,27.000
+2742,Middle,Embedded Software Developer,16.000
+2743,Senior,DevOps Engineer,15.000
+2745,Senior,Team / Tech Lead,26.000
+2746,Senior,Full Stack Developer,20.000
+2747,Junior,Full Stack Developer,7.000
+2748,Senior,Team / Tech Lead,30.000
+2749,Middle,Front-end Developer,17.000
+2751,Junior,Back-end Developer,9.000
+2752,Middle,Mobile Application Developer,16.000
+2753,Middle,Full Stack Developer,12.000
+2754,Middle,Full Stack Developer,17.000
+2755,Senior,Game Developer,25.000
+2756,Senior,Full Stack Developer,19.000
+2757,Middle,Full Stack Developer,9.000
+2758,Senior,QA / Test Automation Developer,12.000
+2759,Junior,Back-end Developer,13.000
+2760,Junior,Full Stack Developer,6.000
+2761,Senior,Back-end Developer,16.000
+2762,Middle,Front-end Developer,16.000
+2763,Junior,Full Stack Developer,16.000
+2764,Junior,Back-end Developer,7.000
+2765,Middle,Full Stack Developer,8.000
+2766,Senior,CTO,24.000
+2769,Junior,Full Stack Developer,7.000
+2770,Middle,Full Stack Developer,6.000
+2771,Middle,Full Stack Developer,13.000
+2772,Senior,Back-end Developer,20.000
+2773,Middle,Front-end Developer,25.000
+2774,Senior,Software Architect,35.000
+2775,Middle,Full Stack Developer,24.000
+2776,Junior,Embedded Software Developer,11.000
+2777,Senior,Full Stack Developer,28.000
+2778,Junior,Game Developer,11.000
+2779,Senior,Full Stack Developer,12.000
+2780,Senior,Back-end Developer,15.000
+2781,Junior,Front-end Developer,13.000
+2782,Senior,Team / Tech Lead,15.000
+2783,Junior,Mobile Application Developer,11.000
+2784,Middle,Back-end Developer,14.000
+2785,Middle,Back-end Developer,5.000
+2786,Senior,Back-end Developer,34.000
+2787,Junior,Front-end Developer,12.000
+2788,Middle,Full Stack Developer,12.000
+2789,Middle,Back-end Developer,12.000
+2790,Junior,QA / Test Automation Developer,6.000
+2791,Senior,Business Analyst,13.000
+2792,Junior,Full Stack Developer,11.000
+2793,Senior,Software Architect,32.000
+2794,Senior,Data Scientist,31.000
+2795,Middle,Full Stack Developer,6.000
+2796,Senior,Team / Tech Lead,22.000
+2797,Junior,Game Developer,7.000
+2798,Senior,Back-end Developer,14.000
+2799,Senior,Full Stack Developer,13.000
+2800,Senior,Full Stack Developer,23.000
+2802,Junior,Full Stack Developer,10.000
+2804,Junior,Front-end Developer,7.000
+2805,Middle,Back-end Developer,7.000
+2806,Middle,Mobile Application Developer,5.000
+2807,Senior,Team / Tech Lead,21.000
+2809,Middle,Full Stack Developer,10.000
+2810,Middle,Mobile Application Developer,13.000
+2811,Junior,Full Stack Developer,8.000
+2812,Senior,Front-end Developer,15.000
+2813,Junior,Front-end Developer,10.000
+2814,Senior,Full Stack Developer,17.000
+2815,Senior,Back-end Developer,22.000
+2816,Senior,Full Stack Developer,20.000
+2817,Junior,Mobile Application Developer,8.000
+2818,Junior,Back-end Developer,10.000
+2819,Middle,Full Stack Developer,14.000
+2820,Senior,Mobile Application Developer,22.000
+2821,Senior,Back-end Developer,50.000
+2824,Middle,Back-end Developer,6.000
+2825,Senior,Software Development Manager,19.000
+2826,Middle,Front-end Developer,14.000
+2827,Senior,Team / Tech Lead,14.000
+2828,Junior,Full Stack Developer,6.000
+2829,Junior,Mobile Application Developer,11.000
+2830,Middle,Back-end Developer,13.000
+2831,Senior,Consultant,50.000
+2832,Senior,Front-end Developer,19.000
+2834,Senior,Game Developer,10.000
+2835,Senior,Full Stack Developer,17.000
+2836,Junior,Back-end Developer,9.000
+2837,Middle,Back-end Developer,8.000
+2838,Senior,Full Stack Developer,22.000
+2839,Junior,Front-end Developer,6.000
+2840,Middle,Full Stack Developer,20.000
+2842,Senior,Full Stack Developer,21.000
+2843,Senior,Full Stack Developer,16.000
+2844,Senior,Team / Tech Lead,45.000
+2845,Junior,Front-end Developer,5.000
+2846,Junior,Back-end Developer,8.000
+2847,Senior,Full Stack Developer,18.000
+2848,Middle,IT Specialist,7.000
+2849,Senior,Full Stack Developer,8.000
+2850,Senior,Software Architect,10.000
+2851,Middle,Front-end Developer,8.000
+2852,Middle,Software Development Manager,38.000
+2853,Senior,Team / Tech Lead,15.000
+2854,Senior,Back-end Developer,16.000
+2855,Senior,Data Engineer,35.000
+2857,Junior,Back-end Developer,6.000
+2858,Middle,Back-end Developer,11.000
+2859,Junior,Full Stack Developer,5.000
+2860,Middle,Front-end Developer,9.000
+2861,Senior,Team / Tech Lead,31.000
+2862,Senior,Full Stack Developer,12.000
+2863,Senior,Full Stack Developer,23.000
+2864,Senior,Full Stack Developer,20.000
+2865,Senior,Data Scientist,7.000
+2866,Senior,Front-end Developer,22.000
+2867,Senior,SysAdmin,19.000
+2868,Senior,Back-end Developer,18.000
+2869,Junior,Full Stack Developer,7.000
+2870,Middle,Front-end Developer,14.000
+2871,Senior,Full Stack Developer,24.000
+2872,Junior,Mobile Application Developer,5.000
+2873,Senior,QA / Test Automation Developer,17.000
+2874,Senior,Software Development Manager,24.000
+2875,Middle,Full Stack Developer,10.000
+2876,Middle,Full Stack Developer,13.000
+2877,Senior,Front-end Developer,21.000
+2878,Junior,QA / Test Automation Developer,7.000
+2879,Senior,Full Stack Developer,36.000
+2880,Senior,Back-end Developer,18.000
+2881,Middle,Full Stack Developer,17.000
+2883,Middle,Mobile Application Developer,19.000
+2884,Senior,Back-end Developer,7.000
+2885,Middle,Front-end Developer,10.000
+2886,Junior,Back-end Developer,6.000
+2887,Middle,Full Stack Developer,15.000
+2888,Junior,Back-end Developer,12.000
+2890,Junior,Full Stack Developer,10.000
+2891,Middle,Mobile Application Developer,9.000
+2892,Senior,Full Stack Developer,22.000
+2893,Senior,Back-end Developer,45.000
+2894,Senior,Full Stack Developer,17.000
+2895,Senior,Back-end Developer,18.000
+2896,Senior,Back-end Developer,20.000
+2897,Senior,Team / Tech Lead,15.000
+2898,Senior,Team / Tech Lead,45.000
+2900,Senior,Full Stack Developer,21.000
+2901,Senior,Full Stack Developer,21.000
+2902,Junior,Back-end Developer,5.000
+2903,Senior,Software Development Manager,24.000
+2904,Senior,Back-end Developer,25.000
+2905,Senior,Full Stack Developer,17.000
+2906,Junior,Full Stack Developer,7.000
+2907,Junior,Back-end Developer,14.000
+2908,Middle,Full Stack Developer,10.000
+2909,Senior,Full Stack Developer,12.000
+2910,Senior,Back-end Developer,24.000
+2912,Middle,Mobile Application Developer,14.000
+2914,Junior,Back-end Developer,6.000
+2915,Senior,Team / Tech Lead,18.000
+2916,Junior,Mobile Application Developer,6.000
+2917,Junior,Full Stack Developer,5.000
+2918,Senior,Software Architect,28.000
+2919,Senior,Full Stack Developer,30.000
+2920,Senior,Back-end Developer,28.000
+2921,Middle,DevOps Engineer,10.000
+2922,Middle,Back-end Developer,12.000
+2923,Middle,Mobile Application Developer,14.000
+2924,Senior,Software Architect,27.000
+2925,Middle,Software Architect,9.000
+2926,Senior,Back-end Developer,13.000
+2927,Middle,Full Stack Developer,14.000
+2928,Senior,Back-end Developer,21.000
+2929,Senior,Full Stack Developer,21.000
+2930,Junior,Back-end Developer,8.000
+2931,Junior,Mobile Application Developer,8.000
+2932,Middle,Back-end Developer,20.000
+2933,Senior,Front-end Developer,13.000
+2934,Senior,CTO,23.000
+2935,Junior,Support Engineer,9.000
+2936,Middle,Mobile Application Developer,15.000
+2937,Junior,Full Stack Developer,8.000
+2938,Middle,Back-end Developer,17.000
+2940,Junior,Front-end Developer,7.000
+2941,Junior,Front-end Developer,5.000
+2942,Middle,Front-end Developer,6.000
+2943,Middle,Back-end Developer,11.000
+2944,Senior,Mobile Application Developer,20.000
+2946,Senior,Full Stack Developer,12.000
+2947,Middle,Full Stack Developer,16.000
+2948,Middle,Mobile Application Developer,19.000
+2949,Junior,Mobile Application Developer,8.000
+2950,Senior,Embedded Software Developer,29.000
+2951,Middle,Back-end Developer,8.000
+2952,Senior,Team / Tech Lead,40.000
+2953,Junior,Full Stack Developer,7.000
+2954,Junior,Full Stack Developer,5.000
+2955,Middle,Mobile Application Developer,16.000
+2956,Senior,Full Stack Developer,13.000
+2957,Middle,Data Scientist,22.000
+2958,Junior,Data Scientist,8.000
+2959,Senior,Back-end Developer,17.000
+2960,Senior,Front-end Developer,14.000
+2961,Junior,QA / Test Automation Developer,12.000
+2962,Middle,Back-end Developer,8.000
+2963,Middle,Mobile Application Developer,11.000
+2964,Junior,Back-end Developer,7.000
+2965,Senior,Full Stack Developer,25.000
+2966,Junior,Software Architect,10.000
+2967,Senior,Full Stack Developer,17.000
+2968,Middle,Mobile Application Developer,18.000
+2969,Middle,Mobile Application Developer,17.000
+2970,Junior,Front-end Developer,6.000
+2971,Middle,Data Scientist,17.000
+2972,Junior,Back-end Developer,6.000
+2973,Senior,Software Development Manager,21.000
+2974,Middle,Back-end Developer,18.000
+2976,Senior,Software Architect,32.000
+2977,Senior,Full Stack Developer,20.000
+2978,Middle,Front-end Developer,11.000
+2979,Senior,Mobile Application Developer,50.000
+2980,Senior,Software Development Manager,20.000
+2981,Junior,Full Stack Developer,6.000
+2982,Senior,Software Architect,27.000
+2983,Junior,Front-end Developer,7.000
+2984,Senior,Full Stack Developer,14.000
+2985,Junior,Full Stack Developer,6.000
+2986,Junior,Mobile Application Developer,5.000
+2987,Senior,Team / Tech Lead,28.000
+2988,Senior,CTO,30.000
+2990,Junior,Full Stack Developer,7.000
+2991,Senior,Software Development Manager,5.000
+2992,Junior,Back-end Developer,9.000
+2993,Junior,Full Stack Developer,17.000
+2994,Senior,Full Stack Developer,20.000
+2995,Junior,Front-end Developer,10.000
+2996,Senior,Full Stack Developer,27.000
+2997,Middle,Back-end Developer,12.000
+2998,Senior,Back-end Developer,22.000
+2999,Senior,Full Stack Developer,14.000
+3000,Senior,Back-end Developer,19.000
+3001,Senior,Back-end Developer,27.000
+3002,Middle,Full Stack Developer,16.000
+3003,Senior,Full Stack Developer,16.000
+3004,Junior,Mobile Application Developer,12.000
+3005,Senior,DevOps Engineer,37.000
+3007,Senior,Back-end Developer,12.000
+3008,Middle,Embedded Software Developer,6.000
+3009,Senior,Full Stack Developer,23.000
+3010,Junior,Front-end Developer,10.000
+3012,Senior,CTO,24.000
+3013,Junior,Full Stack Developer,5.000
+3014,Junior,Back-end Developer,7.000
+3015,Middle,Full Stack Developer,11.000
+3016,Middle,Full Stack Developer,10.000
+3017,Senior,Software Development Manager,23.000
+3018,Senior,Team / Tech Lead,20.000
+3019,Senior,Full Stack Developer,25.000
+3020,Senior,Full Stack Developer,7.000
+3021,Senior,Full Stack Developer,6.000
+3022,Junior,Back-end Developer,5.000
+3023,Senior,Software Architect,42.000
+3024,Middle,Full Stack Developer,18.000
+3025,Junior,Full Stack Developer,8.000
+3026,Middle,Full Stack Developer,15.000
+3027,Junior,Back-end Developer,7.000
+3028,Middle,Full Stack Developer,20.000
+3029,Middle,Back-end Developer,13.000
+3030,Junior,Full Stack Developer,5.000
+3031,Junior,Front-end Developer,10.000
+3032,Senior,DevOps Engineer,16.000
+3033,Senior,Team / Tech Lead,18.000
+3034,Senior,Back-end Developer,21.000
+3035,Middle,Mobile Application Developer,12.000
+3036,Senior,Back-end Developer,17.000
+3037,Junior,Back-end Developer,5.000
+3038,Junior,Full Stack Developer,8.000
+3039,Senior,Team / Tech Lead,23.000
+3040,Senior,Software Development Manager,22.000
+3041,Junior,Back-end Developer,8.000
+3042,Middle,Full Stack Developer,13.000
+3043,Senior,Back-end Developer,31.000
+3044,Senior,Full Stack Developer,11.000
+3045,Middle,Front-end Developer,13.000
+3046,Senior,Front-end Developer,45.000
+3047,Senior,Full Stack Developer,19.000
+3049,Senior,Team / Tech Lead,19.000
+3050,Junior,Back-end Developer,9.000
+3051,Junior,Full Stack Developer,12.000
+3052,Middle,Full Stack Developer,7.000
+3053,Middle,Back-end Developer,12.000
+3054,Junior,Full Stack Developer,5.000
+3055,Senior,Back-end Developer,22.000
+3056,Middle,Full Stack Developer,8.000
+3057,Middle,Full Stack Developer,12.000
+3058,Senior,Team / Tech Lead,50.000
+3059,Middle,Full Stack Developer,12.000
+3061,Junior,Back-end Developer,6.000
+3062,Senior,Software Architect,23.000
+3063,Senior,Back-end Developer,20.000
+3064,Senior,Embedded Software Developer,15.000
+3065,Senior,Back-end Developer,23.000
+3066,Middle,Mobile Application Developer,32.000
+3068,Senior,Back-end Developer,16.000
+3069,Senior,Data Scientist,24.000
+3070,Middle,Full Stack Developer,18.000
+3071,Senior,Back-end Developer,15.000
+3072,Senior,Full Stack Developer,19.000
+3073,Junior,Mobile Application Developer,5.000
+3074,Middle,Mobile Application Developer,18.000
+3075,Middle,Full Stack Developer,7.000
+3076,Middle,Full Stack Developer,15.000
+3077,Senior,Back-end Developer,23.000
+3078,Senior,DevOps Engineer,32.000
+3079,Junior,Front-end Developer,11.000
+3080,Junior,Front-end Developer,10.000
+3081,Senior,Front-end Developer,8.000
+3082,Senior,Back-end Developer,19.000
+3083,Junior,Full Stack Developer,8.000
+3084,Middle,Full Stack Developer,14.000
+3085,Senior,Full Stack Developer,8.000
+3086,Middle,Back-end Developer,13.000
+3087,Senior,Front-end Developer,26.000
+3088,Middle,Data Scientist,13.000
+3089,Middle,Front-end Developer,8.000
+3090,Senior,Back-end Developer,21.000
+3091,Middle,Mobile Application Developer,15.000
+3092,Junior,Back-end Developer,8.000
+3094,Senior,Full Stack Developer,11.000
+3095,Senior,CTO,40.000
+3096,Middle,Full Stack Developer,11.000
+3097,Junior,Full Stack Developer,5.000
+3098,Middle,Full Stack Developer,18.000
+3099,Middle,Full Stack Developer,5.000
+3100,Senior,Front-end Developer,30.000
+3102,Middle,DevOps Engineer,11.000
+3103,Senior,Full Stack Developer,15.000
+3104,Senior,Full Stack Developer,17.000
+3105,Middle,Back-end Developer,17.000
+3106,Middle,Embedded Software Developer,13.000
+3107,Middle,Full Stack Developer,30.000
+3109,Middle,Back-end Developer,13.000
+3110,Middle,Back-end Developer,9.000
+3111,Junior,Front-end Developer,8.000
+3112,Senior,Full Stack Developer,15.000
+3113,Senior,Full Stack Developer,14.000
+3114,Junior,Software Development Manager,50.000
+3116,Junior,Back-end Developer,20.000
+3117,Senior,Full Stack Developer,15.000
+3118,Middle,Full Stack Developer,6.000
+3119,Junior,Full Stack Developer,8.000
+3120,Senior,Back-end Developer,20.000
+3121,Junior,Back-end Developer,9.000
+3123,Junior,Mobile Application Developer,9.000
+3124,Middle,Full Stack Developer,10.000
+3125,Senior,Full Stack Developer,19.000
+3126,Junior,Data Scientist,12.000
+3127,Junior,Mobile Application Developer,10.000
+3128,Junior,IT Specialist,17.000
+3129,Senior,Full Stack Developer,14.000
+3130,Middle,Software Development Manager,30.000
+3131,Middle,Back-end Developer,6.000
+3132,Middle,Mobile Application Developer,16.000
+3133,Middle,Mobile Application Developer,13.000
+3134,Senior,Full Stack Developer,13.000
+3135,Junior,Back-end Developer,7.000
+3136,Senior,Data Scientist,9.000
+3137,Senior,Mobile Application Developer,17.000
+3138,Junior,Back-end Developer,10.000
+3139,Junior,Back-end Developer,10.000
+3140,Middle,Full Stack Developer,11.000
+3141,Senior,Front-end Developer,14.000
+3142,Senior,Software Development Manager,50.000
+3143,Middle,Full Stack Developer,8.000
+3144,Junior,Back-end Developer,6.000
+3145,Junior,Back-end Developer,6.000
+3146,Senior,Back-end Developer,21.000
+3147,Junior,Full Stack Developer,9.000
+3149,Senior,Software Development Manager,22.000
+3150,Middle,Back-end Developer,14.000
+3151,Middle,Full Stack Developer,8.000
+3152,Senior,Front-end Developer,27.000
+3153,Junior,Mobile Application Developer,7.000
+3154,Senior,Back-end Developer,22.000
+3155,Middle,Mobile Application Developer,9.000
+3156,Senior,Software Architect,25.000
+3157,Senior,Back-end Developer,29.000
+3158,Junior,Full Stack Developer,7.000
+3159,Junior,Mobile Application Developer,6.000
+3160,Senior,Full Stack Developer,10.000
+3161,Middle,DevOps Engineer,9.000
+3162,Senior,Back-end Developer,13.000
+3163,Middle,Full Stack Developer,9.000
+3164,Middle,Front-end Developer,6.000
+3166,Junior,Mobile Application Developer,9.000
+3167,Senior,Full Stack Developer,21.000
+3168,Senior,Full Stack Developer,11.000
+3169,Junior,Full Stack Developer,10.000
+3171,Senior,Full Stack Developer,30.000
+3172,Middle,Full Stack Developer,7.000
+3173,Senior,Mobile Application Developer,22.000
+3174,Middle,Full Stack Developer,10.000
+3175,Senior,Mobile Application Developer,25.000
+3176,Senior,Back-end Developer,16.000
+3177,Junior,Front-end Developer,9.000
+3178,Middle,Back-end Developer,5.000
+3179,Junior,Data Scientist,10.000
+3180,Middle,QA / Test Automation Developer,14.000
+3181,Senior,Mobile Application Developer,15.000
+3182,Middle,Back-end Developer,12.000
+3183,Senior,Full Stack Developer,9.000
+3184,Senior,Embedded Software Developer,50.000
+3187,Junior,Full Stack Developer,7.000
+3188,Middle,Back-end Developer,9.000
+3189,Junior,Back-end Developer,5.000
+3190,Senior,Team / Tech Lead,17.000
+3191,Middle,Back-end Developer,17.000
+3192,Junior,Front-end Developer,10.000
+3194,Middle,Front-end Developer,9.000
+3195,Junior,Full Stack Developer,9.000
+3196,Senior,Back-end Developer,25.000
+3197,Senior,Front-end Developer,42.000
+3198,Middle,Full Stack Developer,13.000
+3199,Junior,Front-end Developer,13.000
+3200,Senior,Back-end Developer,30.000
+3202,Junior,Full Stack Developer,7.000
+3203,Middle,Mobile Application Developer,15.000
+3206,Junior,Front-end Developer,8.000
+3207,Senior,Team / Tech Lead,27.000
+3208,Middle,Mobile Application Developer,23.000
+3209,Junior,Back-end Developer,12.000
+3210,Middle,Front-end Developer,5.000
+3212,Junior,Full Stack Developer,8.000
+3213,Senior,Full Stack Developer,26.000
+3214,Middle,Data Scientist,14.000
+3215,Junior,QA / Test Automation Developer,6.000
+3216,Senior,Back-end Developer,25.000
+3217,Junior,Full Stack Developer,5.000
+3219,Junior,QA / Test Automation Developer,5.000
+3220,Middle,Game Developer,10.000
+3221,Senior,Full Stack Developer,21.000
+3223,Middle,Back-end Developer,14.000
+3224,Middle,Full Stack Developer,15.000
+3225,Middle,Front-end Developer,9.000
+3226,Junior,Full Stack Developer,9.000
+3227,Junior,Full Stack Developer,10.000
+3228,Senior,Front-end Developer,15.000
+3229,Senior,Software Architect,42.000
+3230,Senior,Full Stack Developer,25.000
+3231,Senior,Full Stack Developer,41.000
+3232,Middle,Front-end Developer,15.000
+3233,Middle,Full Stack Developer,17.000
+3234,Middle,Front-end Developer,14.000
+3235,Middle,DevOps Engineer,19.000
+3236,Senior,Back-end Developer,20.000
+3237,Senior,Front-end Developer,14.000
+3238,Middle,Back-end Developer,17.000
+3240,Junior,Mobile Application Developer,5.000
+3241,Junior,Back-end Developer,13.000
+3242,Senior,Software Development Manager,31.000
+3243,Middle,Full Stack Developer,13.000
+3244,Senior,Back-end Developer,13.000
+3245,Middle,Back-end Developer,10.000
+3246,Middle,Data Analyst,10.000
+3247,Middle,Back-end Developer,20.000
+3248,Senior,Software Development Manager,32.000
+3251,Senior,Mobile Application Developer,21.000
+3252,Senior,Full Stack Developer,17.000
+3254,Senior,Back-end Developer,6.000
+3255,Senior,Back-end Developer,13.000
+3256,Middle,Back-end Developer,11.000
+3257,Senior,Software Development Manager,34.000
+3258,Junior,Full Stack Developer,15.000
+3259,Junior,Front-end Developer,5.000
+3260,Senior,SAP/ABAP/ERP Developer,17.000
+3261,Senior,Back-end Developer,8.000
+3262,Senior,Full Stack Developer,30.000
+3263,Middle,QA / Test Automation Developer,21.000
+3264,Junior,Full Stack Developer,10.000
+3268,Middle,Front-end Developer,13.000
+3269,Middle,Full Stack Developer,20.000
+3270,Senior,Data Scientist,16.000
+3271,Middle,Back-end Developer,12.000
+3272,Junior,Full Stack Developer,9.000
+3273,Senior,Front-end Developer,20.000
+3274,Junior,Back-end Developer,6.000
+3275,Junior,Mobile Application Developer,12.000
+3276,Junior,Game Developer,10.000
+3277,Senior,Mobile Application Developer,16.000
+3278,Junior,Front-end Developer,5.000
+3279,Middle,Back-end Developer,16.000
+3280,Middle,Full Stack Developer,9.000
+3281,Senior,CTO,40.000
+3283,Junior,Data Scientist,6.000
+3284,Senior,Back-end Developer,23.000
+3285,Senior,Full Stack Developer,21.000
+3287,Middle,QA / Test Automation Developer,7.000
+3290,Middle,Back-end Developer,10.000
+3291,Senior,Back-end Developer,11.000
+3292,Junior,Back-end Developer,8.000
+3294,Senior,Embedded Software Developer,20.000
+3295,Middle,Back-end Developer,13.000
+3296,Middle,Back-end Developer,16.000
+3297,Junior,Full Stack Developer,14.000
+3298,Junior,Mobile Application Developer,7.000
+3299,Senior,Team / Tech Lead,20.000
+3300,Junior,Full Stack Developer,8.000
+3301,Middle,Back-end Developer,9.000
+3302,Senior,Game Developer,5.000
+3303,Middle,QA / Test Automation Developer,16.000
+3304,Senior,Software Development Manager,42.000
+3305,Senior,Embedded Software Developer,18.000
+3306,Middle,Full Stack Developer,12.000
+3307,Senior,Software Architect,33.000
+3308,Senior,DevOps Engineer,8.000
+3309,Senior,Back-end Developer,19.000
+3310,Senior,Front-end Developer,28.000
+3311,Middle,Full Stack Developer,12.000
+3312,Junior,Back-end Developer,14.000
+3313,Senior,Mobile Application Developer,23.000
+3314,Middle,Back-end Developer,12.000
+3316,Junior,Front-end Developer,6.000
+3317,Junior,Full Stack Developer,11.000
+3318,Senior,Full Stack Developer,15.000
+3319,Middle,Mobile Application Developer,13.000
+3320,Middle,Full Stack Developer,8.000
+3322,Junior,Front-end Developer,6.000
+3323,Middle,Machine Learning,18.000
+3324,Junior,Front-end Developer,10.000
+3325,Middle,Back-end Developer,9.000
+3327,Middle,Full Stack Developer,6.000
+3328,Senior,Back-end Developer,13.000
+3329,Senior,Team / Tech Lead,25.000
+3330,Middle,Data Scientist,19.000
+3331,Junior,Mobile Application Developer,5.000
+3332,Senior,Back-end Developer,18.000
+3333,Middle,Back-end Developer,26.000
+3335,Middle,Front-end Developer,15.000
+3336,Senior,Front-end Developer,20.000
+3337,Senior,Team / Tech Lead,14.000
+3338,Junior,Mobile Application Developer,6.000
+3339,Junior,Back-end Developer,7.000
+3340,Junior,Game Developer,7.000
+3341,Junior,Full Stack Developer,5.000
+3343,Senior,Data Scientist,24.000
+3344,Senior,Back-end Developer,24.000
+3345,Middle,Back-end Developer,9.000
+3347,Junior,Front-end Developer,5.000
+3348,Junior,Back-end Developer,6.000
+3349,Middle,Full Stack Developer,10.000
+3350,Senior,Software Architect,24.000
+3351,Middle,Back-end Developer,13.000
+3353,Junior,Full Stack Developer,7.000
+3354,Junior,Mobile Application Developer,7.000
+3355,Middle,Full Stack Developer,9.000
+3356,Junior,Back-end Developer,11.000
+3357,Middle,Full Stack Developer,10.000
+3359,Junior,Back-end Developer,11.000
+3360,Junior,Full Stack Developer,10.000
+3361,Middle,Back-end Developer,10.000
+3362,Senior,Project & Product Manager / PO,35.000
+3363,Junior,Game Developer,13.000
+3364,Middle,Full Stack Developer,15.000
+3365,Middle,Back-end Developer,12.000
+3366,Middle,DevOps Engineer,15.000
+3367,Junior,Data Scientist,13.000
+3368,Senior,Embedded Software Developer,33.000
+3370,Junior,Mobile Application Developer,5.000
+3371,Junior,Mobile Application Developer,5.000
+3372,Senior,Team / Tech Lead,15.000
+3373,Middle,Full Stack Developer,11.000
+3376,Senior,Game Developer,50.000
+3377,Middle,Back-end Developer,14.000
+3380,Senior,Back-end Developer,21.000
+3381,Junior,Back-end Developer,8.000
+3382,Middle,Back-end Developer,11.000
+3383,Senior,Back-end Developer,23.000
+3384,Junior,Back-end Developer,10.000
+3385,Middle,Project & Product Manager / PO,14.000
+3386,Senior,Back-end Developer,15.000
+3387,Junior,Full Stack Developer,10.000
+3388,Senior,Full Stack Developer,23.000
+3389,Middle,Back-end Developer,18.000
+3390,Junior,Front-end Developer,5.000
+3391,Senior,Back-end Developer,19.000
+3392,Senior,Back-end Developer,18.000
+3393,Junior,Full Stack Developer,5.000
+3394,Middle,Full Stack Developer,12.000
+3395,Middle,Full Stack Developer,9.000
+3396,Middle,Full Stack Developer,9.000
+3397,Senior,Software Architect,37.000
+3398,Junior,Full Stack Developer,5.000
+3399,Junior,Embedded Software Developer,5.000
+3400,Middle,Back-end Developer,7.000
+3402,Middle,Back-end Developer,16.000
+3403,Middle,Back-end Developer,18.000
+3406,Junior,Mobile Application Developer,9.000
+3407,Senior,Software Development Manager,20.000
+3408,Senior,Back-end Developer,14.000
+3409,Senior,Full Stack Developer,33.000
+3410,Junior,Full Stack Developer,5.000
+3411,Junior,Front-end Developer,5.000
+3413,Middle,R&D Engineer,11.000
+3414,Middle,Mobile Application Developer,12.000
+3415,Senior,Full Stack Developer,25.000
+3417,Junior,Back-end Developer,7.000
+3418,Junior,Full Stack Developer,5.000
+3419,Middle,Back-end Developer,14.000
+3420,Junior,Game Developer,8.000
+3421,Middle,Full Stack Developer,13.000
+3422,Middle,Back-end Developer,12.000
+3423,Middle,Full Stack Developer,11.000
+3424,Senior,Full Stack Developer,13.000
+3425,Senior,Software Architect,38.000
+3426,Junior,Back-end Developer,9.000
+3427,Middle,Full Stack Developer,16.000
+3428,Senior,Full Stack Developer,14.000
+3429,Senior,Full Stack Developer,19.000
+3430,Junior,Embedded Software Developer,5.000
+3431,Junior,Back-end Developer,5.000
+3432,Senior,Back-end Developer,11.000
+3433,Middle,Full Stack Developer,17.000
+3434,Junior,Mobile Application Developer,6.000
+3435,Senior,Full Stack Developer,13.000
+3436,Senior,Embedded Software Developer,18.000
+3437,Middle,Full Stack Developer,10.000
+3438,Middle,Full Stack Developer,12.000
+3440,Senior,Back-end Developer,21.000
+3441,Senior,Software Development Manager,23.000
+3442,Middle,Full Stack Developer,18.000
+3443,Junior,Back-end Developer,8.000
+3446,Senior,Full Stack Developer,10.000
+3447,Middle,Front-end Developer,12.000
+3448,Middle,Back-end Developer,16.000
+3449,Senior,Software Architect,19.000
+3451,Senior,Software Architect,34.000
+3452,Middle,Full Stack Developer,9.000
+3454,Middle,Back-end Developer,14.000
+3456,Senior,Full Stack Developer,7.000
+3457,Junior,Full Stack Developer,12.000
+3458,Middle,Game Developer,8.000
+3459,Middle,Full Stack Developer,13.000
+3460,Senior,Back-end Developer,29.000
+3461,Middle,Front-end Developer,7.000
+3462,Middle,Front-end Developer,11.000
+3463,Senior,Back-end Developer,17.000
+3464,Middle,Full Stack Developer,9.000
+3466,Middle,Back-end Developer,20.000
+3467,Senior,Mobile Application Developer,27.000
+3468,Junior,Full Stack Developer,10.000
+3469,Junior,Data Scientist,9.000
+3470,Junior,Back-end Developer,14.000
+3471,Senior,Software Architect,25.000
+3472,Middle,Full Stack Developer,9.000
+3473,Middle,Full Stack Developer,14.000
+3474,Middle,Mobile Application Developer,12.000
+3475,Senior,Full Stack Developer,17.000
+3476,Senior,Full Stack Developer,14.000
+3477,Senior,Full Stack Developer,23.000
+3478,Middle,Back-end Developer,12.000
+3479,Senior,Back-end Developer,17.000
+3480,Senior,Data Scientist,17.000
+3481,Junior,Full Stack Developer,20.000
+3482,Senior,Software Development Manager,42.000
+3483,Senior,CTO,32.000
+3484,Senior,Team / Tech Lead,27.000
+3485,Junior,Full Stack Developer,7.000
+3486,Middle,Back-end Developer,18.000
+3487,Junior,Full Stack Developer,8.000
+3488,Middle,Mobile Application Developer,10.000
+3490,Junior,QA / Test Automation Developer,7.000
+3492,Junior,Back-end Developer,5.000
+3493,Senior,Back-end Developer,17.000
+3494,Middle,Full Stack Developer,11.000
+3495,Senior,Software Development Manager,26.000
+3496,Middle,Back-end Developer,14.000
+3497,Junior,Back-end Developer,5.000
+3498,Middle,Software Development Manager,7.000
+3499,Middle,Full Stack Developer,8.000
+3500,Senior,Back-end Developer,22.000
+3501,Middle,Full Stack Developer,7.000
+3502,Middle,Team / Tech Lead,10.000
+3503,Senior,Team / Tech Lead,35.000
+3504,Junior,Front-end Developer,36.000
+3505,Junior,Back-end Developer,7.000
+3506,Junior,Back-end Developer,6.000
+3507,Senior,Software Architect,18.000
+3508,Junior,Back-end Developer,10.000
+3509,Junior,Full Stack Developer,11.000
+3510,Senior,Back-end Developer,19.000
+3511,Middle,Mobile Application Developer,15.000
+3512,Senior,Full Stack Developer,24.000
+3513,Middle,Embedded Software Developer,18.000
+3514,Junior,Full Stack Developer,7.000
+3515,Senior,Mobile Application Developer,18.000
+3517,Middle,Mobile Application Developer,17.000
+3518,Junior,Mobile Application Developer,9.000
+3519,Middle,Back-end Developer,15.000
+3520,Senior,Back-end Developer,19.000
+3521,Senior,Front-end Developer,12.000
+3522,Senior,Full Stack Developer,28.000
+3524,Senior,Front-end Developer,17.000
+3525,Middle,Back-end Developer,13.000
+3526,Middle,Full Stack Developer,6.000
+3527,Middle,Front-end Developer,8.000
+3528,Senior,Software Architect,50.000
+3529,Senior,Mobile Application Developer,50.000
+3530,Junior,Front-end Developer,18.000
+3531,Senior,Back-end Developer,20.000
+3532,Senior,Back-end Developer,14.000
+3533,Junior,Back-end Developer,6.000
+3534,Middle,Back-end Developer,20.000
+3535,Senior,Team / Tech Lead,32.000
+3536,Junior,Full Stack Developer,7.000
+3538,Senior,Back-end Developer,31.000
+3542,Middle,Full Stack Developer,5.000
+3543,Middle,Front-end Developer,13.000
+3544,Junior,Back-end Developer,7.000
+3545,Junior,Mobile Application Developer,7.000
+3546,Junior,Front-end Developer,6.000
+3547,Senior,Software Development Manager,24.000
+3548,Senior,Full Stack Developer,24.000
+3549,Junior,DevOps Engineer,6.000
+3551,Junior,Mobile Application Developer,11.000
+3553,Senior,Mobile Application Developer,21.000
+3554,Junior,Mobile Application Developer,5.000
+3555,Junior,DevOps Engineer,11.000
+3556,Junior,Data Scientist,7.000
+3557,Middle,Back-end Developer,34.000
+3558,Senior,Back-end Developer,17.000
+3559,Middle,Full Stack Developer,6.000
+3560,Junior,Back-end Developer,12.000
+3561,Junior,Game Developer,10.000
+3562,Senior,Back-end Developer,21.000
+3563,Middle,Full Stack Developer,13.000
+3564,Senior,Full Stack Developer,9.000
+3565,Middle,Back-end Developer,17.000
+3567,Middle,Back-end Developer,14.000
+3568,Senior,Embedded Software Developer,20.000
+3569,Senior,Project & Product Manager / PO,41.000
+3571,Senior,Back-end Developer,27.000
+3572,Middle,Back-end Developer,40.000
+3573,Senior,Full Stack Developer,23.000
+3574,Senior,SAP/ABAP/ERP Developer,15.000
+3576,Junior,Front-end Developer,5.000
+3577,Junior,Front-end Developer,6.000
+3578,Junior,Back-end Developer,7.000
+3579,Senior,Back-end Developer,18.000
+3580,Senior,Team / Tech Lead,11.000
+3581,Middle,Back-end Developer,11.000
+3583,Junior,DevOps Engineer,9.000
+3584,Middle,Full Stack Developer,19.000
+3585,Senior,Team / Tech Lead,28.000
+3587,Middle,Front-end Developer,20.000
+3588,Junior,Back-end Developer,8.000
+3589,Middle,Back-end Developer,30.000
+3590,Senior,Full Stack Developer,20.000
+3591,Middle,Full Stack Developer,17.000
+3592,Senior,Back-end Developer,20.000
+3593,Senior,Full Stack Developer,12.000
+3594,Junior,Front-end Developer,7.000
+3595,Junior,Full Stack Developer,16.000
+3596,Middle,Back-end Developer,20.000
+3597,Junior,Full Stack Developer,6.000
+3598,Middle,Game Developer,23.000
+3600,Junior,Full Stack Developer,6.000
+3601,Senior,Full Stack Developer,18.000
+3602,Middle,Full Stack Developer,19.000
+3603,Senior,Back-end Developer,20.000
+3604,Senior,Team / Tech Lead,29.000
+3605,Middle,Full Stack Developer,14.000
+3606,Middle,Mobile Application Developer,21.000
+3607,Junior,Mobile Application Developer,6.000
+3608,Junior,DevOps Engineer,16.000
+3609,Junior,QA / Test Automation Developer,15.000
+3610,Junior,Front-end Developer,8.000
+3612,Middle,Mobile Application Developer,24.000
+3613,Middle,QA / Test Automation Developer,12.000
+3614,Senior,Back-end Developer,19.000
+3615,Senior,Back-end Developer,26.000
+3616,Middle,Full Stack Developer,5.000
+3617,Middle,Back-end Developer,30.000
+3618,Middle,QA / Test Automation Developer,24.000
+3619,Middle,Full Stack Developer,7.000
+3620,Junior,Full Stack Developer,14.000
+3621,Middle,Mobile Application Developer,27.000
+3622,Senior,Back-end Developer,20.000
+3623,Junior,Front-end Developer,10.000
+3624,Middle,Back-end Developer,16.000
+3625,Middle,Front-end Developer,15.000
+3626,Middle,Database Administrator,15.000
+3627,Junior,Front-end Developer,9.000
+3630,Middle,Front-end Developer,8.000
+3631,Senior,Team / Tech Lead,15.000
+3632,Junior,Data Scientist,9.000
+3633,Middle,Full Stack Developer,17.000
+3634,Senior,Front-end Developer,22.000
+3635,Middle,Full Stack Developer,7.000
+3637,Senior,Software Architect,29.000
+3638,Senior,Software Development Manager,34.000
+3639,Senior,Full Stack Developer,34.000
+3642,Senior,Full Stack Developer,14.000
+3643,Junior,Front-end Developer,8.000
+3644,Junior,QA / Test Automation Developer,9.000
+3645,Middle,Software Development Manager,41.000
+3646,Middle,Full Stack Developer,11.000
+3647,Senior,Mobile Application Developer,34.000
+3648,Junior,DevOps Engineer,8.000
+3649,Junior,Team / Tech Lead,10.000
+3650,Middle,Full Stack Developer,17.000
+3651,Junior,Game Developer,5.000
+3652,Senior,Team / Tech Lead,24.000
+3653,Junior,Mobile Application Developer,6.000
+3654,Middle,Back-end Developer,8.000
+3656,Senior,Back-end Developer,17.000
+3657,Junior,SAP/ABAP/ERP Developer,6.000
+3658,Senior,Team / Tech Lead,24.000
+3659,Middle,DevOps Engineer,25.000
+3660,Junior,Front-end Developer,7.000
+3661,Senior,DevOps Engineer,21.000
+3662,Senior,Software Development Manager,22.000
+3663,Senior,Full Stack Developer,18.000
+3665,Middle,Full Stack Developer,14.000
+3666,Senior,Full Stack Developer,20.000
+3667,Middle,Full Stack Developer,19.000
+3668,Junior,Back-end Developer,9.000
+3669,Middle,Back-end Developer,6.000
+3670,Junior,Mobile Application Developer,6.000
+3671,Middle,Full Stack Developer,10.000
+3672,Junior,QA / Test Automation Developer,6.000
+3673,Junior,Mobile Application Developer,7.000
+3674,Senior,Team / Tech Lead,14.000
+3675,Senior,Front-end Developer,16.000
+3676,Junior,Mobile Application Developer,5.000
+3678,Middle,Front-end Developer,17.000
+3679,Junior,Back-end Developer,10.000
+3680,Middle,Front-end Developer,13.000
+3681,Middle,Back-end Developer,7.000
+3682,Senior,CTO,37.000
+3683,Senior,Full Stack Developer,25.000
+3684,Middle,Team / Tech Lead,19.000
+3685,Junior,Team / Tech Lead,7.000
+3686,Junior,Full Stack Developer,13.000
+3687,Middle,Mobile Application Developer,14.000
+3688,Senior,Team / Tech Lead,50.000
+3690,Middle,Front-end Developer,11.000
+3691,Middle,Back-end Developer,18.000
+3692,Junior,Back-end Developer,11.000
+3693,Middle,Back-end Developer,12.000
+3694,Junior,Front-end Developer,8.000
+3695,Senior,Team / Tech Lead,38.000
+3696,Middle,Front-end Developer,13.000
+3697,Middle,Data Scientist,15.000
+3699,Middle,Full Stack Developer,15.000
+3700,Junior,Mobile Application Developer,5.000
+3701,Middle,Back-end Developer,12.000
+3702,Junior,Back-end Developer,6.000
+3703,Junior,Full Stack Developer,11.000
+3704,Junior,Full Stack Developer,19.000
+3705,Senior,Mobile Application Developer,25.000
+3706,Junior,Full Stack Developer,5.000
+3707,Middle,Back-end Developer,11.000
+3708,Middle,Full Stack Developer,10.000
+3709,Senior,Mobile Application Developer,35.000
+3710,Middle,Project & Product Manager / PO,20.000
+3712,Junior,Mobile Application Developer,6.000
+3713,Senior,Full Stack Developer,15.000
+3714,Junior,Full Stack Developer,7.000
+3715,Senior,Full Stack Developer,17.000
+3716,Senior,Back-end Developer,24.000
+3717,Middle,Data Engineer,30.000
+3718,Senior,Software Architect,16.000
+3719,Senior,Software Architect,42.000
+3720,Middle,Full Stack Developer,14.000
+3721,Middle,Data Scientist,5.000
+3722,Senior,Team / Tech Lead,35.000
+3723,Senior,Back-end Developer,18.000
+3724,Middle,Full Stack Developer,11.000
+3725,Middle,Back-end Developer,23.000
+3726,Junior,Front-end Developer,8.000
+3727,Junior,Front-end Developer,5.000
+3728,Senior,Mobile Application Developer,20.000
+3729,Middle,Front-end Developer,21.000
+3730,Junior,Front-end Developer,7.000
+3731,Middle,Back-end Developer,15.000
+3732,Middle,Back-end Developer,13.000
+3734,Junior,Mobile Application Developer,18.000
+3735,Junior,Full Stack Developer,16.000
+3736,Senior,Full Stack Developer,25.000
+3738,Senior,Data Scientist,25.000
+3739,Junior,Embedded Software Developer,16.000
+3740,Middle,Back-end Developer,10.000
+3741,Junior,Full Stack Developer,7.000
+3742,Senior,Full Stack Developer,16.000
+3743,Middle,Full Stack Developer,9.000
+3744,Senior,Full Stack Developer,30.000
+3745,Middle,Front-end Developer,17.000
+3746,Middle,Back-end Developer,14.000
+3747,Senior,Back-end Developer,23.000
+3749,Middle,Team / Tech Lead,25.000
+3750,Middle,Full Stack Developer,12.000
+3751,Middle,Data Scientist,14.000
+3753,Middle,Back-end Developer,13.000
+3754,Junior,Front-end Developer,8.000
+3755,Junior,Software Architect,8.000
+3756,Senior,Front-end Developer,21.000
+3757,Senior,Game Developer,50.000
+3758,Junior,Front-end Developer,9.000
+3759,Junior,Front-end Developer,7.000
+3760,Junior,DevOps Engineer,7.000
+3761,Junior,Back-end Developer,5.000
+3762,Middle,Back-end Developer,18.000
+3763,Senior,Team / Tech Lead,41.000
+3764,Senior,Software Architect,38.000
+3765,Senior,Mobile Application Developer,25.000
+3767,Senior,Team / Tech Lead,29.000
+3769,Senior,Software Development Manager,18.000
+3770,Middle,Front-end Developer,10.000
+3771,Middle,Full Stack Developer,12.000
+3772,Senior,Software Architect,30.000
+3773,Senior,Full Stack Developer,21.000
+3774,Middle,Full Stack Developer,14.000
+3775,Senior,Full Stack Developer,11.000
+3776,Senior,Back-end Developer,30.000
+3777,Senior,Front-end Developer,18.000
+3778,Junior,Data Scientist,5.000
+3779,Senior,Front-end Developer,21.000
+3780,Senior,Mobile Application Developer,28.000
+3781,Middle,Full Stack Developer,11.000
+3782,Junior,Back-end Developer,6.000
+3783,Senior,Front-end Developer,24.000
+3784,Junior,Back-end Developer,8.000
+3785,Senior,Full Stack Developer,21.000
+3786,Junior,Front-end Developer,7.000
+3787,Middle,Data Scientist,14.000
+3788,Middle,DevOps Engineer,18.000
+3789,Middle,Full Stack Developer,11.000
+3790,Middle,Front-end Developer,19.000
+3791,Senior,Front-end Developer,22.000
+3792,Senior,DevOps Engineer,32.000
+3793,Middle,Mobile Application Developer,9.000
+3795,Middle,Mobile Application Developer,13.000
+3796,Junior,Full Stack Developer,11.000
+3798,Senior,Back-end Developer,26.000
+3800,Senior,Software Architect,40.000
+3801,Middle,Back-end Developer,11.000
+3802,Middle,Embedded Software Developer,8.000
+3804,Middle,Full Stack Developer,14.000
+3805,Middle,Front-end Developer,8.000
+3806,Senior,Full Stack Developer,14.000
+3807,Middle,Full Stack Developer,18.000
+3808,Middle,Security,12.000
+3809,Middle,Full Stack Developer,16.000
+3810,Middle,Data Scientist,19.000
+3811,Middle,Data Scientist,10.000
+3813,Senior,Full Stack Developer,23.000
+3814,Middle,Mobile Application Developer,32.000
+3815,Middle,Back-end Developer,19.000
+3816,Senior,Data Scientist,25.000
+3818,Middle,Back-end Developer,11.000
+3819,Senior,Full Stack Developer,18.000
+3820,Middle,Front-end Developer,14.000
+3821,Middle,Back-end Developer,13.000
+3822,Middle,Front-end Developer,6.000
+3823,Junior,Full Stack Developer,5.000
+3824,Senior,Mobile Application Developer,29.000
+3825,Senior,Mobile Application Developer,34.000
+3826,Junior,Full Stack Developer,17.000
+3827,Senior,DevOps Engineer,20.000
+3828,Senior,Back-end Developer,20.000
+3829,Middle,Back-end Developer,8.000
+3830,Junior,Back-end Developer,7.000
+3831,Middle,Embedded Software Developer,16.000
+3832,Senior,Software Development Manager,27.000
+3833,Junior,Full Stack Developer,11.000
+3835,Senior,Data Scientist,20.000
+3836,Senior,Full Stack Developer,25.000
+3837,Junior,QA / Test Automation Developer,14.000
+3838,Junior,Front-end Developer,9.000
+3839,Senior,Software Development Manager,14.000
+3840,Senior,Full Stack Developer,20.000
+3842,Junior,Full Stack Developer,14.000
+3843,Senior,Data Analyst,20.000
+3844,Senior,Back-end Developer,23.000
+3845,Middle,Full Stack Developer,23.000
+3846,Senior,Back-end Developer,26.000
+3847,Senior,Mobile Application Developer,32.000
+3848,Middle,Full Stack Developer,6.000
+3849,Middle,Mobile Application Developer,8.000
+3850,Junior,DevOps Engineer,6.000
+3851,Middle,Full Stack Developer,14.000
+3852,Middle,Full Stack Developer,14.000
+3853,Senior,Mobile Application Developer,26.000
+3854,Junior,Data Scientist,5.000
+3855,Senior,Mobile Application Developer,21.000
+3856,Junior,RPA Developer,7.000
+3857,Middle,Full Stack Developer,13.000
+3858,Senior,Back-end Developer,15.000
+3859,Middle,Back-end Developer,14.000
+3860,Middle,Data Scientist,18.000
+3861,Senior,Back-end Developer,27.000
+3863,Junior,Mobile Application Developer,12.000
+3864,Junior,Mobile Application Developer,16.000
+3865,Junior,Mobile Application Developer,5.000
+3866,Senior,CTO,37.000
+3867,Middle,Back-end Developer,18.000
+3869,Junior,Back-end Developer,7.000
+3870,Senior,Software Development Manager,39.000
+3873,Senior,Software Architect,32.000
+3874,Senior,Back-end Developer,27.000
+3875,Junior,Full Stack Developer,5.000
+3877,Senior,Software Development Manager,28.000
+3878,Senior,Back-end Developer,15.000
+3879,Middle,Back-end Developer,13.000
+3880,Senior,Mobile Application Developer,27.000
+3881,Middle,Front-end Developer,8.000
+3882,Middle,Full Stack Developer,13.000
+3883,Junior,Front-end Developer,8.000
+3884,Senior,SysAdmin,24.000
+3886,Middle,Front-end Developer,16.000
+3887,Senior,Full Stack Developer,30.000
+3888,Senior,Full Stack Developer,17.000
+3889,Middle,Full Stack Developer,20.000
+3890,Junior,Game Developer,7.000
+3891,Senior,Back-end Developer,23.000
+3892,Middle,Back-end Developer,8.000
+3894,Middle,Back-end Developer,7.000
+3895,Middle,Embedded Software Developer,20.000
+3896,Senior,Team / Tech Lead,41.000
+3897,Middle,Front-end Developer,5.000
+3899,Middle,Full Stack Developer,8.000
+3900,Senior,Front-end Developer,20.000
+3901,Senior,Team / Tech Lead,19.000
+3902,Senior,Full Stack Developer,24.000
+3903,Senior,Back-end Developer,27.000
+3904,Middle,Back-end Developer,16.000
+3905,Middle,Data Scientist,17.000
+3906,Middle,Security,16.000
+3907,Junior,SAP/ABAP/ERP Developer,6.000
+3908,Junior,Full Stack Developer,5.000
+3909,Junior,Back-end Developer,8.000
+3910,Junior,Front-end Developer,6.000
+3911,Junior,Front-end Developer,6.000
+3912,Middle,Back-end Developer,11.000
+3913,Senior,Back-end Developer,22.000
+3914,Middle,Back-end Developer,12.000
+3916,Senior,Back-end Developer,21.000
+3918,Junior,Front-end Developer,5.000
+3920,Senior,Software Development Manager,43.000
+3921,Junior,Front-end Developer,7.000
+3922,Senior,Front-end Developer,20.000
+3923,Senior,Full Stack Developer,15.000
+3924,Junior,Back-end Developer,5.000
+3925,Senior,Full Stack Developer,22.000
+3926,Junior,Back-end Developer,11.000
+3927,Middle,Full Stack Developer,14.000
+3928,Junior,Full Stack Developer,8.000
+3929,Senior,Full Stack Developer,16.000
+3930,Middle,Game Developer,21.000
+3931,Middle,Full Stack Developer,13.000
+3933,Junior,Mobile Application Developer,12.000
+3934,Junior,Full Stack Developer,5.000
+3935,Middle,Back-end Developer,6.000
+3936,Senior,Back-end Developer,8.000
+3937,Middle,Full Stack Developer,5.000
+3938,Middle,Front-end Developer,15.000
+3939,Senior,Full Stack Developer,25.000
+3940,Senior,Team / Tech Lead,39.000
+3941,Senior,Team / Tech Lead,14.000
+3942,Junior,Front-end Developer,16.000
+3943,Senior,Data Engineer,21.000
+3944,Senior,Full Stack Developer,27.000
+3945,Senior,Full Stack Developer,27.000
+3946,Middle,Front-end Developer,12.000
+3947,Junior,Data Scientist,7.000
+3948,Senior,Front-end Developer,21.000
+3949,Junior,Full Stack Developer,8.000
+3950,Middle,Embedded Software Developer,9.000
+3951,Junior,Back-end Developer,10.000
+3952,Senior,Back-end Developer,22.000
+3953,Senior,Full Stack Developer,15.000
+3954,Junior,Back-end Developer,8.000
+3955,Middle,Full Stack Developer,11.000
+3956,Senior,Full Stack Developer,6.000
+3957,Middle,Full Stack Developer,11.000
+3960,Middle,Full Stack Developer,13.000
+3961,Middle,Full Stack Developer,12.000
+3962,Junior,Data Scientist,6.000
+3963,Senior,Software Development Manager,29.000
+3964,Junior,Full Stack Developer,9.000
+3965,Junior,Full Stack Developer,10.000
+3966,Senior,Software Development Manager,21.000
+3968,Middle,Front-end Developer,29.000
+3970,Senior,Full Stack Developer,24.000
+3974,Junior,Full Stack Developer,5.000
+3975,Senior,Mobile Application Developer,20.000
+3976,Middle,Full Stack Developer,7.000
+3977,Junior,Full Stack Developer,10.000
+3978,Senior,Full Stack Developer,44.000
+3979,Junior,QA / Test Automation Developer,6.000
+3980,Middle,Mobile Application Developer,10.000
+3981,Senior,Data Scientist,22.000
+3984,Junior,SAP/ABAP/ERP Developer,6.000
+3985,Middle,Game Developer,14.000
+3987,Junior,Back-end Developer,9.000
+3988,Senior,Software Architect,30.000
+3989,Junior,Full Stack Developer,5.000
+3990,Senior,Full Stack Developer,17.000
+3991,Junior,Front-end Developer,8.000
+3992,Junior,Full Stack Developer,10.000
+3993,Senior,Back-end Developer,18.000
+3994,Junior,Full Stack Developer,5.000
+3995,Middle,Full Stack Developer,20.000
+3996,Junior,Mobile Application Developer,8.000
+3997,Middle,Back-end Developer,11.000
+3998,Middle,Full Stack Developer,25.000
+3999,Junior,Full Stack Developer,7.000
+4000,Senior,Team / Tech Lead,40.000
+4001,Junior,Mobile Application Developer,7.000
+4002,Senior,Back-end Developer,14.000
+4004,Senior,Back-end Developer,17.000
+4005,Senior,Mobile Application Developer,28.000
+4006,Senior,Back-end Developer,12.000
+4007,Senior,Software Architect,38.000
+4008,Middle,QA / Test Automation Developer,11.000
+4009,Senior,Back-end Developer,30.000
+4010,Middle,Back-end Developer,13.000
+4011,Senior,Team / Tech Lead,28.000
+4012,Senior,Back-end Developer,17.000
+4013,Middle,Front-end Developer,17.000
+4014,Senior,Full Stack Developer,46.000
+4015,Senior,Team / Tech Lead,32.000
+4017,Junior,DevOps Engineer,8.000
+4018,Junior,Mobile Application Developer,7.000
+4019,Middle,Mobile Application Developer,14.000
+4020,Senior,Back-end Developer,20.000
+4022,Junior,Back-end Developer,6.000
+4024,Senior,DevOps Engineer,22.000
+4025,Senior,Team / Tech Lead,23.000
+4026,Middle,Front-end Developer,10.000
+4027,Senior,Back-end Developer,18.000
+4028,Junior,Game Developer,7.000
+4030,Middle,Full Stack Developer,8.000
+4031,Senior,Software Development Manager,43.000
+4032,Middle,Full Stack Developer,12.000
+4033,Middle,Full Stack Developer,11.000
+4034,Middle,Full Stack Developer,12.000
+4036,Middle,Back-end Developer,18.000
+4037,Junior,R&D Engineer,6.000
+4038,Junior,Front-end Developer,8.000
+4039,Senior,Back-end Developer,15.000
+4040,Senior,Team / Tech Lead,30.000
+4041,Middle,SAP/ABAP/ERP Developer,6.000
+4042,Middle,Back-end Developer,15.000
+4043,Junior,SAP/ABAP/ERP Developer,8.000
+4044,Junior,Back-end Developer,14.000
+4045,Senior,Back-end Developer,20.000
+4047,Junior,Mobile Application Developer,8.000
+4048,Middle,Back-end Developer,19.000
+4049,Middle,Full Stack Developer,12.000
+4050,Junior,Full Stack Developer,14.000
+4051,Senior,Full Stack Developer,10.000
+4052,Junior,Back-end Developer,5.000
+4053,Senior,Back-end Developer,16.000
+4055,Junior,Database Administrator,5.000
+4056,Senior,Back-end Developer,19.000
+4057,Junior,Full Stack Developer,12.000
+4058,Middle,Full Stack Developer,7.000
+4059,Senior,Back-end Developer,15.000
+4060,Junior,Front-end Developer,6.000
+4061,Senior,Team / Tech Lead,32.000
+4062,Senior,Back-end Developer,35.000
+4063,Senior,Software Development Manager,24.000
+4064,Middle,Full Stack Developer,15.000
+4065,Senior,Full Stack Developer,23.000
+4066,Senior,Software Architect,23.000
+4067,Middle,Full Stack Developer,21.000
+4068,Senior,Back-end Developer,21.000
+4070,Junior,Front-end Developer,7.000
+4072,Junior,Front-end Developer,5.000
+4073,Junior,Back-end Developer,8.000
+4074,Senior,Back-end Developer,28.000
+4075,Middle,Back-end Developer,7.000
+4076,Senior,CTO,40.000
+4077,Senior,Back-end Developer,25.000
+4078,Middle,QA / Test Automation Developer,15.000
+4079,Middle,Front-end Developer,16.000
+4080,Senior,Full Stack Developer,18.000
+4082,Senior,Team / Tech Lead,40.000
+4083,Junior,Back-end Developer,8.000
+4084,Middle,Back-end Developer,13.000
+4085,Senior,Team / Tech Lead,21.000
+4086,Junior,Front-end Developer,7.000
+4087,Middle,Mobile Application Developer,10.000
+4088,Senior,Software Development Manager,17.000
+4089,Junior,Back-end Developer,8.000
+4091,Middle,Full Stack Developer,15.000
+4092,Junior,Full Stack Developer,6.000
+4093,Senior,Back-end Developer,25.000
+4095,Middle,Front-end Developer,20.000
+4096,Middle,Back-end Developer,17.000
+4097,Senior,Back-end Developer,25.000
+4098,Senior,Front-end Developer,16.000
+4100,Junior,QA / Test Automation Developer,17.000
+4101,Middle,Back-end Developer,14.000
+4103,Junior,Back-end Developer,9.000
+4104,Senior,Team / Tech Lead,45.000
+4105,Junior,Embedded Software Developer,5.000
+4106,Middle,Mobile Application Developer,19.000
+4107,Senior,Front-end Developer,20.000
+4108,Junior,Full Stack Developer,9.000
+4109,Middle,Full Stack Developer,14.000
+4110,Senior,Back-end Developer,24.000
+4111,Middle,Full Stack Developer,20.000
+4112,Senior,Team / Tech Lead,22.000
+4113,Senior,Full Stack Developer,20.000
+4114,Senior,Back-end Developer,19.000
+4115,Middle,Back-end Developer,12.000
+4116,Middle,Full Stack Developer,16.000
+4117,Middle,Back-end Developer,15.000
+4118,Middle,Back-end Developer,19.000
+4119,Senior,Front-end Developer,26.000
+4120,Junior,Full Stack Developer,11.000
+4121,Senior,Software Development Manager,27.000
+4122,Middle,Front-end Developer,16.000
+4123,Junior,Business Analyst,6.000
+4124,Senior,Full Stack Developer,23.000
+4126,Senior,Full Stack Developer,18.000
+4127,Senior,Back-end Developer,29.000
+4128,Junior,Front-end Developer,5.000
+4129,Senior,Full Stack Developer,11.000
+4130,Senior,Embedded Software Developer,35.000
+4131,Senior,Full Stack Developer,28.000
+4132,Senior,Back-end Developer,28.000
+4133,Senior,Full Stack Developer,19.000
+4135,Junior,Back-end Developer,17.000
+4136,Middle,Back-end Developer,13.000
+4137,Middle,Full Stack Developer,18.000
+4138,Senior,Data Scientist,27.000
+4139,Middle,Full Stack Developer,15.000
+4140,Junior,Back-end Developer,14.000
+4141,Senior,Back-end Developer,18.000
+4142,Senior,Mobile Application Developer,25.000
+4143,Senior,Back-end Developer,29.000
+4144,Middle,Back-end Developer,11.000
+4145,Senior,Full Stack Developer,27.000
+4146,Senior,Front-end Developer,20.000
+4147,Senior,Mobile Application Developer,28.000
+4148,Senior,Software Architect,25.000
+4149,Junior,Full Stack Developer,6.000
+4151,Senior,Back-end Developer,20.000
+4152,Senior,Full Stack Developer,10.000
+4153,Senior,Full Stack Developer,24.000
+4155,Middle,Mobile Application Developer,15.000
+4156,Senior,Back-end Developer,20.000
+4157,Middle,Front-end Developer,19.000
+4158,Junior,Back-end Developer,5.000
+4159,Junior,Mobile Application Developer,8.000
+4160,Middle,Front-end Developer,13.000
+4161,Junior,Full Stack Developer,6.000
+4162,Junior,Full Stack Developer,11.000
+4164,Middle,SAP/ABAP/ERP Developer,11.000
+4165,Senior,Mobile Application Developer,24.000
+4166,Junior,Mobile Application Developer,10.000
+4167,Junior,Back-end Developer,10.000
+4168,Junior,Front-end Developer,6.000
+4170,Senior,Data Scientist,17.000
+4172,Senior,Team / Tech Lead,23.000
+4173,Junior,Back-end Developer,17.000
+4174,Senior,Back-end Developer,24.000
+4175,Senior,Full Stack Developer,15.000
+4176,Senior,Front-end Developer,16.000
+4177,Junior,Embedded Software Developer,10.000
+4178,Junior,Front-end Developer,5.000
+4179,Senior,Front-end Developer,23.000
+4180,Middle,Full Stack Developer,17.000
+4181,Senior,Full Stack Developer,20.000
+4182,Senior,Full Stack Developer,45.000
+4183,Senior,Full Stack Developer,19.000
+4184,Junior,Front-end Developer,5.000
+4185,Junior,Back-end Developer,18.000
+4186,Senior,Back-end Developer,50.000
+4187,Senior,Full Stack Developer,20.000
+4188,Middle,Full Stack Developer,20.000
+4189,Junior,Data Engineer,11.000
+4190,Senior,Full Stack Developer,25.000
+4191,Middle,Embedded Software Developer,21.000
+4193,Middle,Mobile Application Developer,17.000
+4194,Junior,Embedded Software Developer,6.000
+4195,Middle,Full Stack Developer,11.000
+4196,Senior,Full Stack Developer,24.000
+4197,Senior,Full Stack Developer,17.000
+4199,Junior,Machine Learning,7.000
+4200,Senior,Software Development Manager,45.000
+4201,Middle,Full Stack Developer,13.000
+4202,Senior,Back-end Developer,15.000
+4203,Junior,Full Stack Developer,7.000
+4204,Senior,Software Development Manager,12.000
+4205,Senior,Full Stack Developer,21.000
+4207,Middle,Full Stack Developer,18.000
+4208,Middle,Back-end Developer,24.000
+4209,Middle,DevOps Engineer,20.000
+4210,Middle,Full Stack Developer,15.000
+4211,Junior,Blockchain Developer,5.000
+4212,Middle,Back-end Developer,16.000
+4213,Junior,Back-end Developer,6.000
+4214,Senior,Full Stack Developer,16.000
+4217,Middle,Front-end Developer,22.000
+4218,Junior,Embedded Software Developer,9.000
+4219,Junior,Back-end Developer,7.000
+4220,Middle,Software Development Manager,11.000
+4221,Junior,Back-end Developer,7.000
+4222,Senior,Mobile Application Developer,19.000
+4223,Middle,Full Stack Developer,20.000
+4224,Senior,Software Development Manager,22.000
+4225,Senior,Back-end Developer,38.000
+4226,Middle,Back-end Developer,16.000
+4227,Junior,Front-end Developer,8.000
+4228,Middle,Back-end Developer,10.000
+4229,Senior,Full Stack Developer,9.000
+4230,Middle,Embedded Software Developer,14.000
+4231,Junior,Mobile Application Developer,5.000
+4232,Middle,Back-end Developer,14.000
+4233,Middle,Back-end Developer,14.000
+4234,Middle,Full Stack Developer,8.000
+4235,Junior,Back-end Developer,7.000
+4236,Middle,Full Stack Developer,8.000
+4237,Middle,Full Stack Developer,7.000
+4238,Junior,Back-end Developer,5.000
+4239,Senior,Full Stack Developer,8.000
+4240,Middle,DevOps Engineer,14.000
+4241,Senior,Back-end Developer,15.000
+4242,Junior,Front-end Developer,6.000
+4245,Middle,Back-end Developer,13.000
+4246,Junior,Mobile Application Developer,7.000
+4247,Middle,Mobile Application Developer,10.000
+4248,Middle,Front-end Developer,22.000
+4249,Senior,Full Stack Developer,27.000
+4250,Senior,Full Stack Developer,16.000
+4251,Senior,Back-end Developer,18.000
+4252,Junior,Back-end Developer,20.000
+4253,Junior,Back-end Developer,11.000
+4254,Middle,Back-end Developer,10.000
+4256,Senior,Back-end Developer,28.000
+4257,Junior,Mobile Application Developer,8.000
+4258,Middle,Full Stack Developer,11.000
+4259,Middle,Full Stack Developer,7.000
+4260,Middle,Back-end Developer,15.000
+4261,Middle,Full Stack Developer,17.000
+4262,Senior,Full Stack Developer,18.000
+4263,Junior,Front-end Developer,7.000
+4264,Senior,Front-end Developer,33.000
+4265,Junior,Mobile Application Developer,7.000
+4266,Middle,Full Stack Developer,5.000
+4267,Senior,Front-end Developer,15.000
+4268,Senior,Full Stack Developer,23.000
+4270,Junior,Mobile Application Developer,5.000
+4271,Senior,Mobile Application Developer,20.000
+4272,Middle,Team / Tech Lead,19.000
+4273,Senior,Software Architect,20.000
+4274,Senior,Full Stack Developer,21.000
+4275,Senior,Full Stack Developer,13.000
+4276,Middle,Full Stack Developer,9.000
+4277,Senior,Back-end Developer,21.000
+4278,Middle,Front-end Developer,8.000
+4280,Junior,Mobile Application Developer,7.000
+4282,Junior,Front-end Developer,6.000
+4283,Senior,Team / Tech Lead,40.000
+4284,Junior,QA / Test Automation Developer,6.000
+4285,Senior,Full Stack Developer,15.000
+4286,Middle,Front-end Developer,10.000
+4287,Junior,Back-end Developer,7.000
+4289,Junior,DevOps Engineer,13.000
+4290,Senior,QA / Test Automation Developer,15.000
+4291,Junior,Back-end Developer,5.000
+4292,Middle,Mobile Application Developer,6.000
+4293,Junior,Front-end Developer,8.000
+4294,Senior,Front-end Developer,5.000
+4295,Middle,Back-end Developer,12.000
+4296,Senior,Software Architect,26.000
+4297,Junior,Embedded Software Developer,10.000
+4298,Middle,Data Scientist,9.000
+4299,Junior,Back-end Developer,8.000
+4300,Middle,Full Stack Developer,12.000
+4301,Senior,Full Stack Developer,28.000
+4302,Junior,Back-end Developer,18.000
+4303,Junior,Mobile Application Developer,6.000
+4304,Senior,Back-end Developer,13.000
+4305,Junior,Front-end Developer,14.000
+4306,Middle,Front-end Developer,13.000
+4307,Junior,Full Stack Developer,15.000
+4308,Senior,Back-end Developer,23.000
+4309,Senior,Back-end Developer,30.000
+4310,Junior,Full Stack Developer,10.000
+4311,Middle,Mobile Application Developer,12.000
+4312,Senior,Embedded Software Developer,19.000
+4313,Junior,Front-end Developer,12.000
+4314,Middle,Back-end Developer,10.000
+4315,Middle,Back-end Developer,14.000
+4316,Senior,Back-end Developer,15.000
+4317,Senior,Team / Tech Lead,33.000
+4318,Middle,Back-end Developer,13.000
+4321,Middle,Mobile Application Developer,14.000
+4322,Junior,Back-end Developer,5.000
+4323,Junior,Mobile Application Developer,9.000
+4324,Junior,Back-end Developer,10.000
+4325,Middle,Team / Tech Lead,6.000
+4326,Senior,Team / Tech Lead,24.000
+4327,Senior,DevOps Engineer,22.000
+4328,Junior,Mobile Application Developer,9.000
+4329,Senior,Software Architect,27.000
+4330,Middle,Back-end Developer,9.000
+4332,Junior,Full Stack Developer,7.000
+4333,Middle,SAP/ABAP/ERP Developer,10.000
+4334,Junior,Embedded Software Developer,9.000
+4335,Junior,Game Developer,11.000
+4336,Middle,Back-end Developer,10.000
+4337,Senior,Software Development Manager,34.000
+4339,Senior,Back-end Developer,27.000
+4340,Middle,Back-end Developer,22.000
+4342,Middle,Game Developer,6.000
+4343,Senior,Full Stack Developer,5.000
+4344,Middle,Front-end Developer,8.000
+4345,Middle,Mobile Application Developer,8.000
+4346,Junior,Data Scientist,11.000
+4347,Senior,Back-end Developer,27.000
+4348,Senior,Team / Tech Lead,14.000
+4349,Middle,Embedded Software Developer,14.000
+4350,Middle,Full Stack Developer,19.000
+4351,Senior,Software Architect,32.000
+4352,Middle,Back-end Developer,15.000
+4353,Junior,Full Stack Developer,5.000
+4354,Senior,Data Scientist,18.000
+4355,Senior,Software Development Manager,50.000
+4356,Senior,Front-end Developer,28.000
+4357,Junior,Front-end Developer,50.000
+4358,Middle,Back-end Developer,12.000
+4359,Senior,Back-end Developer,33.000
+4360,Senior,Full Stack Developer,36.000
+4361,Junior,Mobile Application Developer,7.000
+4362,Middle,Back-end Developer,17.000
+4363,Middle,Full Stack Developer,10.000
+4364,Middle,Front-end Developer,20.000
+4365,Senior,Front-end Developer,40.000
+4367,Senior,Back-end Developer,17.000
+4368,Middle,Full Stack Developer,20.000
+4369,Senior,Team / Tech Lead,35.000
+4370,Middle,Back-end Developer,14.000
+4372,Middle,Back-end Developer,5.000
+4373,Junior,Full Stack Developer,8.000
+4374,Junior,Front-end Developer,5.000
+4375,Junior,Full Stack Developer,7.000
+4376,Junior,Full Stack Developer,5.000
+4377,Senior,Full Stack Developer,29.000
+4378,Middle,Front-end Developer,18.000
+4379,Middle,Full Stack Developer,23.000
+4380,Junior,Back-end Developer,6.000
+4381,Middle,Full Stack Developer,14.000
+4382,Senior,Data Scientist,8.000
+4383,Senior,Mobile Application Developer,25.000
+4384,Middle,Mobile Application Developer,16.000
+4385,Middle,Back-end Developer,6.000
+4387,Junior,Back-end Developer,7.000
+4388,Middle,Full Stack Developer,20.000
+4389,Senior,Software Development Manager,50.000
+4390,Junior,Embedded Software Developer,17.000
+4391,Middle,Full Stack Developer,10.000
+4392,Senior,Full Stack Developer,11.000
+4393,Senior,Software Development Manager,23.000
+4395,Senior,Full Stack Developer,5.000
+4396,Senior,Software Development Manager,30.000
+4397,Middle,Full Stack Developer,7.000
+4398,Senior,Software Development Manager,36.000
+4399,Middle,Full Stack Developer,13.000
+4400,Middle,Support Engineer,23.000
+4401,Senior,Back-end Developer,15.000
+4402,Middle,Front-end Developer,20.000
+4403,Middle,Embedded Software Developer,18.000
+4404,Senior,Team / Tech Lead,32.000
+4406,Junior,Back-end Developer,8.000
+4408,Middle,Back-end Developer,22.000
+4410,Senior,Mobile Application Developer,50.000
+4412,Middle,Front-end Developer,5.000
+4413,Senior,CTO,26.000
+4414,Senior,Back-end Developer,10.000
+4416,Middle,Back-end Developer,13.000
+4418,Senior,Back-end Developer,33.000
+4419,Junior,Full Stack Developer,12.000
+4420,Middle,Data Scientist,10.000
+4421,Senior,Back-end Developer,29.000
+4422,Junior,Embedded Software Developer,7.000
+4423,Middle,Full Stack Developer,16.000
+4424,Middle,Back-end Developer,26.000
+4425,Senior,Software Architect,31.000
+4426,Junior,Embedded Software Developer,6.000
+4427,Middle,Full Stack Developer,11.000
+4428,Middle,Full Stack Developer,13.000
+4429,Middle,Front-end Developer,12.000
+4430,Middle,Full Stack Developer,8.000
+4431,Middle,QA / Test Automation Developer,20.000
+4432,Senior,Back-end Developer,14.000
+4434,Junior,Front-end Developer,8.000
+4435,Senior,Back-end Developer,27.000
+4436,Middle,Mobile Application Developer,18.000
+4437,Middle,Full Stack Developer,11.000
+4438,Middle,Data Scientist,13.000
+4439,Middle,Embedded Software Developer,10.000
+4441,Middle,Full Stack Developer,11.000
+4442,Senior,Back-end Developer,21.000
+4443,Middle,Front-end Developer,15.000
+4444,Senior,Embedded Software Developer,26.000
+4445,Middle,Back-end Developer,7.000
+4446,Senior,Full Stack Developer,21.000
+4447,Middle,Front-end Developer,15.000
+4448,Senior,Back-end Developer,22.000
+4449,Senior,Software Development Manager,50.000
+4450,Senior,Team / Tech Lead,22.000
+4451,Senior,Back-end Developer,22.000
+4452,Senior,Full Stack Developer,30.000
+4453,Senior,Team / Tech Lead,37.000
+4454,Junior,Back-end Developer,8.000
+4456,Junior,Back-end Developer,11.000
+4457,Senior,Back-end Developer,24.000
+4458,Senior,Team / Tech Lead,20.000
+4459,Senior,SAP/ABAP/ERP Developer,25.000
+4460,Middle,Back-end Developer,26.000
+4461,Senior,Team / Tech Lead,22.000
+4462,Middle,Front-end Developer,9.000
+4463,Middle,Game Developer,13.000
+4464,Senior,Full Stack Developer,23.000
+4465,Middle,Front-end Developer,24.000
+4466,Senior,Data Scientist,25.000
+4467,Junior,Mobile Application Developer,10.000
+4468,Middle,Full Stack Developer,9.000
+4469,Junior,Full Stack Developer,7.000
+4470,Middle,Full Stack Developer,15.000
+4471,Junior,Game Developer,7.000
+4472,Senior,Software Architect,27.000
+4473,Senior,Back-end Developer,12.000
+4474,Senior,Mobile Application Developer,16.000
+4475,Middle,Mobile Application Developer,14.000
+4476,Middle,Full Stack Developer,16.000
+4477,Junior,Back-end Developer,5.000
+4478,Senior,Team / Tech Lead,18.000
+4479,Middle,Mobile Application Developer,12.000
+4480,Senior,Full Stack Developer,17.000
+4481,Senior,Full Stack Developer,19.000
+4482,Senior,Back-end Developer,18.000
+4484,Senior,Mobile Application Developer,26.000
+4485,Junior,Game Developer,5.000
+4486,Senior,Back-end Developer,10.000
+4487,Middle,Full Stack Developer,12.000
+4488,Senior,Back-end Developer,18.000
+4489,Middle,Back-end Developer,21.000
+4490,Middle,Full Stack Developer,14.000
+4491,Middle,Full Stack Developer,15.000
+4492,Senior,Back-end Developer,21.000
+4493,Middle,Full Stack Developer,7.000
+4494,Middle,Back-end Developer,19.000
+4495,Junior,Full Stack Developer,9.000
+4496,Junior,Mobile Application Developer,5.000
+4497,Senior,Full Stack Developer,47.000
+4498,Senior,Back-end Developer,27.000
+4500,Middle,Back-end Developer,20.000
+4502,Senior,Back-end Developer,27.000
+4503,Junior,Back-end Developer,7.000
+4504,Junior,Embedded Software Developer,6.000
+4505,Senior,Team / Tech Lead,26.000
+4506,Junior,Front-end Developer,9.000
+4507,Junior,Software Architect,9.000
+4508,Junior,Full Stack Developer,5.000
+4509,Middle,Front-end Developer,17.000
+4510,Middle,Embedded Software Developer,12.000
+4511,Junior,Full Stack Developer,9.000
+4512,Senior,Full Stack Developer,17.000
+4513,Junior,Embedded Software Developer,12.000
+4514,Junior,QA / Test Automation Developer,11.000
+4515,Junior,Front-end Developer,9.000
+4516,Senior,Software Architect,23.000
+4517,Senior,Back-end Developer,19.000
+4518,Senior,Mobile Application Developer,32.000
+4519,Senior,Back-end Developer,16.000
+4520,Senior,Back-end Developer,20.000
+4521,Senior,Team / Tech Lead,45.000
+4522,Senior,Software Development Manager,50.000
+4523,Middle,Back-end Developer,9.000
+4525,Middle,Back-end Developer,18.000
+4526,Senior,Back-end Developer,20.000
+4527,Junior,Full Stack Developer,8.000
+4528,Junior,Front-end Developer,13.000
+4529,Senior,Back-end Developer,17.000
+4530,Junior,Back-end Developer,15.000
+4531,Senior,Team / Tech Lead,37.000
+4533,Senior,DevOps Engineer,16.000
+4534,Junior,Full Stack Developer,12.000
+4535,Senior,Back-end Developer,32.000
+4536,Senior,Team / Tech Lead,15.000
+4537,Senior,Team / Tech Lead,26.000
+4538,Senior,Team / Tech Lead,16.000
+4539,Senior,Mobile Application Developer,18.000
+4540,Senior,Full Stack Developer,25.000
+4541,Junior,Full Stack Developer,20.000
+4542,Senior,Full Stack Developer,15.000
+4543,Senior,Full Stack Developer,7.000
+4545,Senior,Back-end Developer,25.000
+4546,Senior,Back-end Developer,16.000
+4547,Junior,Front-end Developer,14.000
+4548,Middle,Back-end Developer,12.000
+4549,Middle,Full Stack Developer,10.000
+4550,Senior,Mobile Application Developer,25.000
+4551,Junior,Data Scientist,11.000
+4552,Middle,Full Stack Developer,14.000
+4554,Senior,Mobile Application Developer,28.000
+4555,Senior,Team / Tech Lead,20.000
+4556,Senior,Full Stack Developer,16.000
+4557,Middle,Full Stack Developer,12.000
+4558,Middle,Front-end Developer,14.000
+4561,Senior,Front-end Developer,18.000
+4562,Middle,Full Stack Developer,19.000
+4563,Senior,Back-end Developer,22.000
+4564,Senior,Back-end Developer,23.000
+4566,Middle,Front-end Developer,5.000
+4567,Junior,Front-end Developer,13.000
+4568,Senior,Team / Tech Lead,20.000
+4569,Senior,DevOps Engineer,25.000
+4570,Middle,SAP/ABAP/ERP Developer,9.000
+4571,Middle,SAP/ABAP/ERP Developer,9.000
+4572,Senior,Game Developer,14.000
+4573,Senior,Full Stack Developer,22.000
+4575,Junior,Mobile Application Developer,11.000
+4576,Senior,Software Development Manager,36.000
+4577,Middle,Full Stack Developer,11.000
+4579,Middle,Front-end Developer,6.000
+4580,Senior,Full Stack Developer,21.000
+4581,Middle,Back-end Developer,7.000
+4582,Senior,Software Development Manager,33.000
+4583,Middle,Project & Product Manager / PO,8.000
+4584,Middle,Full Stack Developer,9.000
+4585,Middle,DevOps Engineer,17.000
+4586,Senior,Mobile Application Developer,21.000
+4587,Senior,Back-end Developer,25.000
+4588,Middle,Full Stack Developer,10.000
+4589,Middle,Back-end Developer,15.000
+4590,Middle,Back-end Developer,8.000
+4592,Senior,Full Stack Developer,18.000
+4593,Senior,Team / Tech Lead,15.000
+4594,Junior,Full Stack Developer,5.000
+4595,Junior,Back-end Developer,10.000
+4596,Middle,Front-end Developer,10.000
+4597,Junior,Full Stack Developer,5.000
+4598,Junior,Mobile Application Developer,14.000
+4600,Senior,Full Stack Developer,20.000
+4601,Middle,Back-end Developer,17.000
+4602,Senior,Back-end Developer,40.000
+4603,Middle,Front-end Developer,16.000
+4604,Middle,Mobile Application Developer,18.000
+4605,Senior,Full Stack Developer,14.000
+4606,Senior,Software Development Manager,35.000
+4608,Middle,Mobile Application Developer,11.000
+4609,Junior,Back-end Developer,9.000
+4610,Senior,Mobile Application Developer,19.000
+4611,Senior,Full Stack Developer,20.000
+4612,Middle,Back-end Developer,11.000
+4613,Middle,Back-end Developer,15.000
+4614,Senior,Full Stack Developer,14.000
+4615,Middle,Full Stack Developer,14.000
+4616,Middle,Back-end Developer,5.000
+4617,Middle,Full Stack Developer,9.000
+4618,Junior,Front-end Developer,6.000
+4619,Junior,Back-end Developer,5.000
+4620,Senior,Back-end Developer,18.000
+4621,Senior,Full Stack Developer,35.000
+4622,Senior,Full Stack Developer,15.000
+4623,Middle,Full Stack Developer,9.000
+4624,Middle,Back-end Developer,16.000
+4625,Senior,Back-end Developer,24.000
+4626,Senior,Back-end Developer,13.000
+4627,Middle,Full Stack Developer,13.000
+4628,Senior,Full Stack Developer,20.000
+4629,Senior,Back-end Developer,19.000
+4630,Senior,Front-end Developer,25.000
+4631,Senior,Team / Tech Lead,14.000
+4632,Middle,Full Stack Developer,14.000
+4633,Senior,Full Stack Developer,10.000
+4634,Middle,Full Stack Developer,10.000
+4636,Senior,Full Stack Developer,15.000
+4637,Junior,Mobile Application Developer,8.000
+4638,Junior,Back-end Developer,9.000
+4639,Senior,Back-end Developer,18.000
+4640,Junior,Full Stack Developer,5.000
+4641,Middle,Back-end Developer,10.000
+4642,Middle,Front-end Developer,16.000
+4643,Middle,Mobile Application Developer,20.000
+4644,Junior,Embedded Software Developer,5.000
+4645,Junior,Mobile Application Developer,10.000
+4646,Middle,Back-end Developer,12.000
+4648,Senior,Front-end Developer,20.000
+4649,Junior,Full Stack Developer,5.000
+4650,Middle,Full Stack Developer,12.000
+4651,Middle,Back-end Developer,17.000
+4652,Middle,Back-end Developer,5.000
+4653,Middle,R&D Engineer,15.000
+4654,Senior,Full Stack Developer,18.000
+4655,Middle,Embedded Software Developer,15.000
+4657,Senior,Team / Tech Lead,30.000
+4658,Senior,Full Stack Developer,18.000
+4659,Senior,Full Stack Developer,21.000
+4660,Junior,Data Scientist,7.000
+4661,Middle,Back-end Developer,11.000
+4662,Junior,Full Stack Developer,11.000
+4663,Middle,Front-end Developer,10.000
+4664,Middle,Full Stack Developer,10.000
+4665,Senior,Front-end Developer,14.000
+4666,Middle,Back-end Developer,11.000
+4667,Junior,Front-end Developer,8.000
+4668,Middle,Back-end Developer,12.000
+4669,Middle,Mobile Application Developer,28.000
+4670,Junior,Mobile Application Developer,6.000
+4672,Middle,Back-end Developer,20.000
+4674,Senior,Back-end Developer,32.000
+4677,Middle,Back-end Developer,18.000
+4678,Junior,Full Stack Developer,13.000
+4679,Middle,Mobile Application Developer,18.000
+4680,Senior,Software Architect,19.000
+4681,Senior,Full Stack Developer,25.000
+4682,Junior,Full Stack Developer,11.000
+4683,Senior,Back-end Developer,18.000
+4684,Middle,Embedded Software Developer,10.000
+4685,Junior,Full Stack Developer,6.000
+4686,Junior,Back-end Developer,6.000
+4687,Middle,QA / Test Automation Developer,14.000
+4688,Senior,Full Stack Developer,8.000
+4689,Middle,Front-end Developer,17.000
+4691,Senior,Software Development Manager,42.000
+4692,Junior,Back-end Developer,11.000
+4693,Senior,Back-end Developer,20.000
+4694,Middle,Full Stack Developer,10.000
+4695,Senior,Data Analyst,32.000
+4696,Middle,Front-end Developer,14.000
+4697,Senior,Software Development Manager,50.000
+4698,Junior,Mobile Application Developer,11.000
+4699,Middle,QA / Test Automation Developer,18.000
+4700,Senior,Full Stack Developer,12.000
+4701,Middle,Full Stack Developer,13.000
+4702,Senior,Full Stack Developer,16.000
+4703,Middle,Back-end Developer,12.000
+4704,Junior,Back-end Developer,10.000
+4705,Senior,Back-end Developer,18.000
+4706,Middle,Full Stack Developer,14.000
+4707,Senior,Full Stack Developer,17.000
+4709,Middle,Mobile Application Developer,18.000
+4710,Junior,Back-end Developer,6.000
+4711,Junior,Full Stack Developer,10.000
+4712,Junior,Front-end Developer,5.000
+4713,Junior,Mobile Application Developer,5.000
+4714,Middle,Data Scientist,17.000
+4716,Junior,Data Scientist,6.000
+4717,Junior,Data Scientist,6.000
+4718,Senior,Data Scientist,16.000
+4719,Middle,Mobile Application Developer,18.000
+4720,Senior,Mobile Application Developer,30.000
+4721,Junior,Data Analyst,9.000
+4722,Middle,Mobile Application Developer,18.000
+4723,Middle,Front-end Developer,12.000
+4724,Senior,Full Stack Developer,31.000
+4725,Junior,Mobile Application Developer,14.000
+4726,Senior,Embedded Software Developer,20.000
+4727,Middle,Full Stack Developer,20.000
+4729,Middle,QA / Test Automation Developer,11.000
+4730,Junior,Front-end Developer,5.000
+4732,Senior,Back-end Developer,40.000
+4733,Senior,Full Stack Developer,20.000
+4734,Middle,Business Analyst,7.000
+4735,Middle,Mobile Application Developer,10.000
+4736,Senior,Full Stack Developer,22.000
+4737,Middle,Full Stack Developer,11.000
+4738,Middle,Front-end Developer,14.000
+4740,Middle,Full Stack Developer,15.000
+4741,Middle,Full Stack Developer,10.000
+4742,Middle,Full Stack Developer,17.000
+4743,Middle,Full Stack Developer,10.000
+4744,Middle,Full Stack Developer,12.000
+4745,Middle,Full Stack Developer,9.000
+4746,Junior,Full Stack Developer,5.000
+4748,Senior,Back-end Developer,20.000
+4749,Middle,Embedded Software Developer,16.000
+4751,Junior,Back-end Developer,9.000
+4752,Middle,Full Stack Developer,15.000
+4753,Middle,Front-end Developer,12.000
+4754,Junior,Back-end Developer,12.000
+4755,Junior,Embedded Software Developer,11.000
+4756,Senior,Software Architect,29.000
+4758,Middle,Back-end Developer,20.000
+4759,Junior,Back-end Developer,12.000
+4761,Junior,Back-end Developer,10.000
+4762,Middle,Front-end Developer,5.000
+4763,Senior,Full Stack Developer,20.000
+4764,Senior,Front-end Developer,20.000
+4765,Junior,Back-end Developer,9.000
+4766,Senior,Software Development Manager,30.000
+4767,Junior,Embedded Software Developer,7.000
+4768,Junior,Data Scientist,5.000
+4769,Middle,Back-end Developer,19.000
+4770,Senior,Software Development Manager,14.000
+4771,Middle,Mobile Application Developer,12.000
+4772,Junior,Mobile Application Developer,10.000
+4773,Junior,Full Stack Developer,8.000
+4774,Middle,Software Development Manager,37.000
+4775,Senior,Front-end Developer,21.000
+4776,Middle,Back-end Developer,11.000
+4777,Junior,QA / Test Automation Developer,7.000
+4778,Senior,Front-end Developer,18.000
+4779,Middle,Game Developer,9.000
+4781,Junior,Back-end Developer,9.000
+4782,Senior,Full Stack Developer,22.000
+4785,Middle,Full Stack Developer,10.000
+4786,Senior,Front-end Developer,14.000
+4787,Senior,Full Stack Developer,15.000
+4788,Senior,Back-end Developer,17.000
+4789,Middle,Back-end Developer,15.000
+4790,Senior,Back-end Developer,27.000
+4791,Middle,Full Stack Developer,9.000
+4793,Senior,Full Stack Developer,22.000
+4794,Middle,Mobile Application Developer,14.000
+4795,Middle,Back-end Developer,17.000
+4796,Senior,Full Stack Developer,25.000
+4797,Senior,Full Stack Developer,15.000
+4799,Junior,Front-end Developer,10.000
+4800,Junior,Full Stack Developer,18.000
+4801,Junior,Back-end Developer,5.000
+4802,Junior,DevOps Engineer,10.000
+4803,Senior,Back-end Developer,22.000
+4804,Senior,Front-end Developer,18.000
+4805,Middle,Front-end Developer,5.000
+4808,Middle,Data Scientist,15.000
+4809,Middle,Full Stack Developer,15.000
+4810,Middle,Back-end Developer,13.000
+4811,Senior,Software Development Manager,27.000
+4812,Senior,Back-end Developer,17.000
+4813,Middle,Front-end Developer,17.000
+4814,Senior,Team / Tech Lead,15.000
+4816,Senior,Embedded Software Developer,33.000
+4817,Middle,Full Stack Developer,10.000
+4818,Junior,Embedded Software Developer,10.000
+4819,Middle,Data Scientist,12.000
+4820,Senior,Full Stack Developer,16.000
+4821,Middle,Full Stack Developer,11.000
+4824,Middle,Back-end Developer,18.000
+4825,Junior,Mobile Application Developer,5.000
+4826,Senior,Embedded Software Developer,19.000
+4827,Middle,Full Stack Developer,7.000
+4828,Senior,Full Stack Developer,24.000
+4829,Middle,Full Stack Developer,10.000
+4830,Junior,Full Stack Developer,9.000
+4831,Junior,Front-end Developer,6.000
+4832,Senior,Team / Tech Lead,22.000
+4833,Middle,Back-end Developer,17.000
+4834,Middle,Game Developer,20.000
+4835,Middle,Full Stack Developer,11.000
+4836,Senior,Back-end Developer,30.000
+4839,Middle,Back-end Developer,18.000
+4840,Middle,DevOps Engineer,6.000
+4842,Senior,Team / Tech Lead,33.000
+4843,Senior,Back-end Developer,15.000
+4844,Senior,Back-end Developer,21.000
+4845,Middle,Back-end Developer,12.000
+4846,Middle,Full Stack Developer,17.000
+4847,Middle,Back-end Developer,17.000
+4848,Junior,Back-end Developer,9.000
+4849,Middle,Full Stack Developer,12.000
+4850,Junior,Back-end Developer,7.000
+4851,Middle,Full Stack Developer,12.000
+4852,Middle,Back-end Developer,15.000
+4853,Senior,Game Developer,26.000
+4854,Middle,Full Stack Developer,9.000
+4855,Junior,Game Developer,12.000
+4856,Middle,Mobile Application Developer,11.000
+4857,Middle,DevOps Engineer,10.000
+4858,Middle,Front-end Developer,10.000
+4859,Middle,QA / Test Automation Developer,12.000
+4860,Junior,Database Administrator,10.000
+4861,Senior,Full Stack Developer,19.000
+4864,Senior,Back-end Developer,17.000
+4865,Middle,Full Stack Developer,17.000
+4867,Senior,Front-end Developer,16.000
+4868,Middle,Back-end Developer,12.000
+4870,Middle,Back-end Developer,12.000
+4871,Junior,Back-end Developer,5.000
+4872,Middle,Back-end Developer,16.000
+4873,Junior,Embedded Software Developer,10.000
+4874,Middle,Front-end Developer,22.000
+4875,Senior,Full Stack Developer,20.000
+4876,Senior,Front-end Developer,5.000
+4877,Senior,Full Stack Developer,14.000
+4878,Middle,Front-end Developer,6.000
+4879,Senior,Team / Tech Lead,15.000
+4880,Junior,Full Stack Developer,8.000
+4881,Middle,Full Stack Developer,11.000
+4882,Senior,Software Development Manager,23.000
+4883,Junior,Front-end Developer,15.000
+4884,Middle,Mobile Application Developer,13.000
+4885,Senior,Software Development Manager,19.000
+4886,Senior,Full Stack Developer,8.000
+4887,Middle,Full Stack Developer,6.000
+4888,Senior,Full Stack Developer,12.000
+4890,Junior,Game Developer,8.000
+4891,Middle,Team / Tech Lead,9.000
+4892,Senior,Back-end Developer,6.000
+4893,Senior,Team / Tech Lead,18.000
+4894,Middle,Full Stack Developer,16.000
+4896,Junior,Back-end Developer,10.000
+4897,Senior,Back-end Developer,20.000
+4898,Senior,Embedded Software Developer,25.000
+4899,Senior,Full Stack Developer,18.000
+4900,Junior,Full Stack Developer,5.000
+4901,Middle,Data Scientist,49.000
+4902,Junior,Embedded Software Developer,6.000
+4903,Junior,Front-end Developer,5.000
+4904,Senior,Software Architect,21.000
+4905,Senior,Mobile Application Developer,30.000
+4906,Junior,Full Stack Developer,7.000
+4907,Junior,Back-end Developer,5.000
+4908,Senior,Software Architect,23.000
+4909,Senior,Back-end Developer,28.000
+4910,Junior,DevOps Engineer,5.000
+4911,Junior,DevOps Engineer,10.000
+4912,Middle,Back-end Developer,22.000
+4913,Middle,Back-end Developer,11.000
+4914,Junior,Back-end Developer,5.000
+4915,Middle,Data Engineer,14.000
+4916,Senior,Team / Tech Lead,10.000
+4917,Senior,Data Scientist,34.000
+4919,Junior,Full Stack Developer,9.000
+4920,Senior,Back-end Developer,24.000
+4921,Junior,Back-end Developer,13.000
+4923,Senior,Team / Tech Lead,38.000
+4924,Senior,Full Stack Developer,11.000
+4925,Middle,Mobile Application Developer,20.000
+4927,Middle,Full Stack Developer,5.000
+4928,Senior,Team / Tech Lead,30.000
+4929,Middle,Full Stack Developer,20.000
+4930,Middle,Full Stack Developer,12.000
+4931,Senior,Team / Tech Lead,25.000
+4932,Middle,Full Stack Developer,13.000
+4933,Middle,Back-end Developer,12.000
+4934,Junior,Back-end Developer,8.000
+4935,Senior,Back-end Developer,26.000
+4938,Senior,Full Stack Developer,16.000
+4940,Senior,Back-end Developer,25.000
+4941,Senior,Database Administrator,19.000
+4942,Senior,Full Stack Developer,25.000
+4943,Senior,Team / Tech Lead,36.000
+4944,Junior,Full Stack Developer,7.000
+4945,Middle,DevOps Engineer,18.000
+4946,Senior,Team / Tech Lead,33.000
+4949,Junior,Full Stack Developer,18.000
+4950,Senior,CTO,50.000
+4951,Middle,Front-end Developer,9.000
+4952,Junior,Back-end Developer,16.000
+4953,Senior,Software Development Manager,21.000
+4954,Senior,Full Stack Developer,20.000
+4955,Senior,Back-end Developer,21.000
+4956,Middle,Full Stack Developer,13.000
+4958,Senior,Full Stack Developer,17.000
+4959,Senior,CTO,47.000
+4960,Senior,Mobile Application Developer,27.000
+4961,Middle,Mobile Application Developer,9.000
+4962,Senior,Full Stack Developer,45.000
+4963,Junior,Front-end Developer,5.000
+4964,Senior,Back-end Developer,11.000
+4965,Senior,Software Architect,18.000
+4966,Junior,QA / Test Automation Developer,7.000
+4967,Middle,Mobile Application Developer,15.000
+4968,Middle,Back-end Developer,15.000
+4969,Middle,Full Stack Developer,9.000
+4971,Senior,Full Stack Developer,16.000
+4972,Junior,Mobile Application Developer,12.000
+4974,Middle,Back-end Developer,18.000
+4975,Senior,Back-end Developer,21.000
+4976,Middle,Front-end Developer,10.000
+4977,Middle,Front-end Developer,10.000
+4979,Middle,Back-end Developer,15.000
+4981,Senior,Front-end Developer,23.000
+4982,Senior,Full Stack Developer,18.000
+4983,Middle,Full Stack Developer,20.000
+4984,Middle,Back-end Developer,15.000
+4985,Senior,Full Stack Developer,29.000
+4986,Junior,Full Stack Developer,10.000
+4987,Senior,Back-end Developer,25.000
+4988,Senior,Full Stack Developer,30.000
+4989,Junior,Front-end Developer,16.000
+4990,Senior,Front-end Developer,19.000
+4991,Junior,Full Stack Developer,7.000
+4992,Senior,Back-end Developer,22.000
+4993,Senior,Back-end Developer,18.000
+4994,Senior,Mobile Application Developer,23.000
+4995,Junior,Front-end Developer,10.000
+4996,Middle,Back-end Developer,11.000
+4998,Middle,Mobile Application Developer,11.000
+4999,Senior,Back-end Developer,38.000
+5001,Middle,Back-end Developer,10.000
+5002,Middle,Front-end Developer,16.000
+5003,Senior,Full Stack Developer,15.000
+5004,Senior,Software Architect,20.000
+5005,Junior,Back-end Developer,8.000
+5006,Senior,Full Stack Developer,30.000
+5007,Senior,Back-end Developer,30.000
+5009,Senior,Mobile Application Developer,19.000
+5010,Junior,Front-end Developer,14.000
+5011,Junior,Full Stack Developer,6.000
+5012,Junior,Full Stack Developer,6.000
+5013,Middle,Data Scientist,14.000
+5014,Middle,Data Scientist,19.000
+5015,Junior,Full Stack Developer,6.000
+5016,Senior,Mobile Application Developer,17.000
+5017,Junior,Mobile Application Developer,7.000
+5018,Senior,Full Stack Developer,15.000
+5019,Senior,Team / Tech Lead,32.000
+5020,Middle,Full Stack Developer,9.000
+5022,Junior,DevOps Engineer,11.000
+5023,Senior,Team / Tech Lead,25.000
+5025,Junior,Back-end Developer,8.000
+5026,Junior,Mobile Application Developer,10.000
+5027,Junior,Back-end Developer,8.000
+5028,Senior,Full Stack Developer,25.000
+5029,Junior,Front-end Developer,11.000
